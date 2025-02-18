@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.1" created="2025-01-03 10:35" -->
+	<!-- generator="WordPress/6.7.2" created="2025-02-18 08:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Mow</title>
 	<link>https://frenify.com/work/envato/frenify/wp/mow/gadgets</link>
 	<description>Blog &#38; Magazine WordPress Theme</description>
-	<pubDate>Fri, 03 Jan 2025 10:35:28 +0000</pubDate>
+	<pubDate>Tue, 18 Feb 2025 08:43:34 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://frenify.com/work/envato/frenify/wp/mow/gadgets</wp:base_site_url>
@@ -378,7 +378,7 @@
 	<wp:term><wp:term_id>53</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[offcanvas-menu]]></wp:term_slug><wp:term_name><![CDATA[Offcanvas Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 		<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
@@ -6726,6 +6726,14 @@
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[[{"id":"1733e10","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"flex_direction_tablet":"column"},"elements":[{"id":"24df7f2","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":60},"padding":{"unit":"px","top":"0","right":"25","bottom":"0","left":"0","isLinked":false},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7cdfee9","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"145\" title=\"Contact form 1\"]","_margin":{"unit":"px","top":"0","right":"0","bottom":"45","left":"0","isLinked":false}},"elements":[],"widgetType":"shortcode"},{"id":"2b754ae","elType":"widget","settings":{"editor":"<p>In case you prefer to contact us through other means, you can also find our phone number and mailing address listed below. We strive to provide exceptional customer service and ensure that your experience with us is seamless.<\/p>\n<p>\u00a0<\/p>\n<p>Thank you for choosing us as your trusted resource. We look forward to hearing from you!<\/p>\n<p>\u00a0<\/p>\n<p><strong>Phone: <\/strong><\/p>\n<p>General Inquiries: (555) 123-4567<\/p>\n<p>Project Management Office: (555) 987-6543<\/p>\n<p>Customer Support: (555) 234-5678<\/p>\n<p>Emergency Line: (555) 876-5432<\/p>\n<p>Services Hotline: (555) 345-6789<\/p>\n<p>\u00a0<\/p>\n<p><strong>Email: <\/strong><\/p>\n<p>General Inquiries: info@examplemosh.com<\/p>\n<p>Estimates: projects@samplemosh.com<\/p>\n<p>Careers: support@moshexperts.net<\/p>\n<p>\u00a0<\/p>\n<p>Please note that our office hours are [Insert Office Hours]. While we endeavor to respond to all inquiries promptly, there may be slight delays during weekends and holidays.<\/p>","text_color":"#000000","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"cc6f913","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"25","isLinked":false},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"ceb6a85","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":348,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":1,"blur":3,"spread":0,"color":"rgba(0, 0, 0, 0.15)"}},"elements":[],"widgetType":"google_maps"},{"id":"b019fd6","elType":"widget","settings":{"image":{"id":945,"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/gadgets\/wp-content\/uploads\/2024\/12\/health.jpg"},"image_size":"full","image_border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_box_shadow_box_shadow_type":"yes","image_box_shadow_box_shadow":{"horizontal":0,"vertical":1,"blur":3,"spread":0,"color":"rgba(0, 0, 0, 0.15)"},"_margin":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:6:"styles";a:3:{i:0;s:18:"widget-text-editor";i:1;s:18:"widget-google_maps";i:2;s:12:"widget-image";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"timeout":1739932967,"value":{"content":"<div class=\"elementor-element elementor-element-1733e10 e-con-full e-flex e-con e-parent\" data-id=\"1733e10\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-24df7f2 e-con-full e-flex e-con e-child\" data-id=\"24df7f2\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjdjZGZlZTkiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG9ydGNvZGUiOiJbY29udGFjdC1mb3JtLTcgaWQ9XCIxNDVcIiB0aXRsZT1cIkNvbnRhY3QgZm9ybSAxXCJdIiwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiNDUiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJzaG9ydGNvZGUifQ==\"][elementor-element data=\"eyJpZCI6IjJiNzU0YWUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJlZGl0b3IiOiI8cD5JbiBjYXNlIHlvdSBwcmVmZXIgdG8gY29udGFjdCB1cyB0aHJvdWdoIG90aGVyIG1lYW5zLCB5b3UgY2FuIGFsc28gZmluZCBvdXIgcGhvbmUgbnVtYmVyIGFuZCBtYWlsaW5nIGFkZHJlc3MgbGlzdGVkIGJlbG93LiBXZSBzdHJpdmUgdG8gcHJvdmlkZSBleGNlcHRpb25hbCBjdXN0b21lciBzZXJ2aWNlIGFuZCBlbnN1cmUgdGhhdCB5b3VyIGV4cGVyaWVuY2Ugd2l0aCB1cyBpcyBzZWFtbGVzcy48XC9wPlxuPHA+XHUwMGEwPFwvcD5cbjxwPlRoYW5rIHlvdSBmb3IgY2hvb3NpbmcgdXMgYXMgeW91ciB0cnVzdGVkIHJlc291cmNlLiBXZSBsb29rIGZvcndhcmQgdG8gaGVhcmluZyBmcm9tIHlvdSE8XC9wPlxuPHA+XHUwMGEwPFwvcD5cbjxwPjxzdHJvbmc+UGhvbmU6IDxcL3N0cm9uZz48XC9wPlxuPHA+R2VuZXJhbCBJbnF1aXJpZXM6ICg1NTUpIDEyMy00NTY3PFwvcD5cbjxwPlByb2plY3QgTWFuYWdlbWVudCBPZmZpY2U6ICg1NTUpIDk4Ny02NTQzPFwvcD5cbjxwPkN1c3RvbWVyIFN1cHBvcnQ6ICg1NTUpIDIzNC01Njc4PFwvcD5cbjxwPkVtZXJnZW5jeSBMaW5lOiAoNTU1KSA4NzYtNTQzMjxcL3A+XG48cD5TZXJ2aWNlcyBIb3RsaW5lOiAoNTU1KSAzNDUtNjc4OTxcL3A+XG48cD5cdTAwYTA8XC9wPlxuPHA+PHN0cm9uZz5FbWFpbDogPFwvc3Ryb25nPjxcL3A+XG48cD5HZW5lcmFsIElucXVpcmllczogaW5mb0BleGFtcGxlbW9zaC5jb208XC9wPlxuPHA+RXN0aW1hdGVzOiBwcm9qZWN0c0BzYW1wbGVtb3NoLmNvbTxcL3A+XG48cD5DYXJlZXJzOiBzdXBwb3J0QG1vc2hleHBlcnRzLm5ldDxcL3A+XG48cD5cdTAwYTA8XC9wPlxuPHA+UGxlYXNlIG5vdGUgdGhhdCBvdXIgb2ZmaWNlIGhvdXJzIGFyZSBbSW5zZXJ0IE9mZmljZSBIb3Vyc10uIFdoaWxlIHdlIGVuZGVhdm9yIHRvIHJlc3BvbmQgdG8gYWxsIGlucXVpcmllcyBwcm9tcHRseSwgdGhlcmUgbWF5IGJlIHNsaWdodCBkZWxheXMgZHVyaW5nIHdlZWtlbmRzIGFuZCBob2xpZGF5cy48XC9wPiIsInRleHRfY29sb3IiOiIjMDAwMDAwIiwidHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidHlwb2dyYXBoeV9mb250X2ZhbWlseSI6IldvcmsgU2FucyIsInR5cG9ncmFwaHlfZm9udF9zaXplIjp7InVuaXQiOiJweCIsInNpemUiOjE4LCJzaXplcyI6W119LCJ0eXBvZ3JhcGh5X2ZvbnRfd2VpZ2h0IjoiNDAwIiwidHlwb2dyYXBoeV9saW5lX2hlaWdodCI6eyJ1bml0IjoicHgiLCJzaXplIjoyNCwic2l6ZXMiOltdfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6InRleHQtZWRpdG9yIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-cc6f913 e-con-full e-flex e-con e-child\" data-id=\"cc6f913\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-ceb6a85 elementor-widget elementor-widget-google_maps\" data-id=\"ceb6a85\" data-element_type=\"widget\" data-widget_type=\"google_maps.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-custom-embed\">\n\t\t\t<iframe loading=\"lazy\"\n\t\t\t\t\tsrc=\"https:\/\/maps.google.com\/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&#038;t=m&#038;z=10&#038;output=embed&#038;iwloc=near\"\n\t\t\t\t\ttitle=\"London Eye, London, United Kingdom\"\n\t\t\t\t\taria-label=\"London Eye, London, United Kingdom\"\n\t\t\t><\/iframe>\n\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-b019fd6 elementor-widget elementor-widget-image\" data-id=\"b019fd6\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"1280\" height=\"853\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/gadgets\/wp-content\/uploads\/2024\/12\/health.jpg\" class=\"attachment-full size-full wp-image-945\" alt=\"\" srcset=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/gadgets\/wp-content\/uploads\/2024\/12\/health.jpg 1280w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/gadgets\/wp-content\/uploads\/2024\/12\/health-300x200.jpg 300w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/gadgets\/wp-content\/uploads\/2024\/12\/health-1024x682.jpg 1024w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/gadgets\/wp-content\/uploads\/2024\/12\/health-768x512.jpg 768w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/gadgets\/wp-content\/uploads\/2024\/12\/health-600x400.jpg 600w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Hot Posts]]></title>
@@ -6882,7 +6890,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"timeout":1735986831,"value":{"content":"<div class=\"elementor-element elementor-element-6aab0887 e-con-full container e-flex e-con e-parent\" data-id=\"6aab0887\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjQ0YWFiMzdmIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJsYXlvdXQiOiJmc2xpZGVyIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIzMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiYmxvZ19wb3N0X29mZnNldCI6MiwiZXBzaWxvbl9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MC45NTcsInNpemVzIjpbXX0sImVwc2lsb25fdGl0bGVfc2l6ZSI6ImwiLCJzaG93X2NvbnRhaW5lciI6InllcyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"][elementor-element data=\"eyJpZCI6IjE5MjE4NmE5IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMzAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWRpdmlkZXIifQ==\"][elementor-element data=\"eyJpZCI6IjQ0MWRiYzY2IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsibGF5b3V0Ijoic21hbGxfbWFycXVlZSIsInR5cGUiOiJ0YWdzIiwicHJlZml4IjoiIyIsImN1c3RvbV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiOTUiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImxpc3RfMl9vcl90ZXh0IjoiT3IuLi4iLCJsaXN0XzJfbGlua190ZXh0IjoiU2VlIHRoZW0gQWxsIiwibGlzdF8yX2xpbmtfdXJsIjoiIyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWNhdGVnb3JpZXMifQ==\"][elementor-element data=\"eyJpZCI6IjVlODBkMTg5IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJ0aXRsZSI6IlRyZW5kaW5nIE5ld3MiLCJtYXJxdWVlX2xpc3QiOltdLCJzaG93X2NvbnRhaW5lciI6InllcyIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjIxIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-1d3a4623 e-con-full container e-flex e-con e-parent\" data-id=\"1d3a4623\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-7d69adc7 e-con-full e-flex e-con e-child\" data-id=\"7d69adc7\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjZiNWEwYzBkIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6MSwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIzMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiYmxvZ19wb3N0X29mZnNldCI6IiIsImRlbHRhX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjoxLjMsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"][elementor-element data=\"eyJpZCI6IjUzNjEwYjdjIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6MSwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4zLCJzaXplcyI6W119fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-3c3d6171 e-con-full e-flex e-con e-child\" data-id=\"3c3d6171\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjY5Y2VmMjI5IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJsYXlvdXQiOiJlcHNpbG9uIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjoyLCJlcHNpbG9uX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjowLjk1Nywic2l6ZXMiOltdfSwiZXBzaWxvbl90aXRsZV9zaXplIjoibCJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-34560ab9 e-con-full e-flex e-con e-child\" data-id=\"34560ab9\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjQ4YzBhOGZiIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsiaWQiOjkzMCwidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL2dhZGdldHNcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzExXC8zMDBhZHMtMzAwLmpwZyIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkiLCJzaXplIjoiIn0sInR5cGVfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC8iLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIzMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtYWQifQ==\"][elementor-element data=\"eyJpZCI6IjI1NDFmZWE0IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6MSwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0Ijo0LCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4zLCJzaXplcyI6W119fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-5aadcb1b e-con-full e-flex e-con e-parent\" data-id=\"5aadcb1b\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjU1NzAzNGQ3IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsic2hvd19jb250YWluZXIiOiJ5ZXMiLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiI1MCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtZGl2aWRlciJ9\"][elementor-element data=\"eyJpZCI6ImUyZWY3ZmQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNob3dfY29udGFpbmVyIjoieWVzIiwic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsiaWQiOjkzMiwidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL2dhZGdldHNcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzExXC85NzBhZHMtMjUwLmpwZyIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkiLCJzaXplIjoiIn0sInR5cGVfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC8iLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiI1MCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtYWQifQ==\"][elementor-element data=\"eyJpZCI6IjYxYzNlNjNiIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsic2hvd19jb250YWluZXIiOiJ5ZXMiLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiI0NSIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtZGl2aWRlciJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-369c9fd9 e-con-full e-flex e-con e-parent\" data-id=\"369c9fd9\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjFmNjgxNjE0IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJ0aXRsZSI6IlRyZW5kaW5nIE5ld3MiLCJtYXJxdWVlX2xpc3QiOlt7Il9pZCI6IjA0NjEzN2EiLCJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6IjIwYWZkZGYifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6ImNmZjRjMjAifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6ImFlNWMzYTEifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6IjY0NTgxNDUifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6ImMzNTE3NGQifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6IjhmMGZkYjcifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6IjIwNmU2YjIifV0sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImxheW91dCI6Im1hcnF1ZWUiLCJjdXN0b21fY29sb3IiOiJ5ZXMiLCJtYXJxdWVlX2NvbG9yIjoiI0ZGNjYwMCJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"][elementor-element data=\"eyJpZCI6IjFmYjZiZjU2IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJsYXlvdXQiOiJkZWx0YSIsImRlbHRhX2xheW91dCI6ImNvbHVtbiIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6NCwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJzaG93X2NvbnRhaW5lciI6InllcyIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiLTI5IiwicmlnaHQiOiIwIiwiYm90dG9tIjoiNTAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImRlbHRhX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjowLjcsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"][elementor-element data=\"eyJpZCI6IjFkNmE2ODc1IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsic2hvd19jb250YWluZXIiOiJ5ZXMiLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIxMDAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWRpdmlkZXIifQ==\"]\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[{"timeout":1739944387,"value":{"content":"<div class=\"elementor-element elementor-element-6aab0887 e-con-full container e-flex e-con e-parent\" data-id=\"6aab0887\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjQ0YWFiMzdmIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJsYXlvdXQiOiJmc2xpZGVyIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIzMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiYmxvZ19wb3N0X29mZnNldCI6MiwiZXBzaWxvbl9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MC45NTcsInNpemVzIjpbXX0sImVwc2lsb25fdGl0bGVfc2l6ZSI6ImwiLCJzaG93X2NvbnRhaW5lciI6InllcyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"][elementor-element data=\"eyJpZCI6IjE5MjE4NmE5IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMzAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWRpdmlkZXIifQ==\"][elementor-element data=\"eyJpZCI6IjQ0MWRiYzY2IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsibGF5b3V0Ijoic21hbGxfbWFycXVlZSIsInR5cGUiOiJ0YWdzIiwicHJlZml4IjoiIyIsImN1c3RvbV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiOTUiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImxpc3RfMl9vcl90ZXh0IjoiT3IuLi4iLCJsaXN0XzJfbGlua190ZXh0IjoiU2VlIHRoZW0gQWxsIiwibGlzdF8yX2xpbmtfdXJsIjoiIyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWNhdGVnb3JpZXMifQ==\"][elementor-element data=\"eyJpZCI6IjVlODBkMTg5IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJ0aXRsZSI6IlRyZW5kaW5nIE5ld3MiLCJtYXJxdWVlX2xpc3QiOltdLCJzaG93X2NvbnRhaW5lciI6InllcyIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjIxIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-1d3a4623 e-con-full container e-flex e-con e-parent\" data-id=\"1d3a4623\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-7d69adc7 e-con-full e-flex e-con e-child\" data-id=\"7d69adc7\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjZiNWEwYzBkIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6MSwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIzMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiYmxvZ19wb3N0X29mZnNldCI6IiIsImRlbHRhX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjoxLjMsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"][elementor-element data=\"eyJpZCI6IjUzNjEwYjdjIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6MSwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4zLCJzaXplcyI6W119fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-3c3d6171 e-con-full e-flex e-con e-child\" data-id=\"3c3d6171\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjY5Y2VmMjI5IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJsYXlvdXQiOiJlcHNpbG9uIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjoyLCJlcHNpbG9uX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjowLjk1Nywic2l6ZXMiOltdfSwiZXBzaWxvbl90aXRsZV9zaXplIjoibCJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-34560ab9 e-con-full e-flex e-con e-child\" data-id=\"34560ab9\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjQ4YzBhOGZiIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsiaWQiOjkzMCwidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL2dhZGdldHNcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzExXC8zMDBhZHMtMzAwLmpwZyIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkiLCJzaXplIjoiIn0sInR5cGVfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC8iLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIzMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtYWQifQ==\"][elementor-element data=\"eyJpZCI6IjI1NDFmZWE0IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6MSwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0Ijo0LCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4zLCJzaXplcyI6W119fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-5aadcb1b e-con-full e-flex e-con e-parent\" data-id=\"5aadcb1b\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjU1NzAzNGQ3IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsic2hvd19jb250YWluZXIiOiJ5ZXMiLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiI1MCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtZGl2aWRlciJ9\"][elementor-element data=\"eyJpZCI6ImUyZWY3ZmQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNob3dfY29udGFpbmVyIjoieWVzIiwic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsiaWQiOjkzMiwidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL2dhZGdldHNcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzExXC85NzBhZHMtMjUwLmpwZyIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkiLCJzaXplIjoiIn0sInR5cGVfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC8iLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiI1MCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtYWQifQ==\"][elementor-element data=\"eyJpZCI6IjYxYzNlNjNiIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsic2hvd19jb250YWluZXIiOiJ5ZXMiLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiI0NSIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtZGl2aWRlciJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-369c9fd9 e-con-full e-flex e-con e-parent\" data-id=\"369c9fd9\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjFmNjgxNjE0IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJ0aXRsZSI6IlRyZW5kaW5nIE5ld3MiLCJtYXJxdWVlX2xpc3QiOlt7Il9pZCI6IjA0NjEzN2EiLCJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6IjIwYWZkZGYifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6ImNmZjRjMjAifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6ImFlNWMzYTEifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6IjY0NTgxNDUifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6ImMzNTE3NGQifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6IjhmMGZkYjcifSx7Im1hcnF1ZWVfdGl0bGUiOiJGZWF0dXJlZCIsIl9pZCI6IjIwNmU2YjIifV0sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImxheW91dCI6Im1hcnF1ZWUiLCJjdXN0b21fY29sb3IiOiJ5ZXMiLCJtYXJxdWVlX2NvbG9yIjoiI0ZGNjYwMCJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"][elementor-element data=\"eyJpZCI6IjFmYjZiZjU2IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsiY29udGVudF93aWR0aCI6ImZ1bGwiLCJsYXlvdXQiOiJkZWx0YSIsImRlbHRhX2xheW91dCI6ImNvbHVtbiIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6NCwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJzaG93X2NvbnRhaW5lciI6InllcyIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiLTI5IiwicmlnaHQiOiIwIiwiYm90dG9tIjoiNTAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImRlbHRhX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjowLjcsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"][elementor-element data=\"eyJpZCI6IjFkNmE2ODc1IiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsic2hvd19jb250YWluZXIiOiJ5ZXMiLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIxMDAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWRpdmlkZXIifQ==\"]\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7951,7 +7959,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[52]]></wp:meta_value>
+		<wp:meta_value><![CDATA[81]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8220,7 +8228,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[47]]></wp:meta_value>
+		<wp:meta_value><![CDATA[94]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8496,7 +8504,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		<wp:meta_value><![CDATA[72]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8520,7 +8528,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
@@ -8761,7 +8769,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[69]]></wp:meta_value>
+		<wp:meta_value><![CDATA[141]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8805,7 +8813,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_silly]]></wp:meta_key>
@@ -9035,7 +9043,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		<wp:meta_value><![CDATA[79]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -9305,7 +9313,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[59]]></wp:meta_value>
+		<wp:meta_value><![CDATA[85]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -9580,7 +9588,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[68]]></wp:meta_value>
+		<wp:meta_value><![CDATA[155]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -9588,7 +9596,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -9653,6 +9661,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
@@ -9880,7 +9896,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[66]]></wp:meta_value>
+		<wp:meta_value><![CDATA[108]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -10159,7 +10175,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[73]]></wp:meta_value>
+		<wp:meta_value><![CDATA[102]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -10430,7 +10446,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -10454,7 +10470,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
@@ -10702,7 +10718,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[24]]></wp:meta_value>
+		<wp:meta_value><![CDATA[47]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -10971,7 +10987,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		<wp:meta_value><![CDATA[52]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -11241,7 +11257,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[47]]></wp:meta_value>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -11512,7 +11528,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		<wp:meta_value><![CDATA[81]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -11544,7 +11560,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
@@ -11552,7 +11568,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
@@ -11605,6 +11621,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11807,7 +11831,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[41]]></wp:meta_value>
+		<wp:meta_value><![CDATA[68]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -12080,7 +12104,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
+		<wp:meta_value><![CDATA[84]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -12088,7 +12112,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -12096,7 +12120,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
@@ -12153,6 +12177,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12357,11 +12389,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[105]]></wp:meta_value>
+		<wp:meta_value><![CDATA[153]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -12426,6 +12458,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12624,7 +12664,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[65]]></wp:meta_value>
+		<wp:meta_value><![CDATA[131]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -12652,7 +12692,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
@@ -12905,7 +12945,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[89]]></wp:meta_value>
+		<wp:meta_value><![CDATA[147]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -12913,19 +12953,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
@@ -12933,7 +12973,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
@@ -12978,6 +13018,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13200,7 +13248,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[132]]></wp:meta_value>
+		<wp:meta_value><![CDATA[229]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -13208,7 +13256,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -13216,7 +13264,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
@@ -13248,7 +13296,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_silly]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_crazy]]></wp:meta_key>
@@ -13285,6 +13333,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13485,7 +13541,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[127]]></wp:meta_value>
+		<wp:meta_value><![CDATA[238]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -13493,11 +13549,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
@@ -13525,7 +13581,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_lol]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
@@ -13558,6 +13614,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13754,7 +13818,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[119]]></wp:meta_value>
+		<wp:meta_value><![CDATA[206]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -13762,7 +13826,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -13770,7 +13834,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
@@ -13786,7 +13850,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_sad]]></wp:meta_key>
@@ -13827,6 +13891,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

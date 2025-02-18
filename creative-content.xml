@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.1" created="2025-01-28 12:11" -->
+	<!-- generator="WordPress/6.7.2" created="2025-02-18 08:47" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Mow</title>
 	<link>https://frenify.com/work/envato/frenify/wp/mow/creative</link>
 	<description></description>
-	<pubDate>Tue, 28 Jan 2025 12:11:19 +0000</pubDate>
+	<pubDate>Tue, 18 Feb 2025 08:47:03 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://frenify.com/work/envato/frenify/wp/mow/creative</wp:base_site_url>
@@ -301,6 +301,13 @@
 		<wp:term_name><![CDATA[outofstock]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>58</wp:term_id>
+		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[page]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[page]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rated-1]]></wp:term_slug>
@@ -371,7 +378,7 @@
 	<wp:term><wp:term_id>53</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[offcanvas-menu]]></wp:term_slug><wp:term_name><![CDATA[Offcanvas Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 		<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
@@ -2651,67 +2658,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Category]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/category/</link>
-		<pubDate>Mon, 21 Oct 2024 05:21:02 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/news/?p=318</guid>
-		<description></description>
-		<content:encoded><![CDATA[                            ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>318</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-21 05:21:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-21 05:21:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-21 05:21:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-21 05:21:02]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[category]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="offcanvas-menu"><![CDATA[Offcanvas Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[315]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[318]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_mow_fn_megamenu]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Default Kit]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/?elementor_library=default-kit-2</link>
 		<pubDate>Mon, 21 Oct 2024 05:57:21 +0000</pubDate>
@@ -3181,6 +3127,84 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Home Creative #1]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/?elementor_library=home-creative-1</link>
+		<pubDate>Thu, 06 Feb 2025 03:49:57 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/creative/?elementor_library=home-creative-1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<a href="https://frenify.com/work/envato/frenify/wp/mow/creative/a-love-letter-to-los-angeles/"></a><button>Play / Pause</button><button>Mute / Unmute</button><a href="https://www.youtube.com/watch?v=glZUNKmU4rA" target="_blank">Watch Full Video on YouTube</a><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-iamdanzor-8222177.jpg" alt="Fallback Image"><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/">Travel</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/a-love-letter-to-los-angeles/">Hidden Cultural Gems Waiting To Be Discovered Worldwide</a></h3>				
+					<ul><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/in-praise-of-quiet-resistance/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-pexels-user-468186175-15711970-1024x720.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/interior/">Interior</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/in-praise-of-quiet-resistance/">How Youth Movements Are Driving Environmental Awareness Forward</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/in-praise-of-quiet-resistance/" aria-label="How Youth Movements Are Driving Environmental Awareness Forward">Read More</a></li></ul>				
+					<ul><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/what-marriage-means-to-me/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-simonakidric-2607544-1024x682.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/lifestyle/">Lifestyle</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/what-marriage-means-to-me/">Innovative Startups Changing the Face of Modern Healthcare</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/what-marriage-means-to-me/" aria-label="Innovative Startups Changing the Face of Modern Healthcare">Read More</a></li></ul>				
+															<img width="248" height="215" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/shape7.png" alt="" />															
+					<ul><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-greatest-life-hacks/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/78453453445756878-1024x710.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/lifestyle/">Lifestyle</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-greatest-life-hacks/">Reimagining Education Through Personalized Learning Technologies</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-greatest-life-hacks/" aria-label="Reimagining Education Through Personalized Learning Technologies">Read More</a></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/dont-be-in-the-moment/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-photographybuse-10386452-1024x720.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/family-getaways/">Family</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/dont-be-in-the-moment/">How Community Projects Foster Stronger Neighborhood Connections</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/dont-be-in-the-moment/" aria-label="How Community Projects Foster Stronger Neighborhood Connections">Read More</a></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/how-to-think-about-your-career/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-saul-siguenza-355267816-28279599-1024x770.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/interior/">Interior</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/how-to-think-about-your-career/">Why Space Tourism May Become Mainstream Sooner Than Expected</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/how-to-think-about-your-career/" aria-label="Why Space Tourism May Become Mainstream Sooner Than Expected">Read More</a></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-creativity-supply-chain/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-rdne-7335123-1024x683.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/interior/">Interior</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-creativity-supply-chain/">How Storytelling Transforms Marketing Strategies For Brands</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-creativity-supply-chain/" aria-label="How Storytelling Transforms Marketing Strategies For Brands">Read More</a></li></ul>				
+															<img width="200" height="211" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/shape6.png" alt="" />															
+															<img width="124" height="120" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/shape8.png" alt="" />															
+					<a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/ai/">#AI</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/audio/">#Audio</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/blog/">#Blog</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/design/">#Design</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/fashion/">#Fashion</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/food/">#Food</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/gallery/">#Gallery</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/health/">#Health</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/humor/">#Humor</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/image/">#Image</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/innovations/">#Innovations</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/inspiration/">#Inspiration</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/interior/">#Interior</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/lifestyle/">#Lifestyle</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/quote/">#Quote</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/technology/">#Technology</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/travel/">#Travel</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/video/">#Video</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/wellbeing/">#WellBeing</a><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/tag/writing/">#Writing</a>				
+					<h3>Stay Informed With the Latest & Most Important News</h3><!-- Mailchimp for WordPress v4.10.0 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" method="post" data-id="314" data-name="Newspaper" ><input type="email" name="EMAIL" placeholder="Your email address" required /><input type="submit" value="Subscribe" />
+<p>I consent to receive newsletter via email. For further information, 
+  please review our <a href="#">Privacy Policy</a></p><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1738813797" /><input type="hidden" name="_mc4wp_form_id" value="314" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></form><!-- / Mailchimp for WordPress Plugin -->				
+					<h3 data-layout="decor" data-align="left">Creative</h3>				
+					<ul><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-absolutely-ridiculous-history/">8<img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/67875653656756746-1024x730.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/">Travel</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-absolutely-ridiculous-history/">Revolutionary Technology Bringing Clean Energy To Communities</a></h3><p>Innovative clean energy solutions are transforming how communities access affordable and sustainable power sources.</p><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-absolutely-ridiculous-history/" aria-label="Revolutionary Technology Bringing Clean Energy To Communities">Read More</a></li></ul>				
+					<ul><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/famous-works-of-literature/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-steve-29067694-150x150.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/">Travel</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/famous-works-of-literature/">The Unseen Challenges Faced By Independent Content Creators</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/a-search-tool-for-serendipity/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-shonejai-445753-1227497-150x150.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/family-getaways/">Family</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/a-search-tool-for-serendipity/">Artistic Innovations That Are Changing Public Spaces Forever</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/working-from-home-tanked-my-productivity/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/56434234346547657-150x150.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/lifestyle/">Lifestyle</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/working-from-home-tanked-my-productivity/">How Blockchain Technology Impacts Everyday Financial Transactions</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-greatest-life-hacks/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/78453453445756878-150x150.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/lifestyle/">Lifestyle</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-greatest-life-hacks/">Reimagining Education Through Personalized Learning Technologies</a></h3></li></ul>				
+					<ul><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/how-i-kept-my-sense-of-humor/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-pixabay-163811-1024x682.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/food/">Food</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/how-i-kept-my-sense-of-humor/">How Online Communities Foster Global Connections Instantly</a></h3><p>Digital platforms bring people together, creating global networks for collaboration and support.</p><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/how-i-kept-my-sense-of-humor/" aria-label="How Online Communities Foster Global Connections Instantly">Read More</a></li></ul>				
+															<img width="200" height="165" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/shape5.png" alt="" />															
+															<img width="459" height="109" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/shape4.png" alt="" srcset="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/shape4.png 459w, https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/shape4-300x71.png 300w" sizes="(max-width: 459px) 100vw, 459px" />															
+					<h3 data-layout="decor" data-align="left">Trending</h3>				
+					<ul><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/men-women-are-bilogical-opposites/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-imvitordiniz-27033512-1024x652.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/cultural-journeys/">Cultural</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/men-women-are-bilogical-opposites/">Rethinking The Future Of Transportation With Green Tech</a></h3><p>Dive into the latest advancements in eco-friendly transportation, including electric vehicles and hyperloop systems.</p><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/men-women-are-bilogical-opposites/" aria-label="Rethinking The Future Of Transportation With Green Tech">Read More</a></li></ul>				
+															<img width="179" height="200" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/shape3.png" alt="" />															
+					<ul><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/becoming-the-glue-of-a-family/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-cottonbro-10117893-150x150.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/food/">Food</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/becoming-the-glue-of-a-family/">Innovative Housing Solutions Addressing Global Affordability Crisis</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/your-table-sugar-may-not-be-vegan/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-brett-sayles-3889062-150x150.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/health/">Health</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/your-table-sugar-may-not-be-vegan/">Exploring The Comeback Of Retro Gaming Consoles Today</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/every-day-is-a-trip/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-bigshowlamar-18744524-150x150.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/adventures-expeditions/">Adventures</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/every-day-is-a-trip/">How Pop Culture Shapes Global Perspectives And Attitudes</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-data-informed-manifesto/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/78535423576856364-150x150.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/fashion/">Fashion</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-data-informed-manifesto/">How Smart Home Technology Enhances Daily Living Experiences</a></h3></li></ul>				
+					<ul><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/health-care-roulette/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/5745543445756743542-1024x751.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/health/">Health</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/health-care-roulette/">How Social Media Trends Influence Political Movements Globally</a></h3><p>Explore the role of social platforms in mobilizing people and shaping modern political narratives.</p><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/health-care-roulette/" aria-label="How Social Media Trends Influence Political Movements Globally">Read More</a></li></ul>				
+					<h3>Advertisement</h3><a href="https://themeforest.net/user/frenify/portfolio" rel="nofollow" target="_blank"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2024/11/1920ads-250-1.jpg" alt=""></a>				
+					Hot TopicsHot TopicsHot TopicsHot TopicsHot TopicsHot TopicsHot TopicsHot Topics				
+					<img src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/56453544654546354-1024x761.jpg"><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/adventures-expeditions/">Adventures5</a></h3><img src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/5674353465474-1024x650.jpg"><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/cultural-journeys/">Cultural4</a></h3><img src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/6745433454753-1024x778.jpg"><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/family-getaways/">Family5</a></h3><img src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-bigshowlamar-18744524-731x1024.jpg"><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/category/fashion/">Fashion2</a></h3><img src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/45654767456352-1024x693.jpg"><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/category/food/">Food2</a></h3><img src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/567435345475674563-1024x668.jpg"><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/category/health/">Health4</a></h3><img src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/44435456568-1024x662.jpg"><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/category/interior/">Interior4</a></h3><img src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/56545645353277-1024x732.jpg"><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/category/lifestyle/">Lifestyle6</a></h3><img src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/67453453457434-1024x768.jpg"><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/luxury-escapes/">Luxury5</a></h3><img src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/56745467457547-1024x729.jpg"><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/">Travel7</a></h3>Or<a href="#">See them All</a>				
+					<h3 data-layout="decor" data-align="left">Latest News</h3>				
+															<img width="175" height="200" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/shape1.png" alt="" />															
+															<img width="124" height="120" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/shape8.png" alt="" />															
+					<ul><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/leaving-san-francisco/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-laylow-4506159-1024x682.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/">Travel</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/leaving-san-francisco/">Breaking Boundaries With Sustainable Urban Living Trends</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/leaving-san-francisco/" aria-label="Breaking Boundaries With Sustainable Urban Living Trends">Read More</a></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/what-marriage-means-to-me/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-simonakidric-2607544-1024x682.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/lifestyle/">Lifestyle</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/what-marriage-means-to-me/">Innovative Startups Changing the Face of Modern Healthcare</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/what-marriage-means-to-me/" aria-label="Innovative Startups Changing the Face of Modern Healthcare">Read More</a></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/a-love-letter-to-los-angeles/"></a><button>Play / Pause</button><button>Mute / Unmute</button><a href="https://www.youtube.com/watch?v=glZUNKmU4rA" target="_blank">Watch Full Video on YouTube</a><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-iamdanzor-8222177.jpg" alt="Fallback Image"><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/">Travel</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/a-love-letter-to-los-angeles/">Hidden Cultural Gems Waiting To Be Discovered Worldwide</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/a-love-letter-to-los-angeles/" aria-label="Hidden Cultural Gems Waiting To Be Discovered Worldwide">Read More</a></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/its-not-just-the-passing-of-a-queen/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/56756342432-1024x663.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/">Travel</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/its-not-just-the-passing-of-a-queen/">Exploring The Future Of Education With Immersive Tools</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/its-not-just-the-passing-of-a-queen/" aria-label="Exploring The Future Of Education With Immersive Tools">Read More</a></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/do-you-need-to-change-yourself/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/56434234346547657-1024x785.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/">Travel</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/do-you-need-to-change-yourself/">Empowering Local Businesses Through Digital Transformation Projects</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/do-you-need-to-change-yourself/" aria-label="Empowering Local Businesses Through Digital Transformation Projects">Read More</a></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-absolutely-ridiculous-history/">8<img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/67875653656756746-1024x730.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/">Travel</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-absolutely-ridiculous-history/">Revolutionary Technology Bringing Clean Energy To Communities</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/the-absolutely-ridiculous-history/" aria-label="Revolutionary Technology Bringing Clean Energy To Communities">Read More</a></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/famous-works-of-literature/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-steve-29067694-1024x682.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/travel/">Travel</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/famous-works-of-literature/">The Unseen Challenges Faced By Independent Content Creators</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/famous-works-of-literature/" aria-label="The Unseen Challenges Faced By Independent Content Creators">Read More</a></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/a-search-tool-for-serendipity/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/pexels-shonejai-445753-1227497-1024x682.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/creative/category/lifestyle/">Lifestyle</a>4 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/a-search-tool-for-serendipity/">Artistic Innovations That Are Changing Public Spaces Forever</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/creative/a-search-tool-for-serendipity/" aria-label="Artistic Innovations That Are Changing Public Spaces Forever">Read More</a></li></ul>
+						<input type="hidden" value="2">
+						<a href="#">
+							Load More Articles
+						</a>
+															<img width="200" height="211" src="https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/2025/01/shape2.png" alt="" />]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1030</wp:post_id>
+		<wp:post_date><![CDATA[2025-02-06 03:49:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-02-06 03:49:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-02-06 03:49:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-02-06 03:49:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-creative-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="elementor_library_type" nicename="page"><![CDATA[page]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.27.2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"5d79deeb","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0"},"content_width":"full","flex_direction_tablet":"column","margin":{"unit":"px","top":"60","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container"},"elements":[{"id":"6682c026","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":50},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"20fea25e","elType":"widget","settings":{"content_width":"full","layout":"epsilon","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"blog_post_offset":2,"epsilon_img_ratio":{"unit":"px","size":1.4,"sizes":[]},"epsilon_title_size":"l","blog_post_number":{"unit":"px","size":1,"sizes":[]},"load_more_text":"Load More Articles","epsilon_img_ratio_tablet":{"unit":"px","size":1,"sizes":[]}},"elements":[],"widgetType":"frel-posts"}],"isInner":true},{"id":"70076ade","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2d46145b","elType":"widget","settings":{"content_width":"full","layout":"delta","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":1,"sizes":[]},"bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"blog_post_offset":13,"delta_img_ratio":{"unit":"px","size":1.5,"sizes":[]},"read_more_switcher":"yes","load_more_text":"Load More Articles","delta_custom_spacing":"yes","delta_title_spacing":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"frel-posts"}],"isInner":true},{"id":"2fcbcfe7","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":24},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"em","size":"","sizes":[]},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"400201c7","elType":"widget","settings":{"content_width":"full","layout":"delta","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":1,"sizes":[]},"bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"blog_post_offset":1,"delta_img_ratio":{"unit":"px","size":1.37,"sizes":[]},"read_more_switcher":"yes","load_more_text":"Load More Articles","delta_custom_spacing":"yes","delta_title_spacing":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"frel-posts"},{"id":"746310ba","elType":"widget","settings":{"image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape7.png","id":872,"size":"","alt":"","source":"library"},"image_size":"full","_position":"absolute","_offset_x":{"size":147,"unit":"px"},"_offset_y":{"size":242,"unit":"px"},"_z_index":-1,"_element_width":"inherit"},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false},{"id":"641dd621","elType":"container","settings":{"flex_direction":"column","content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container"},"elements":[{"id":"1f3e96c","elType":"widget","settings":{"layout":"delta","read_more_switcher":"yes","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":4,"sizes":[]},"blog_post_offset":9,"bpod_list":[],"hlight_list":[],"delta_layout":"column","delta_col_count":"col_4","delta_img_ratio":{"unit":"px","size":1.5,"sizes":[]},"load_more_text":"Load More Articles","_margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"delta_custom_spacing":"yes","delta_title_spacing":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"frel-posts"},{"id":"106929a4","elType":"widget","settings":{"image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape6.png","id":871,"size":"","alt":"","source":"library"},"image_size":"full","_position":"absolute","_offset_x":{"size":-52,"unit":"px"},"_offset_y":{"size":280,"unit":"px"},"_z_index":-1},"elements":[],"widgetType":"image"},{"id":"3497e049","elType":"widget","settings":{"show_container":"yes","_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"frel-divider"},{"id":"31624ceb","elType":"widget","settings":{"image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape8.png","id":919,"size":"","alt":"","source":"library"},"image_size":"full","_position":"absolute","_offset_x":{"size":941,"unit":"px"},"_offset_y":{"size":395,"unit":"px"},"_z_index":3},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"42bdddc6","elType":"container","settings":{"content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"51f54946","elType":"widget","settings":{"content_width":"full","layout":"carousel","custom_list":[],"small_marquee_bg":"gray","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"type":"tags","prefix":"#","list_2_or_text":"Or...","list_2_link_text":"See them All","list_2_link_url":"#","grid_box_or_text":"Or","grid_box_link_text":"See them All","grid_box_link_url":"#","v_interactive_or_text":"Or","v_interactive_link_text":"See them All","v_interactive_link_url":"#"},"elements":[],"widgetType":"frel-categories"}],"isInner":false},{"id":"1c5f982c","elType":"container","settings":{"content_width":"full","margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"background_background":"classic","background_color":"#000000","shape_divider_top_color":"#000000","shape_divider_top_width":{"unit":"%","size":100,"sizes":[]},"shape_divider_top_height":{"unit":"px","size":30,"sizes":[]},"shape_divider_top_above_content":"yes","shape_divider_bottom_width":{"unit":"%","size":100,"sizes":[]},"shape_divider_bottom_height":{"unit":"px","size":30,"sizes":[]},"shape_divider_bottom_above_content":"yes","shape_divider_top_flip":"yes","shape_divider_bottom_flip":"yes"},"elements":[{"id":"4b76b535","elType":"widget","settings":{"content_width":"full","title":"Stay Informed With the Latest & Most Important News","shortcode":"[mc4wp_form id=314]"},"elements":[],"widgetType":"frel-subscribe"}],"isInner":false},{"id":"a53c04f","elType":"container","settings":{"flex_direction":"column","content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container"},"elements":[{"id":"61c8d244","elType":"widget","settings":{"title":"Creative","marquee_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"21","left":"0","isLinked":false}},"elements":[],"widgetType":"frel-title"}],"isInner":false},{"id":"5fdc36f7","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0"},"content_width":"full","flex_direction_tablet":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container"},"elements":[{"id":"21944f59","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":33.33},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"3e8226b0","elType":"widget","settings":{"content_width":"full","layout":"delta","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":1,"sizes":[]},"bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"blog_post_offset":5,"delta_img_ratio":{"unit":"px","size":1.5,"sizes":[]},"excerpt_switcher":"yes","read_more_switcher":"yes","load_more_text":"Load More Articles","delta_custom_spacing":"yes","delta_desc_spacing":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"frel-posts"}],"isInner":true},{"id":"6c7c555c","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":33.33},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"1319a081","elType":"widget","settings":{"content_width":"full","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":4,"sizes":[]},"bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"blog_post_offset":6,"delta_img_ratio":{"unit":"px","size":1.5,"sizes":[]},"alpha_border":"enabled","alpha_layout":"zigzag","load_more_text":"Load More Articles"},"elements":[],"widgetType":"frel-posts"}],"isInner":true},{"id":"1bd9d04a","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":33.33},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"798c3a9e","elType":"widget","settings":{"content_width":"full","layout":"delta","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":1,"sizes":[]},"bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"blog_post_offset":15,"delta_img_ratio":{"unit":"px","size":1.5,"sizes":[]},"excerpt_switcher":"yes","read_more_switcher":"yes","load_more_text":"Load More Articles","delta_custom_spacing":"yes","delta_desc_spacing":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"frel-posts"},{"id":"267ad233","elType":"widget","settings":{"image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape5.png","id":870,"size":"","alt":"","source":"library"},"image_size":"full","_position":"absolute","_offset_x":{"size":-214,"unit":"px"},"_offset_y":{"size":-81,"unit":"px"},"_z_index":-1,"_element_width":"inherit"},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false},{"id":"64d51772","elType":"container","settings":{"content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"23d607f7","elType":"widget","settings":{"image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape4.png","id":869,"size":"","alt":"","source":"library"},"image_size":"full","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"5b7719ad","elType":"container","settings":{"flex_direction":"column","content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container"},"elements":[{"id":"2249b9c7","elType":"widget","settings":{"title":"Trending","marquee_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"21","left":"0","isLinked":false}},"elements":[],"widgetType":"frel-title"}],"isInner":false},{"id":"6f2afa0d","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0"},"content_width":"full","flex_direction_tablet":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"70","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container"},"elements":[{"id":"171aa077","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":33.33},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"5f4d318f","elType":"widget","settings":{"content_width":"full","layout":"delta","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":1,"sizes":[]},"bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"blog_post_offset":16,"delta_img_ratio":{"unit":"px","size":1.5,"sizes":[]},"excerpt_switcher":"yes","read_more_switcher":"yes","load_more_text":"Load More Articles","delta_custom_spacing":"yes","delta_title_spacing":{"unit":"px","size":24,"sizes":[]},"delta_desc_spacing":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"frel-posts"},{"id":"768705b7","elType":"widget","settings":{"image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape3.png","id":868,"size":"","alt":"","source":"library"},"image_size":"full","_position":"absolute","_offset_x":{"size":190,"unit":"px"},"_offset_y":{"size":336,"unit":"px"},"_z_index":-1,"_element_width":"inherit"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"3e9d1811","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":33.33},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"476450b1","elType":"widget","settings":{"content_width":"full","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":4,"sizes":[]},"bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"blog_post_offset":18,"delta_img_ratio":{"unit":"px","size":1.5,"sizes":[]},"alpha_border":"enabled","alpha_layout":"zigzag","load_more_text":"Load More Articles"},"elements":[],"widgetType":"frel-posts"}],"isInner":true},{"id":"d4512ec","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":33.33},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"9a6ce43","elType":"widget","settings":{"content_width":"full","layout":"delta","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":1,"sizes":[]},"bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"blog_post_offset":17,"delta_img_ratio":{"unit":"px","size":1.5,"sizes":[]},"excerpt_switcher":"yes","read_more_switcher":"yes","load_more_text":"Load More Articles"},"elements":[],"widgetType":"frel-posts"}],"isInner":true}],"isInner":false},{"id":"76580202","elType":"container","settings":{"content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container"},"elements":[{"id":"799d6ce6","elType":"widget","settings":{"show_title":"yes","title":"Advertisement","type_image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2024\/11\/1920ads-250-1.jpg","id":778,"size":"","alt":"","source":"library"},"type_image_url":"https:\/\/themeforest.net\/user\/frenify\/portfolio"},"elements":[],"widgetType":"frel-ad"}],"isInner":false},{"id":"56ba76d7","elType":"container","settings":{"content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"12da6e21","elType":"widget","settings":{"layout":"marquee","marquee_list":[{"_id":"5de27a3","marquee_title":"Hot Topics"},{"marquee_title":"Hot Topics","_id":"919b55f"},{"marquee_title":"Hot Topics","_id":"cd667e1"},{"marquee_title":"Hot Topics","_id":"67efd2f"},{"marquee_title":"Hot Topics","_id":"ede4895"},{"marquee_title":"Hot Topics","_id":"f61d445"},{"marquee_title":"Hot Topics","_id":"b1513d0"},{"marquee_title":"Hot Topics","_id":"686c764"}],"custom_color":"yes","marquee_color":"#01B1FA"},"elements":[],"widgetType":"frel-title"}],"isInner":false},{"id":"c949af","elType":"container","settings":{"content_width":"full","margin":{"unit":"px","top":"-19","right":"0","bottom":"100","left":"0","isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"background_background":"classic","background_color":"#080808","shape_divider_top_color":"#FFFFFF","shape_divider_top_width":{"unit":"%","size":100,"sizes":[]},"shape_divider_top_height":{"unit":"px","size":30,"sizes":[]},"shape_divider_top_above_content":"yes","shape_divider_bottom_color":"#FFFFFF","shape_divider_bottom_width":{"unit":"%","size":100,"sizes":[]},"shape_divider_bottom_height":{"unit":"px","size":30,"sizes":[]},"shape_divider_bottom_above_content":"yes"},"elements":[{"id":"711514e0","elType":"widget","settings":{"layout":"h_interactive","custom_list":[],"list_2_or_text":"Or...","list_2_link_text":"See them All","list_2_link_url":"#","grid_box_or_text":"Or","grid_box_link_text":"See them All","grid_box_link_url":"#","v_interactive_show_link":"yes","v_interactive_or_text":"Or","v_interactive_link_text":"See them All","v_interactive_link_url":"#","h_interactive_custom_color":"yes","h_interactive_text_color":"#FFFFFF","h_interactive_countbg_color":"#333333","h_interactive_counttext_color":"#FFFFFF","h_interactive_ortext_color":"#777777","h_interactive_orline_color":"#333333","h_interactive_font_family":"Poppins"},"elements":[],"widgetType":"frel-categories"}],"isInner":false},{"id":"440a34eb","elType":"container","settings":{"flex_direction":"column","content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container","margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"1146e354","elType":"widget","settings":{"title":"Latest News","marquee_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"21","left":"0","isLinked":false}},"elements":[],"widgetType":"frel-title"},{"id":"3b290b6b","elType":"widget","settings":{"image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape1.png","id":866,"size":"","alt":"","source":"library"},"image_size":"full","_position":"absolute","_offset_x":{"size":729,"unit":"px"},"_offset_y":{"size":140,"unit":"px"},"_z_index":-1,"_title":"Image","_element_width":"inherit"},"elements":[],"widgetType":"image"},{"id":"56ebe2b8","elType":"widget","settings":{"image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape8.png","id":919,"size":"","alt":"","source":"library"},"image_size":"full","_position":"absolute","_offset_x":{"size":2,"unit":"px"},"_offset_y":{"size":0,"unit":"px"},"_z_index":-1,"_title":"Image","_element_width":"inherit"},"elements":[],"widgetType":"image"},{"id":"215d3576","elType":"widget","settings":{"layout":"delta","read_more_switcher":"yes","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","bpod_list":[],"hlight_list":[],"delta_layout":"inline","delta_inline_col_count":"col_2","delta_inline_border":"enabled","delta_img_ratio":{"unit":"px","size":1.6,"sizes":[]},"delta_pagination_filter":"yes","load_more_text":"Load More Articles","_element_width":"initial","_element_custom_width":{"unit":"%","size":99.929},"_flex_size":"none"},"elements":[],"widgetType":"frel-posts"},{"id":"4798ad68","elType":"widget","settings":{"image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape2.png","id":867,"size":"","alt":"","source":"library"},"image_size":"full","_position":"absolute","_offset_x":{"size":-25,"unit":"px"},"_offset_y":{"size":772,"unit":"px"},"_z_index":-1},"elements":[],"widgetType":"image"}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Home]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/terms-conditions/</link>
 		<pubDate>Mon, 21 Oct 2024 05:06:07 +0000</pubDate>
@@ -3385,6 +3409,67 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-10-22]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Category]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/category/</link>
+		<pubDate>Mon, 21 Oct 2024 05:21:02 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/news/?p=318</guid>
+		<description></description>
+		<content:encoded><![CDATA[                            ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>318</wp:post_id>
+		<wp:post_date><![CDATA[2024-10-21 05:21:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-21 05:21:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-21 05:21:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-21 05:21:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[category]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="offcanvas-menu"><![CDATA[Offcanvas Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[315]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[318]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_mow_fn_megamenu]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4345,67 +4430,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[782]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_mow_fn_megamenu]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Reviews & Awards]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/reviews-awards-2/</link>
-		<pubDate>Tue, 05 Nov 2024 05:11:58 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/news/?p=783</guid>
-		<description></description>
-		<content:encoded><![CDATA[                            ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>783</wp:post_id>
-		<wp:post_date><![CDATA[2024-11-05 05:11:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-11-05 05:11:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-11-05 05:11:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-11-05 05:11:58]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[reviews-awards-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-widget-menu"><![CDATA[Footer Widget Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[783]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -6016,6 +6040,67 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Reviews & Awards]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/reviews-awards-2/</link>
+		<pubDate>Tue, 05 Nov 2024 05:11:58 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/news/?p=783</guid>
+		<description></description>
+		<content:encoded><![CDATA[                            ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>783</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-05 05:11:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-05 05:11:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-11-05 05:11:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-11-05 05:11:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[reviews-awards-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-widget-menu"><![CDATA[Footer Widget Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[783]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_mow_fn_megamenu]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Renewable Energy]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/687/</link>
 		<pubDate>Wed, 30 Oct 2024 07:53:30 +0000</pubDate>
@@ -7588,79 +7673,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[No Sidebar]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/no-sidebar/</link>
-		<pubDate>Mon, 04 Nov 2024 08:56:11 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/news/?p=761</guid>
-		<description></description>
-		<content:encoded><![CDATA[                            ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>761</wp:post_id>
-		<wp:post_date><![CDATA[2025-01-25 12:42:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-11-04 08:56:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-01-25 12:42:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-01-25 12:42:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-sidebar]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[755]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[761]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://frenify.com/work/envato/frenify/wp/mow/creative/in-praise-of-quiet-resistance/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_mow_fn_megamenu]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-11-04]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-11-05]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-12-03]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/?page_id=3</link>
 		<pubDate>Thu, 23 Jan 2025 09:34:21 +0000</pubDate>
@@ -8040,6 +8052,14 @@
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[[{"id":"3c33bd8","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"flex_direction_tablet":"column"},"elements":[{"id":"3b920c1","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":60},"padding":{"unit":"px","top":"0","right":"25","bottom":"0","left":"0","isLinked":false},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"20f4f04","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"145\" title=\"Contact form 1\"]","_margin":{"unit":"px","top":"0","right":"0","bottom":"45","left":"0","isLinked":false}},"elements":[],"widgetType":"shortcode"},{"id":"9dd0f10","elType":"widget","settings":{"editor":"<p>In case you prefer to contact us through other means, you can also find our phone number and mailing address listed below. We strive to provide exceptional customer service and ensure that your experience with us is seamless.<\/p>\n<p>\u00a0<\/p>\n<p>Thank you for choosing us as your trusted resource. We look forward to hearing from you!<\/p>\n<p>\u00a0<\/p>\n<p><strong>Phone: <\/strong><\/p>\n<p>General Inquiries: (555) 123-4567<\/p>\n<p>Project Management Office: (555) 987-6543<\/p>\n<p>Customer Support: (555) 234-5678<\/p>\n<p>Emergency Line: (555) 876-5432<\/p>\n<p>Services Hotline: (555) 345-6789<\/p>\n<p>\u00a0<\/p>\n<p><strong>Email: <\/strong><\/p>\n<p>General Inquiries: info@examplemosh.com<\/p>\n<p>Estimates: projects@samplemosh.com<\/p>\n<p>Careers: support@moshexperts.net<\/p>\n<p>\u00a0<\/p>\n<p>Please note that our office hours are [Insert Office Hours]. While we endeavor to respond to all inquiries promptly, there may be slight delays during weekends and holidays.<\/p>","text_color":"#000000","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"f6e93e9","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"25","isLinked":false},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2941328","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":348,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":1,"blur":3,"spread":0,"color":"rgba(0, 0, 0, 0.15)"}},"elements":[],"widgetType":"google_maps"},{"id":"5f1edf0","elType":"widget","settings":{"image":{"id":820,"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/news\/wp-content\/uploads\/2024\/12\/health.jpg"},"image_size":"full","image_border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_box_shadow_box_shadow_type":"yes","image_box_shadow_box_shadow":{"horizontal":0,"vertical":1,"blur":3,"spread":0,"color":"rgba(0, 0, 0, 0.15)"},"_margin":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:6:"styles";a:3:{i:0;s:18:"widget-text-editor";i:1;s:18:"widget-google_maps";i:2;s:12:"widget-image";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"timeout":1739902400,"value":{"content":"<div class=\"elementor-element elementor-element-3c33bd8 e-con-full e-flex e-con e-parent\" data-id=\"3c33bd8\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-3b920c1 e-con-full e-flex e-con e-child\" data-id=\"3b920c1\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjIwZjRmMDQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG9ydGNvZGUiOiJbY29udGFjdC1mb3JtLTcgaWQ9XCIxNDVcIiB0aXRsZT1cIkNvbnRhY3QgZm9ybSAxXCJdIiwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiNDUiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJzaG9ydGNvZGUifQ==\"][elementor-element data=\"eyJpZCI6IjlkZDBmMTAiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJlZGl0b3IiOiI8cD5JbiBjYXNlIHlvdSBwcmVmZXIgdG8gY29udGFjdCB1cyB0aHJvdWdoIG90aGVyIG1lYW5zLCB5b3UgY2FuIGFsc28gZmluZCBvdXIgcGhvbmUgbnVtYmVyIGFuZCBtYWlsaW5nIGFkZHJlc3MgbGlzdGVkIGJlbG93LiBXZSBzdHJpdmUgdG8gcHJvdmlkZSBleGNlcHRpb25hbCBjdXN0b21lciBzZXJ2aWNlIGFuZCBlbnN1cmUgdGhhdCB5b3VyIGV4cGVyaWVuY2Ugd2l0aCB1cyBpcyBzZWFtbGVzcy48XC9wPlxuPHA+XHUwMGEwPFwvcD5cbjxwPlRoYW5rIHlvdSBmb3IgY2hvb3NpbmcgdXMgYXMgeW91ciB0cnVzdGVkIHJlc291cmNlLiBXZSBsb29rIGZvcndhcmQgdG8gaGVhcmluZyBmcm9tIHlvdSE8XC9wPlxuPHA+XHUwMGEwPFwvcD5cbjxwPjxzdHJvbmc+UGhvbmU6IDxcL3N0cm9uZz48XC9wPlxuPHA+R2VuZXJhbCBJbnF1aXJpZXM6ICg1NTUpIDEyMy00NTY3PFwvcD5cbjxwPlByb2plY3QgTWFuYWdlbWVudCBPZmZpY2U6ICg1NTUpIDk4Ny02NTQzPFwvcD5cbjxwPkN1c3RvbWVyIFN1cHBvcnQ6ICg1NTUpIDIzNC01Njc4PFwvcD5cbjxwPkVtZXJnZW5jeSBMaW5lOiAoNTU1KSA4NzYtNTQzMjxcL3A+XG48cD5TZXJ2aWNlcyBIb3RsaW5lOiAoNTU1KSAzNDUtNjc4OTxcL3A+XG48cD5cdTAwYTA8XC9wPlxuPHA+PHN0cm9uZz5FbWFpbDogPFwvc3Ryb25nPjxcL3A+XG48cD5HZW5lcmFsIElucXVpcmllczogaW5mb0BleGFtcGxlbW9zaC5jb208XC9wPlxuPHA+RXN0aW1hdGVzOiBwcm9qZWN0c0BzYW1wbGVtb3NoLmNvbTxcL3A+XG48cD5DYXJlZXJzOiBzdXBwb3J0QG1vc2hleHBlcnRzLm5ldDxcL3A+XG48cD5cdTAwYTA8XC9wPlxuPHA+UGxlYXNlIG5vdGUgdGhhdCBvdXIgb2ZmaWNlIGhvdXJzIGFyZSBbSW5zZXJ0IE9mZmljZSBIb3Vyc10uIFdoaWxlIHdlIGVuZGVhdm9yIHRvIHJlc3BvbmQgdG8gYWxsIGlucXVpcmllcyBwcm9tcHRseSwgdGhlcmUgbWF5IGJlIHNsaWdodCBkZWxheXMgZHVyaW5nIHdlZWtlbmRzIGFuZCBob2xpZGF5cy48XC9wPiIsInRleHRfY29sb3IiOiIjMDAwMDAwIiwidHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidHlwb2dyYXBoeV9mb250X2ZhbWlseSI6IldvcmsgU2FucyIsInR5cG9ncmFwaHlfZm9udF9zaXplIjp7InVuaXQiOiJweCIsInNpemUiOjE4LCJzaXplcyI6W119LCJ0eXBvZ3JhcGh5X2ZvbnRfd2VpZ2h0IjoiNDAwIiwidHlwb2dyYXBoeV9saW5lX2hlaWdodCI6eyJ1bml0IjoicHgiLCJzaXplIjoyNCwic2l6ZXMiOltdfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6InRleHQtZWRpdG9yIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-f6e93e9 e-con-full e-flex e-con e-child\" data-id=\"f6e93e9\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-2941328 elementor-widget elementor-widget-google_maps\" data-id=\"2941328\" data-element_type=\"widget\" data-widget_type=\"google_maps.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-custom-embed\">\n\t\t\t<iframe loading=\"lazy\"\n\t\t\t\t\tsrc=\"https:\/\/maps.google.com\/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&#038;t=m&#038;z=10&#038;output=embed&#038;iwloc=near\"\n\t\t\t\t\ttitle=\"London Eye, London, United Kingdom\"\n\t\t\t\t\taria-label=\"London Eye, London, United Kingdom\"\n\t\t\t><\/iframe>\n\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-5f1edf0 elementor-widget elementor-widget-image\" data-id=\"5f1edf0\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"1280\" height=\"853\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2024\/12\/health.jpg\" class=\"attachment-full size-full wp-image-820\" alt=\"\" srcset=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2024\/12\/health.jpg 1280w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2024\/12\/health-300x200.jpg 300w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2024\/12\/health-1024x682.jpg 1024w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2024\/12\/health-768x512.jpg 768w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2024\/12\/health-600x400.jpg 600w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Hot Posts]]></title>
@@ -8213,31 +8233,15 @@
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:6:"styles";a:1:{i:0;s:12:"widget-image";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"timeout":1739941773,"value":{"content":"<div class=\"elementor-element elementor-element-97b0785 e-con-full container e-flex e-con e-parent\" data-id=\"97b0785\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-40b014b e-con-full e-flex e-con e-child\" data-id=\"40b014b\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6Ijc4ZGQ3YzQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjMwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjoyLCJlcHNpbG9uX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjoxLjQsInNpemVzIjpbXX0sImVwc2lsb25fdGl0bGVfc2l6ZSI6ImwiLCJibG9nX3Bvc3RfbnVtYmVyIjp7InVuaXQiOiJweCIsInNpemUiOjEsInNpemVzIjpbXX0sImxvYWRfbW9yZV90ZXh0IjoiTG9hZCBNb3JlIEFydGljbGVzIiwiZXBzaWxvbl9pbWdfcmF0aW9fdGFibGV0Ijp7InVuaXQiOiJweCIsInNpemUiOjEsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-6745076 e-con-full e-flex e-con e-child\" data-id=\"6745076\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjYwYzg2MGMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImRlbHRhIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjoxLCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjMwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxMywiZGVsdGFfaW1nX3JhdGlvIjp7InVuaXQiOiJweCIsInNpemUiOjEuNSwic2l6ZXMiOltdfSwicmVhZF9tb3JlX3N3aXRjaGVyIjoieWVzIiwibG9hZF9tb3JlX3RleHQiOiJMb2FkIE1vcmUgQXJ0aWNsZXMiLCJkZWx0YV9jdXN0b21fc3BhY2luZyI6InllcyIsImRlbHRhX3RpdGxlX3NwYWNpbmciOnsidW5pdCI6InB4Iiwic2l6ZSI6MjQsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-16e4606 e-con-full e-flex e-con e-child\" data-id=\"16e4606\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjYzZGVlNjAiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImRlbHRhIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjoxLCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjMwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4zNywic2l6ZXMiOltdfSwicmVhZF9tb3JlX3N3aXRjaGVyIjoieWVzIiwibG9hZF9tb3JlX3RleHQiOiJMb2FkIE1vcmUgQXJ0aWNsZXMiLCJkZWx0YV9jdXN0b21fc3BhY2luZyI6InllcyIsImRlbHRhX3RpdGxlX3NwYWNpbmciOnsidW5pdCI6InB4Iiwic2l6ZSI6MjQsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<div class=\"elementor-element elementor-element-53271b0 elementor-absolute elementor-widget__width-inherit elementor-widget elementor-widget-image\" data-id=\"53271b0\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"248\" height=\"215\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape7.png\" class=\"attachment-full size-full wp-image-872\" alt=\"\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-4043cb4 e-con-full container e-flex e-con e-parent\" data-id=\"4043cb4\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjU1Y2U2MmYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV9zd2l0Y2hlciI6InllcyIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6NCwic2l6ZXMiOltdfSwiYmxvZ19wb3N0X29mZnNldCI6OSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9sYXlvdXQiOiJjb2x1bW4iLCJkZWx0YV9jb2xfY291bnQiOiJjb2xfNCIsImRlbHRhX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjoxLjUsInNpemVzIjpbXX0sImxvYWRfbW9yZV90ZXh0IjoiTG9hZCBNb3JlIEFydGljbGVzIiwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMTAwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJkZWx0YV9jdXN0b21fc3BhY2luZyI6InllcyIsImRlbHRhX3RpdGxlX3NwYWNpbmciOnsidW5pdCI6InB4Iiwic2l6ZSI6MjQsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<div class=\"elementor-element elementor-element-53c40cc elementor-absolute elementor-widget elementor-widget-image\" data-id=\"53c40cc\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"200\" height=\"211\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape6.png\" class=\"attachment-full size-full wp-image-871\" alt=\"\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t[elementor-element data=\"eyJpZCI6ImMxODk3OGIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG93X2NvbnRhaW5lciI6InllcyIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjMwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1kaXZpZGVyIn0=\"]\t\t<div class=\"elementor-element elementor-element-95b719a elementor-absolute elementor-widget elementor-widget-image\" data-id=\"95b719a\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"124\" height=\"120\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape8.png\" class=\"attachment-full size-full wp-image-919\" alt=\"\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c35eb59 e-con-full e-flex e-con e-parent\" data-id=\"c35eb59\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImFjZjQ3ZWYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImNhcm91c2VsIiwiY3VzdG9tX2xpc3QiOltdLCJzbWFsbF9tYXJxdWVlX2JnIjoiZ3JheSIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sInR5cGUiOiJ0YWdzIiwicHJlZml4IjoiIyIsImxpc3RfMl9vcl90ZXh0IjoiT3IuLi4iLCJsaXN0XzJfbGlua190ZXh0IjoiU2VlIHRoZW0gQWxsIiwibGlzdF8yX2xpbmtfdXJsIjoiIyIsImdyaWRfYm94X29yX3RleHQiOiJPciIsImdyaWRfYm94X2xpbmtfdGV4dCI6IlNlZSB0aGVtIEFsbCIsImdyaWRfYm94X2xpbmtfdXJsIjoiIyIsInZfaW50ZXJhY3RpdmVfb3JfdGV4dCI6Ik9yIiwidl9pbnRlcmFjdGl2ZV9saW5rX3RleHQiOiJTZWUgdGhlbSBBbGwiLCJ2X2ludGVyYWN0aXZlX2xpbmtfdXJsIjoiIyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWNhdGVnb3JpZXMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-37d3f6b e-con-full e-flex e-con e-parent\" data-id=\"37d3f6b\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t[elementor-element data=\"eyJpZCI6ImMyMWYzMjUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInRpdGxlIjoiU3RheSBJbmZvcm1lZCBXaXRoIHRoZSBMYXRlc3QgJiBNb3N0IEltcG9ydGFudCBOZXdzIiwic2hvcnRjb2RlIjoiW21jNHdwX2Zvcm0gaWQ9MzE0XSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXN1YnNjcmliZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-4b16f06 e-con-full container e-flex e-con e-parent\" data-id=\"4b16f06\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjI2MDFmNDUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkNyZWF0aXZlIiwibWFycXVlZV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMjEiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-44ffdf6 e-con-full container e-flex e-con e-parent\" data-id=\"44ffdf6\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-aa71d1f e-con-full e-flex e-con e-child\" data-id=\"aa71d1f\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjUwZTY3MWYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImRlbHRhIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjoxLCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjMwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0Ijo1LCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS41LCJzaXplcyI6W119LCJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3N3aXRjaGVyIjoieWVzIiwibG9hZF9tb3JlX3RleHQiOiJMb2FkIE1vcmUgQXJ0aWNsZXMiLCJkZWx0YV9jdXN0b21fc3BhY2luZyI6InllcyIsImRlbHRhX2Rlc2Nfc3BhY2luZyI6eyJ1bml0IjoicHgiLCJzaXplIjoyNCwic2l6ZXMiOltdfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-dba7b56 e-con-full e-flex e-con e-child\" data-id=\"dba7b56\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjBmNzMxM2QiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6NCwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIzMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiYmxvZ19wb3N0X29mZnNldCI6NiwiZGVsdGFfaW1nX3JhdGlvIjp7InVuaXQiOiJweCIsInNpemUiOjEuNSwic2l6ZXMiOltdfSwiYWxwaGFfYm9yZGVyIjoiZW5hYmxlZCIsImFscGhhX2xheW91dCI6InppZ3phZyIsImxvYWRfbW9yZV90ZXh0IjoiTG9hZCBNb3JlIEFydGljbGVzIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-b679a06 e-con-full e-flex e-con e-child\" data-id=\"b679a06\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjA4OWNiODYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImRlbHRhIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjoxLCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjMwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxNSwiZGVsdGFfaW1nX3JhdGlvIjp7InVuaXQiOiJweCIsInNpemUiOjEuNSwic2l6ZXMiOltdfSwiZXhjZXJwdF9zd2l0Y2hlciI6InllcyIsInJlYWRfbW9yZV9zd2l0Y2hlciI6InllcyIsImxvYWRfbW9yZV90ZXh0IjoiTG9hZCBNb3JlIEFydGljbGVzIiwiZGVsdGFfY3VzdG9tX3NwYWNpbmciOiJ5ZXMiLCJkZWx0YV9kZXNjX3NwYWNpbmciOnsidW5pdCI6InB4Iiwic2l6ZSI6MjQsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<div class=\"elementor-element elementor-element-713a33d elementor-absolute elementor-widget__width-inherit elementor-widget elementor-widget-image\" data-id=\"713a33d\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"200\" height=\"165\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape5.png\" class=\"attachment-full size-full wp-image-870\" alt=\"\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-cedd728 e-con-full e-flex e-con e-parent\" data-id=\"cedd728\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-6cc12f2 elementor-widget elementor-widget-image\" data-id=\"6cc12f2\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"459\" height=\"109\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape4.png\" class=\"attachment-full size-full wp-image-869\" alt=\"\" srcset=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape4.png 459w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape4-300x71.png 300w\" sizes=\"(max-width: 459px) 100vw, 459px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-89819ab e-con-full container e-flex e-con e-parent\" data-id=\"89819ab\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImNhYWQ2YjAiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IlRyZW5kaW5nIiwibWFycXVlZV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMjEiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-61136f7 e-con-full container e-flex e-con e-parent\" data-id=\"61136f7\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-3c74989 e-con-full e-flex e-con e-child\" data-id=\"3c74989\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjdkMmQzODQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImRlbHRhIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjoxLCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjMwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxNiwiZGVsdGFfaW1nX3JhdGlvIjp7InVuaXQiOiJweCIsInNpemUiOjEuNSwic2l6ZXMiOltdfSwiZXhjZXJwdF9zd2l0Y2hlciI6InllcyIsInJlYWRfbW9yZV9zd2l0Y2hlciI6InllcyIsImxvYWRfbW9yZV90ZXh0IjoiTG9hZCBNb3JlIEFydGljbGVzIiwiZGVsdGFfY3VzdG9tX3NwYWNpbmciOiJ5ZXMiLCJkZWx0YV90aXRsZV9zcGFjaW5nIjp7InVuaXQiOiJweCIsInNpemUiOjI0LCJzaXplcyI6W119LCJkZWx0YV9kZXNjX3NwYWNpbmciOnsidW5pdCI6InB4Iiwic2l6ZSI6MjQsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<div class=\"elementor-element elementor-element-467e68d elementor-absolute elementor-widget__width-inherit elementor-widget elementor-widget-image\" data-id=\"467e68d\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"179\" height=\"200\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape3.png\" class=\"attachment-full size-full wp-image-868\" alt=\"\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-ae7573d e-con-full e-flex e-con e-child\" data-id=\"ae7573d\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjljNjUxODkiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6NCwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIzMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiYmxvZ19wb3N0X29mZnNldCI6MTgsImRlbHRhX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjoxLjUsInNpemVzIjpbXX0sImFscGhhX2JvcmRlciI6ImVuYWJsZWQiLCJhbHBoYV9sYXlvdXQiOiJ6aWd6YWciLCJsb2FkX21vcmVfdGV4dCI6IkxvYWQgTW9yZSBBcnRpY2xlcyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-f10ac38 e-con-full e-flex e-con e-child\" data-id=\"f10ac38\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjU0OWE5YTciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImRlbHRhIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjoxLCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjMwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxNywiZGVsdGFfaW1nX3JhdGlvIjp7InVuaXQiOiJweCIsInNpemUiOjEuNSwic2l6ZXMiOltdfSwiZXhjZXJwdF9zd2l0Y2hlciI6InllcyIsInJlYWRfbW9yZV9zd2l0Y2hlciI6InllcyIsImxvYWRfbW9yZV90ZXh0IjoiTG9hZCBNb3JlIEFydGljbGVzIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-66dccb7 e-con-full container e-flex e-con e-parent\" data-id=\"66dccb7\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImYzODFiZDEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG93X3RpdGxlIjoieWVzIiwidGl0bGUiOiJBZHZlcnRpc2VtZW50IiwidHlwZV9pbWFnZSI6eyJ1cmwiOiJodHRwczpcL1wvZnJlbmlmeS5jb21cL3dvcmtcL2VudmF0b1wvZnJlbmlmeVwvd3BcL21vd1wvY3JlYXRpdmVcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzExXC8xOTIwYWRzLTI1MC0xLmpwZyIsImlkIjo3NzgsInNpemUiOiIiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5In0sInR5cGVfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL3RoZW1lZm9yZXN0Lm5ldFwvdXNlclwvZnJlbmlmeVwvcG9ydGZvbGlvIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtYWQifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-53483eb e-con-full e-flex e-con e-parent\" data-id=\"53483eb\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjE1OTNiOTIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJtYXJxdWVlIiwibWFycXVlZV9saXN0IjpbeyJfaWQiOiI1ZGUyN2EzIiwibWFycXVlZV90aXRsZSI6IkhvdCBUb3BpY3MifSx7Im1hcnF1ZWVfdGl0bGUiOiJIb3QgVG9waWNzIiwiX2lkIjoiOTE5YjU1ZiJ9LHsibWFycXVlZV90aXRsZSI6IkhvdCBUb3BpY3MiLCJfaWQiOiJjZDY2N2UxIn0seyJtYXJxdWVlX3RpdGxlIjoiSG90IFRvcGljcyIsIl9pZCI6IjY3ZWZkMmYifSx7Im1hcnF1ZWVfdGl0bGUiOiJIb3QgVG9waWNzIiwiX2lkIjoiZWRlNDg5NSJ9LHsibWFycXVlZV90aXRsZSI6IkhvdCBUb3BpY3MiLCJfaWQiOiJmNjFkNDQ1In0seyJtYXJxdWVlX3RpdGxlIjoiSG90IFRvcGljcyIsIl9pZCI6ImIxNTEzZDAifSx7Im1hcnF1ZWVfdGl0bGUiOiJIb3QgVG9waWNzIiwiX2lkIjoiNjg2Yzc2NCJ9XSwiY3VzdG9tX2NvbG9yIjoieWVzIiwibWFycXVlZV9jb2xvciI6IiMwMUIxRkEifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-ceb3d72 e-con-full e-flex e-con e-parent\" data-id=\"ceb3d72\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t[elementor-element data=\"eyJpZCI6IjM3YzE4ZWIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJoX2ludGVyYWN0aXZlIiwiY3VzdG9tX2xpc3QiOltdLCJsaXN0XzJfb3JfdGV4dCI6Ik9yLi4uIiwibGlzdF8yX2xpbmtfdGV4dCI6IlNlZSB0aGVtIEFsbCIsImxpc3RfMl9saW5rX3VybCI6IiMiLCJncmlkX2JveF9vcl90ZXh0IjoiT3IiLCJncmlkX2JveF9saW5rX3RleHQiOiJTZWUgdGhlbSBBbGwiLCJncmlkX2JveF9saW5rX3VybCI6IiMiLCJ2X2ludGVyYWN0aXZlX3Nob3dfbGluayI6InllcyIsInZfaW50ZXJhY3RpdmVfb3JfdGV4dCI6Ik9yIiwidl9pbnRlcmFjdGl2ZV9saW5rX3RleHQiOiJTZWUgdGhlbSBBbGwiLCJ2X2ludGVyYWN0aXZlX2xpbmtfdXJsIjoiIyIsImhfaW50ZXJhY3RpdmVfY3VzdG9tX2NvbG9yIjoieWVzIiwiaF9pbnRlcmFjdGl2ZV90ZXh0X2NvbG9yIjoiI0ZGRkZGRiIsImhfaW50ZXJhY3RpdmVfY291bnRiZ19jb2xvciI6IiMzMzMzMzMiLCJoX2ludGVyYWN0aXZlX2NvdW50dGV4dF9jb2xvciI6IiNGRkZGRkYiLCJoX2ludGVyYWN0aXZlX29ydGV4dF9jb2xvciI6IiM3Nzc3NzciLCJoX2ludGVyYWN0aXZlX29ybGluZV9jb2xvciI6IiMzMzMzMzMiLCJoX2ludGVyYWN0aXZlX2ZvbnRfZmFtaWx5IjoiUG9wcGlucyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWNhdGVnb3JpZXMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-1ba3fca e-con-full container e-flex e-con e-parent\" data-id=\"1ba3fca\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImU1NjQ5ZTQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkxhdGVzdCBOZXdzIiwibWFycXVlZV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMjEiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"]\t\t<div class=\"elementor-element elementor-element-ccaf7ab elementor-absolute elementor-widget__width-inherit elementor-widget elementor-widget-image\" data-id=\"ccaf7ab\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"175\" height=\"200\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape1.png\" class=\"attachment-full size-full wp-image-866\" alt=\"\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-0c5f512 elementor-absolute elementor-widget__width-inherit elementor-widget elementor-widget-image\" data-id=\"0c5f512\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"124\" height=\"120\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape8.png\" class=\"attachment-full size-full wp-image-919\" alt=\"\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t[elementor-element data=\"eyJpZCI6IjE2YTdkOWQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV9zd2l0Y2hlciI6InllcyIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiZGVsdGFfbGF5b3V0IjoiaW5saW5lIiwiZGVsdGFfaW5saW5lX2NvbF9jb3VudCI6ImNvbF8yIiwiZGVsdGFfaW5saW5lX2JvcmRlciI6ImVuYWJsZWQiLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS42LCJzaXplcyI6W119LCJkZWx0YV9wYWdpbmF0aW9uX2ZpbHRlciI6InllcyIsImxvYWRfbW9yZV90ZXh0IjoiTG9hZCBNb3JlIEFydGljbGVzIiwiX2VsZW1lbnRfd2lkdGgiOiJpbml0aWFsIiwiX2VsZW1lbnRfY3VzdG9tX3dpZHRoIjp7InVuaXQiOiIlIiwic2l6ZSI6OTkuOTI5fSwiX2ZsZXhfc2l6ZSI6Im5vbmUifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<div class=\"elementor-element elementor-element-ec8005e elementor-absolute elementor-widget elementor-widget-image\" data-id=\"ec8005e\" data-element_type=\"widget\" data-settings=\"{&quot;_position&quot;:&quot;absolute&quot;}\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"200\" height=\"211\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/creative\/wp-content\/uploads\/2025\/01\/shape2.png\" class=\"attachment-full size-full wp-image-867\" alt=\"\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Shop]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/shop-2/</link>
-		<pubDate>Thu, 24 Oct 2024 09:39:10 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/news/shop/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>450</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-24 09:39:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-24 09:39:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-24 09:39:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-24 09:39:10]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title><![CDATA[Refund and Returns Policy]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/?page_id=454</link>
@@ -8401,6 +8405,79 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[No Sidebar]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/no-sidebar/</link>
+		<pubDate>Mon, 04 Nov 2024 08:56:11 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/news/?p=761</guid>
+		<description></description>
+		<content:encoded><![CDATA[                            ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>761</wp:post_id>
+		<wp:post_date><![CDATA[2025-01-25 12:42:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-04 08:56:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-01-25 12:42:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-01-25 12:42:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[no-sidebar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>20</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[755]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[761]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://frenify.com/work/envato/frenify/wp/mow/creative/in-praise-of-quiet-resistance/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_mow_fn_megamenu]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-11-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-11-05]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-12-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Right Sidebar]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/right-sidebar/</link>
@@ -9772,8 +9849,8 @@
 										<category domain="post_tag" nicename="ai"><![CDATA[AI]]></category>
 		<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="category" nicename="food"><![CDATA[Food]]></category>
-		<category domain="category" nicename="health"><![CDATA[Health]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
+		<category domain="category" nicename="health"><![CDATA[Health]]></category>
 		<category domain="post_tag" nicename="humor"><![CDATA[Humor]]></category>
 		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
 		<category domain="post_tag" nicename="innovations"><![CDATA[Innovations]]></category>
@@ -9818,7 +9895,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[289]]></wp:meta_value>
+		<wp:meta_value><![CDATA[318]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -9826,19 +9903,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
@@ -9882,11 +9959,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
@@ -9946,28 +10023,6 @@
 						<wp:commentmeta>
 	<wp:meta_key><![CDATA[_wxr_import_user]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>5</wp:comment_id>
-			<wp:comment_author><![CDATA[Marcelo]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[msantanaalvear59@gmai.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[186.189.103.209]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2024-12-14 21:11:32]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2024-12-14 21:11:32]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Si lo leí]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>4</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1735904885]]></wp:meta_value>
 			</wp:commentmeta>
 							</wp:comment>
 					</item>
@@ -10156,7 +10211,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[147]]></wp:meta_value>
+		<wp:meta_value><![CDATA[191]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -10392,11 +10447,11 @@
 		<category domain="post_tag" nicename="design"><![CDATA[Design]]></category>
 		<category domain="category" nicename="family-getaways"><![CDATA[Family]]></category>
 		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
-		<category domain="post_tag" nicename="interior"><![CDATA[Interior]]></category>
 		<category domain="category" nicename="interior"><![CDATA[Interior]]></category>
+		<category domain="post_tag" nicename="interior"><![CDATA[Interior]]></category>
 		<category domain="category" nicename="luxury-escapes"><![CDATA[Luxury]]></category>
-		<category domain="post_tag" nicename="video"><![CDATA[Video]]></category>
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
+		<category domain="post_tag" nicename="video"><![CDATA[Video]]></category>
 		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[xoxo_fn_page_style]]></wp:meta_key>
@@ -10440,7 +10495,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[205]]></wp:meta_value>
+		<wp:meta_value><![CDATA[292]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -10480,7 +10535,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_lol]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
@@ -10522,308 +10577,31 @@
 		<wp:meta_key><![CDATA[_fers_prefix_post_options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:10:{s:16:"fers-score-shows";s:0:"";s:16:"fers-score-title";s:0:"";s:18:"fers-score-heading";s:11:"The Summary";s:19:"fers-score-overview";s:0:"";s:20:"fers-editorial-shows";s:1:"1";s:18:"fers-score-overall";s:7:"Overall";s:21:"fers-editorial-rating";a:1:{i:0;a:2:{s:35:"fers-editorial-rating-category-name";s:11:"Option Name";s:35:"fers-editorial-rating-category-rate";s:3:"100";}}s:20:"fers-pros-cons-shows";s:1:"1";s:9:"fers-pros";a:1:{i:0;a:1:{s:14:"fers-pros-list";s:18:"Advantage Sample 1";}}s:9:"fers-cons";a:1:{i:0;a:1:{s:14:"fers-cons-list";s:21:"Disadvantage Sample 1";}}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>6</wp:comment_id>
-			<wp:comment_author><![CDATA[📚 You have 1 message(-s) # 873. Open &gt;&gt; https://telegra.ph/Message--2868-12-25?hs=b635518db2394fb06b51836560d48995&amp; 📚]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[roofa2000@automisly.org]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[185.235.146.29]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2024-12-28 10:51:29]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2024-12-28 10:51:29]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[k533l7]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1735904882]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
-		<title><![CDATA[How Storytelling Transforms Marketing Strategies For Brands]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/the-creativity-supply-chain/</link>
-		<pubDate>Sat, 05 Oct 2024 09:36:15 +0000</pubDate>
+		<title><![CDATA[Shop]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/shop-2/</link>
+		<pubDate>Thu, 24 Oct 2024 09:39:10 +0000</pubDate>
 		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.net/envato/frenify/wp/xoxo/1/?p=89</guid>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/news/shop/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p id="8862">In 2007, the Writers Guild of America (WGA) strike brought Hollywood to a standstill. Scripted television shows went dark, production schedules were thrown into chaos, and viewers were left with a massive entertainment void. Yet, amid the crisis, one genre not only survived but thrived—reality TV. Shows like Survivor, Big Brother, and The Amazing Race saw a surge in popularity, as networks scrambled to fill the content gap left by scripted series.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p id="5031">Fast forward to 2024, and things look different. Reality TV, once seen as an indomitable force in entertainment, seems to be struggling. Viewership is down, new formats are floundering, and long-running franchises are losing their spark. Why has a genre that thrived during the previous strike faltered this time around?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">The Changing Landscape of Entertainment</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>One of the biggest differences between 2007 and 2024 is the way audiences consume content. In 2007, traditional network television was still king, and reality TV provided an easy-to-produce, unscripted alternative to keep viewers engaged. But in 2024, the entertainment landscape has radically shifted. <a href="#">Streaming services</a>, on-demand content, and social media platforms dominate the scene, offering viewers endless choices beyond what’s available on cable or network TV.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Reality TV Fatigue</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Another factor contributing to the decline of reality TV in 2024 is simple burnout. The genre has been oversaturated for years, with countless iterations of talent competitions, dating shows, and survival challenges crowding the airwaves. What once felt fresh and exciting has become formulaic and repetitive. New reality concepts struggle to break through the noise, while older shows like The Bachelor and Keeping Up with the <a href="#">Kardashians </a>have either ended or seen viewership dwindle.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The rise of social media influencers and YouTube personalities has also blurred the lines of “reality” entertainment. Platforms like Instagram and TikTok offer users a more personal, unfiltered view into people’s lives—often with more authenticity than heavily produced reality TV. For a generation raised on short-form, user-generated content.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:image {"id":559,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://frenify.com/work/envato/frenify/wp/mow/news/wp-content/uploads/2024/10/lake-1365288_1280-1024x682.jpg" alt="" class="wp-image-559"/><figcaption class="wp-element-caption">Engaging Nonfiction Stories</figcaption></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">The Rise of Competition: Docuseries and High-Quality Productions</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Another genre is also encroaching on reality TV’s space—docuseries. With true crime, investigative documentaries, and high-quality, multi-part series taking center stage, viewers are flocking to well-researched, deeply engaging nonfiction stories. These docuseries often provide more substance than reality TV, with compelling narratives that feel more authentic and educational. Streaming platforms are investing heavily in this content, attracting viewers who might have previously tuned into reality TV for an entertaining escape.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ironically, the ongoing 2024 writers strike may have hurt reality TV more than it helped this time around. While it once provided an opportunity for unscripted content to dominate, today’s strike has caused uncertainty across the entire entertainment industry. Even though reality TV is unscripted, many of these shows rely heavily on behind-the-scenes writing teams for story shaping, post-production edits, and narrative development. With production delays and fewer resources, the quality of reality programming has suffered.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>In addition, networks and streaming platforms are less dependent on traditional reality content to fill gaps, thanks to their vast libraries of on-demand content and international shows, which can be quickly dubbed or subtitled.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Reality TV isn’t dead—it’s evolving. While the traditional model is hurting, we may see a new era of innovation within the genre. Producers will need to get more creative, offering new formats, interactive elements, or integrating technology like virtual reality to engage audiences. Shorter, punchier series designed for streaming platforms or new niche reality shows could help revive interest.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ultimately, reality TV’s struggles in 2024 reflect broader changes in how we consume entertainment. The genre that once thrived during a content drought in 2007 is now facing stiff competition from a wide array of engaging, on-demand alternatives. To survive, reality TV will have to adapt to this new digital-first landscape.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Viewers now expect more curated, higher-quality content than ever before. Streaming giants like Netflix, Amazon Prime, and Disney+ offer highly produced series with cinematic storytelling, making traditional reality TV look cheap by comparison. Furthermore, streaming platforms have dipped into the reality genre themselves, but with more focused, niche offerings like The Circle or Love Is Blind. These shows cater to specific audiences and thrive on the binge-watching format, leaving older reality shows struggling to maintain weekly viewer engagement.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Perhaps one of the biggest shifts impacting reality TV is the rise of social media and influencer culture. Platforms like TikTok, Instagram, and YouTube offer a more authentic and unfiltered look into people’s lives than traditional reality shows. Influencers, with their real-time interactions and behind-the-scenes content, have become the new reality stars. The constant flow of content from influencers feels more personal and less produced, which resonates with today’s audiences.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Reality TV’s original appeal came from offering viewers a peek behind the curtain of real life. But in 2024, social media has democratized this concept. Now, anyone with a smartphone can share their life, making it harder for reality TV shows to maintain the same level of intrigue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:quote {"fontSize":"medium"} -->
-<blockquote class="wp-block-quote has-medium-font-size"><!-- wp:paragraph -->
-<p><strong>People ignore design that ignores people. Good design is all about making other designers feel like idiots because that idea wasn’t theirs. Design is the conscious effort to impose a meaningful order.</strong></p>
-<!-- /wp:paragraph --><cite>Andrew Bennett</cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p id="0746">Furthermore, streaming platforms have dipped into the reality genre themselves, but with more focused, niche offerings like The Circle or Love Is Blind. These shows cater to specific audiences and thrive on the binge-watching format, leaving older reality shows struggling to maintain weekly viewer engagement.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p id="0746">Platforms like TikTok, Instagram, and YouTube offer a more authentic and unfiltered look into people’s lives than traditional reality shows. Influencers, with their real-time interactions and behind-the-scenes content, have become the new reality stars. The constant flow of content from influencers feels more personal and less produced, which resonates with today’s audiences.<br><br>Reality TV’s original appeal came from offering viewers a peek behind the curtain of real life. But in 2024, social media has democratized this concept. Now, anyone with a smartphone can share their life, making it harder for reality TV shows to maintain the same level of intrigue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">The Impact of the 2024 Writers Strike</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p id="632e">Ironically, the ongoing 2024 writers strike may have hurt reality TV more than it helped this time around. While it once provided an opportunity for unscripted content to dominate, today’s strike has caused uncertainty across the entire entertainment industry. Even though reality TV is unscripted, many of these shows rely heavily on behind-the-scenes writing teams for story shaping, <a href="#">post-production</a> edits, and narrative development. With production delays and fewer resources, the quality of reality programming has suffered.<br><br>Unlike 2007, when reality TV became a go-to solution for content-hungry networks, today’s television executives have more options. Streaming platforms, vast libraries of pre-existing content, and the ability to pull in international series have reduced the reliance on hastily produced reality shows to fill programming gaps. The 2024 strike has affected reality TV’s ecosystem in ways that weren’t as pronounced during the 2007 strike, leaving the genre exposed.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Compelling storytelling helps brands connect with their audiences on a deeper level.]]></excerpt:encoded>
-		<wp:post_id>89</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-05 09:36:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-05 09:36:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-01-25 11:56:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-01-25 11:56:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-creativity-supply-chain]]></wp:post_name>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>450</wp:post_id>
+		<wp:post_date><![CDATA[2024-10-24 09:39:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-24 09:39:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-24 09:39:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-24 09:39:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shop-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="adventures-expeditions"><![CDATA[Adventures]]></category>
-		<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
-		<category domain="post_tag" nicename="design"><![CDATA[Design]]></category>
-		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
-		<category domain="post_tag" nicename="interior"><![CDATA[Interior]]></category>
-		<category domain="category" nicename="interior"><![CDATA[Interior]]></category>
-		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[xoxo_fn_page_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_not_sure]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_omg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_angry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_sad]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_lol]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_cry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[69]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_sad]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_lol]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_silly]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_crazy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-01-05]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_post_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[984]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_post_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_fers_prefix_post_options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:10:{s:16:"fers-score-shows";s:0:"";s:16:"fers-score-title";s:0:"";s:18:"fers-score-heading";s:11:"The Summary";s:19:"fers-score-overview";s:0:"";s:20:"fers-editorial-shows";s:1:"1";s:18:"fers-score-overall";s:7:"Overall";s:21:"fers-editorial-rating";a:1:{i:0;a:2:{s:35:"fers-editorial-rating-category-name";s:11:"Option Name";s:35:"fers-editorial-rating-category-rate";s:3:"100";}}s:20:"fers-pros-cons-shows";s:1:"1";s:9:"fers-pros";a:1:{i:0;a:1:{s:14:"fers-pros-list";s:18:"Advantage Sample 1";}}s:9:"fers-cons";a:1:{i:0;a:1:{s:14:"fers-cons-list";s:21:"Disadvantage Sample 1";}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+														</item>
 					<item>
 		<title><![CDATA[Cart]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/cart-2/</link>
@@ -11306,7 +11084,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[235]]></wp:meta_value>
+		<wp:meta_value><![CDATA[263]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -11577,7 +11355,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[226]]></wp:meta_value>
+		<wp:meta_value><![CDATA[251]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -11813,8 +11591,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="food"><![CDATA[Food]]></category>
-		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
 		<category domain="category" nicename="health"><![CDATA[Health]]></category>
+		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
 		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
 		<category domain="post_format" nicename="post-format-status"><![CDATA[Status]]></category>
 		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
@@ -11860,7 +11638,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[151]]></wp:meta_value>
+		<wp:meta_value><![CDATA[171]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -11872,7 +11650,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
@@ -12129,7 +11907,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[157]]></wp:meta_value>
+		<wp:meta_value><![CDATA[186]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -12165,7 +11943,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_lol]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
@@ -12365,8 +12143,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="food"><![CDATA[Food]]></category>
-		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
 		<category domain="category" nicename="health"><![CDATA[Health]]></category>
+		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
 		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
 		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
 						<wp:postmeta>
@@ -12407,7 +12185,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[173]]></wp:meta_value>
+		<wp:meta_value><![CDATA[204]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -12635,8 +12413,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="category" nicename="cultural-journeys"><![CDATA[Cultural]]></category>
-		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
 		<category domain="category" nicename="health"><![CDATA[Health]]></category>
+		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
 		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
 		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
 						<wp:postmeta>
@@ -12677,7 +12455,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[186]]></wp:meta_value>
+		<wp:meta_value><![CDATA[219]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -12771,29 +12549,7 @@
 		<wp:meta_key><![CDATA[_fers_prefix_post_options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:10:{s:16:"fers-score-shows";s:0:"";s:16:"fers-score-title";s:0:"";s:18:"fers-score-heading";s:11:"The Summary";s:19:"fers-score-overview";s:0:"";s:20:"fers-editorial-shows";s:1:"1";s:18:"fers-score-overall";s:7:"Overall";s:21:"fers-editorial-rating";a:1:{i:0;a:2:{s:35:"fers-editorial-rating-category-name";s:11:"Option Name";s:35:"fers-editorial-rating-category-rate";s:3:"100";}}s:20:"fers-pros-cons-shows";s:1:"1";s:9:"fers-pros";a:1:{i:0;a:1:{s:14:"fers-pros-list";s:18:"Advantage Sample 1";}}s:9:"fers-cons";a:1:{i:0;a:1:{s:14:"fers-cons-list";s:21:"Disadvantage Sample 1";}}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[hn]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[testA@MAIL.COM]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[2401:4900:8841:1e27:fcc4:ffd2:8069:9954]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2024-12-06 09:01:02]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2024-12-06 09:01:02]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[b]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1735904888]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title><![CDATA[Hello world!]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/?p=1</link>
@@ -12905,6 +12661,285 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
+					<item>
+		<title><![CDATA[How Storytelling Transforms Marketing Strategies For Brands]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/the-creativity-supply-chain/</link>
+		<pubDate>Sat, 05 Oct 2024 09:36:15 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.net/envato/frenify/wp/xoxo/1/?p=89</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p id="8862">In 2007, the Writers Guild of America (WGA) strike brought Hollywood to a standstill. Scripted television shows went dark, production schedules were thrown into chaos, and viewers were left with a massive entertainment void. Yet, amid the crisis, one genre not only survived but thrived—reality TV. Shows like Survivor, Big Brother, and The Amazing Race saw a surge in popularity, as networks scrambled to fill the content gap left by scripted series.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p id="5031">Fast forward to 2024, and things look different. Reality TV, once seen as an indomitable force in entertainment, seems to be struggling. Viewership is down, new formats are floundering, and long-running franchises are losing their spark. Why has a genre that thrived during the previous strike faltered this time around?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The Changing Landscape of Entertainment</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One of the biggest differences between 2007 and 2024 is the way audiences consume content. In 2007, traditional network television was still king, and reality TV provided an easy-to-produce, unscripted alternative to keep viewers engaged. But in 2024, the entertainment landscape has radically shifted. <a href="#">Streaming services</a>, on-demand content, and social media platforms dominate the scene, offering viewers endless choices beyond what’s available on cable or network TV.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Reality TV Fatigue</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Another factor contributing to the decline of reality TV in 2024 is simple burnout. The genre has been oversaturated for years, with countless iterations of talent competitions, dating shows, and survival challenges crowding the airwaves. What once felt fresh and exciting has become formulaic and repetitive. New reality concepts struggle to break through the noise, while older shows like The Bachelor and Keeping Up with the <a href="#">Kardashians </a>have either ended or seen viewership dwindle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The rise of social media influencers and YouTube personalities has also blurred the lines of “reality” entertainment. Platforms like Instagram and TikTok offer users a more personal, unfiltered view into people’s lives—often with more authenticity than heavily produced reality TV. For a generation raised on short-form, user-generated content.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"id":559,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://frenify.com/work/envato/frenify/wp/mow/news/wp-content/uploads/2024/10/lake-1365288_1280-1024x682.jpg" alt="" class="wp-image-559"/><figcaption class="wp-element-caption">Engaging Nonfiction Stories</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The Rise of Competition: Docuseries and High-Quality Productions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Another genre is also encroaching on reality TV’s space—docuseries. With true crime, investigative documentaries, and high-quality, multi-part series taking center stage, viewers are flocking to well-researched, deeply engaging nonfiction stories. These docuseries often provide more substance than reality TV, with compelling narratives that feel more authentic and educational. Streaming platforms are investing heavily in this content, attracting viewers who might have previously tuned into reality TV for an entertaining escape.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ironically, the ongoing 2024 writers strike may have hurt reality TV more than it helped this time around. While it once provided an opportunity for unscripted content to dominate, today’s strike has caused uncertainty across the entire entertainment industry. Even though reality TV is unscripted, many of these shows rely heavily on behind-the-scenes writing teams for story shaping, post-production edits, and narrative development. With production delays and fewer resources, the quality of reality programming has suffered.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In addition, networks and streaming platforms are less dependent on traditional reality content to fill gaps, thanks to their vast libraries of on-demand content and international shows, which can be quickly dubbed or subtitled.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Reality TV isn’t dead—it’s evolving. While the traditional model is hurting, we may see a new era of innovation within the genre. Producers will need to get more creative, offering new formats, interactive elements, or integrating technology like virtual reality to engage audiences. Shorter, punchier series designed for streaming platforms or new niche reality shows could help revive interest.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ultimately, reality TV’s struggles in 2024 reflect broader changes in how we consume entertainment. The genre that once thrived during a content drought in 2007 is now facing stiff competition from a wide array of engaging, on-demand alternatives. To survive, reality TV will have to adapt to this new digital-first landscape.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Viewers now expect more curated, higher-quality content than ever before. Streaming giants like Netflix, Amazon Prime, and Disney+ offer highly produced series with cinematic storytelling, making traditional reality TV look cheap by comparison. Furthermore, streaming platforms have dipped into the reality genre themselves, but with more focused, niche offerings like The Circle or Love Is Blind. These shows cater to specific audiences and thrive on the binge-watching format, leaving older reality shows struggling to maintain weekly viewer engagement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Perhaps one of the biggest shifts impacting reality TV is the rise of social media and influencer culture. Platforms like TikTok, Instagram, and YouTube offer a more authentic and unfiltered look into people’s lives than traditional reality shows. Influencers, with their real-time interactions and behind-the-scenes content, have become the new reality stars. The constant flow of content from influencers feels more personal and less produced, which resonates with today’s audiences.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Reality TV’s original appeal came from offering viewers a peek behind the curtain of real life. But in 2024, social media has democratized this concept. Now, anyone with a smartphone can share their life, making it harder for reality TV shows to maintain the same level of intrigue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:quote {"fontSize":"medium"} -->
+<blockquote class="wp-block-quote has-medium-font-size"><!-- wp:paragraph -->
+<p><strong>People ignore design that ignores people. Good design is all about making other designers feel like idiots because that idea wasn’t theirs. Design is the conscious effort to impose a meaningful order.</strong></p>
+<!-- /wp:paragraph --><cite>Andrew Bennett</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p id="0746">Furthermore, streaming platforms have dipped into the reality genre themselves, but with more focused, niche offerings like The Circle or Love Is Blind. These shows cater to specific audiences and thrive on the binge-watching format, leaving older reality shows struggling to maintain weekly viewer engagement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p id="0746">Platforms like TikTok, Instagram, and YouTube offer a more authentic and unfiltered look into people’s lives than traditional reality shows. Influencers, with their real-time interactions and behind-the-scenes content, have become the new reality stars. The constant flow of content from influencers feels more personal and less produced, which resonates with today’s audiences.<br><br>Reality TV’s original appeal came from offering viewers a peek behind the curtain of real life. But in 2024, social media has democratized this concept. Now, anyone with a smartphone can share their life, making it harder for reality TV shows to maintain the same level of intrigue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The Impact of the 2024 Writers Strike</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p id="632e">Ironically, the ongoing 2024 writers strike may have hurt reality TV more than it helped this time around. While it once provided an opportunity for unscripted content to dominate, today’s strike has caused uncertainty across the entire entertainment industry. Even though reality TV is unscripted, many of these shows rely heavily on behind-the-scenes writing teams for story shaping, <a href="#">post-production</a> edits, and narrative development. With production delays and fewer resources, the quality of reality programming has suffered.<br><br>Unlike 2007, when reality TV became a go-to solution for content-hungry networks, today’s television executives have more options. Streaming platforms, vast libraries of pre-existing content, and the ability to pull in international series have reduced the reliance on hastily produced reality shows to fill programming gaps. The 2024 strike has affected reality TV’s ecosystem in ways that weren’t as pronounced during the 2007 strike, leaving the genre exposed.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Compelling storytelling helps brands connect with their audiences on a deeper level.]]></excerpt:encoded>
+		<wp:post_id>89</wp:post_id>
+		<wp:post_date><![CDATA[2024-10-05 09:36:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-05 09:36:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-01-25 11:56:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-01-25 11:56:04]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-creativity-supply-chain]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="adventures-expeditions"><![CDATA[Adventures]]></category>
+		<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
+		<category domain="post_tag" nicename="design"><![CDATA[Design]]></category>
+		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
+		<category domain="post_tag" nicename="interior"><![CDATA[Interior]]></category>
+		<category domain="category" nicename="interior"><![CDATA[Interior]]></category>
+		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[xoxo_fn_page_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_in_love]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_happy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_not_sure]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_omg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_angry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_sad]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_lol]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_cry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[89]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_sad]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_lol]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_silly]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_crazy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-01-05]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_post_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[984]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_post_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_fers_prefix_post_options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:10:{s:16:"fers-score-shows";s:0:"";s:16:"fers-score-title";s:0:"";s:18:"fers-score-heading";s:11:"The Summary";s:19:"fers-score-overview";s:0:"";s:20:"fers-editorial-shows";s:1:"1";s:18:"fers-score-overall";s:7:"Overall";s:21:"fers-editorial-rating";a:1:{i:0;a:2:{s:35:"fers-editorial-rating-category-name";s:11:"Option Name";s:35:"fers-editorial-rating-category-rate";s:3:"100";}}s:20:"fers-pros-cons-shows";s:1:"1";s:9:"fers-pros";a:1:{i:0;a:1:{s:14:"fers-pros-list";s:18:"Advantage Sample 1";}}s:9:"fers-cons";a:1:{i:0;a:1:{s:14:"fers-cons-list";s:21:"Disadvantage Sample 1";}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Why Space Tourism May Become Mainstream Sooner Than Expected]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/how-to-think-about-your-career/</link>
@@ -13090,7 +13125,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[87]]></wp:meta_value>
+		<wp:meta_value><![CDATA[117]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -13098,7 +13133,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -13175,6 +13210,14 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_fers_prefix_post_options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:10:{s:16:"fers-score-shows";s:0:"";s:16:"fers-score-title";s:0:"";s:18:"fers-score-heading";s:11:"The Summary";s:19:"fers-score-overview";s:0:"";s:20:"fers-editorial-shows";s:1:"1";s:18:"fers-score-overall";s:7:"Overall";s:21:"fers-editorial-rating";a:1:{i:0;a:2:{s:35:"fers-editorial-rating-category-name";s:11:"Option Name";s:35:"fers-editorial-rating-category-rate";s:3:"100";}}s:20:"fers-pros-cons-shows";s:1:"1";s:9:"fers-pros";a:1:{i:0;a:1:{s:14:"fers-pros-list";s:18:"Advantage Sample 1";}}s:9:"fers-cons";a:1:{i:0;a:1:{s:14:"fers-cons-list";s:21:"Disadvantage Sample 1";}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13359,11 +13402,11 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[169]]></wp:meta_value>
+		<wp:meta_value><![CDATA[231]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -13423,11 +13466,11 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
@@ -13596,8 +13639,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 										<category domain="category" nicename="adventures-expeditions"><![CDATA[Adventures]]></category>
 		<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
-		<category domain="post_tag" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="post_tag" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[xoxo_fn_page_style]]></wp:meta_key>
@@ -13637,7 +13680,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[336]]></wp:meta_value>
+		<wp:meta_value><![CDATA[354]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -13916,7 +13959,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[221]]></wp:meta_value>
+		<wp:meta_value><![CDATA[252]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[xoxo_fn_postgallery]]></wp:meta_key>
@@ -14211,7 +14254,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[280]]></wp:meta_value>
+		<wp:meta_value><![CDATA[306]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -14247,7 +14290,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_lol]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
@@ -14259,7 +14302,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_crazy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -14443,8 +14486,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[xoxo_fn_page_style]]></wp:meta_key>
@@ -14484,7 +14527,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[382]]></wp:meta_value>
+		<wp:meta_value><![CDATA[409]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -14766,7 +14809,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[573]]></wp:meta_value>
+		<wp:meta_value><![CDATA[611]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -15077,7 +15120,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[533]]></wp:meta_value>
+		<wp:meta_value><![CDATA[559]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -15315,8 +15358,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-		<category domain="post_tag" nicename="quote"><![CDATA[Quote]]></category>
 		<category domain="post_format" nicename="post-format-quote"><![CDATA[Quote]]></category>
+		<category domain="post_tag" nicename="quote"><![CDATA[Quote]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
@@ -15366,7 +15409,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[763]]></wp:meta_value>
+		<wp:meta_value><![CDATA[802]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -15460,29 +15503,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[946]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>7</wp:comment_id>
-			<wp:comment_author><![CDATA[marcelo]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[msantanaalvear28@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[186.189.75.20]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2024-12-14 19:04:30]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2024-12-14 19:04:30]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[creo que no]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1735904887]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title><![CDATA[Hidden Cultural Gems Waiting To Be Discovered Worldwide]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/a-love-letter-to-los-angeles/</link>
@@ -15668,15 +15689,15 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[868]]></wp:meta_value>
+		<wp:meta_value><![CDATA[956]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
@@ -15756,7 +15777,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
@@ -15961,7 +15982,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1122]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1175]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -15981,7 +16002,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
@@ -16055,51 +16076,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_key><![CDATA[_fers_prefix_post_options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:10:{s:16:"fers-score-shows";s:0:"";s:16:"fers-score-title";s:0:"";s:18:"fers-score-heading";s:11:"The Summary";s:19:"fers-score-overview";s:0:"";s:20:"fers-editorial-shows";s:1:"1";s:18:"fers-score-overall";s:7:"Overall";s:21:"fers-editorial-rating";a:1:{i:0;a:2:{s:35:"fers-editorial-rating-category-name";s:11:"Option Name";s:35:"fers-editorial-rating-category-rate";s:3:"100";}}s:20:"fers-pros-cons-shows";s:1:"1";s:9:"fers-pros";a:1:{i:0;a:1:{s:14:"fers-pros-list";s:18:"Advantage Sample 1";}}s:9:"fers-cons";a:1:{i:0;a:1:{s:14:"fers-cons-list";s:21:"Disadvantage Sample 1";}}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>8</wp:comment_id>
-			<wp:comment_author><![CDATA[test]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[test123@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[14.248.151.211]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2024-12-26 00:53:07]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2024-12-26 00:53:07]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[test]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1735904884]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>9</wp:comment_id>
-			<wp:comment_author><![CDATA[test]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[test123@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[14.248.151.211]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2024-12-26 00:54:06]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2024-12-26 00:54:06]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[test 123]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1735904883]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title><![CDATA[Breaking Boundaries With Sustainable Urban Living Trends]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/leaving-san-francisco/</link>
@@ -16241,8 +16218,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
-		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[xoxo_fn_page_style]]></wp:meta_key>
@@ -16282,7 +16259,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[329]]></wp:meta_value>
+		<wp:meta_value><![CDATA[364]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -16376,33 +16353,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_key><![CDATA[_fers_prefix_post_options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:10:{s:16:"fers-score-shows";s:0:"";s:16:"fers-score-title";s:0:"";s:18:"fers-score-heading";s:11:"The Summary";s:19:"fers-score-overview";s:0:"";s:20:"fers-editorial-shows";s:1:"1";s:18:"fers-score-overall";s:7:"Overall";s:21:"fers-editorial-rating";a:1:{i:0;a:2:{s:35:"fers-editorial-rating-category-name";s:11:"Option Name";s:35:"fers-editorial-rating-category-rate";s:3:"100";}}s:20:"fers-pros-cons-shows";s:1:"1";s:9:"fers-pros";a:1:{i:0;a:1:{s:14:"fers-pros-list";s:18:"Advantage Sample 1";}}s:9:"fers-cons";a:1:{i:0;a:1:{s:14:"fers-cons-list";s:21:"Disadvantage Sample 1";}}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>10</wp:comment_id>
-			<wp:comment_author><![CDATA[marcelo]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[construccionneom@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[186.189.75.20]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2024-12-14 19:07:35]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2024-12-14 19:07:35]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[ahora si]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1735904886]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wxr_import_user]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title><![CDATA[Travel Bag]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/product/travel-bag/</link>
@@ -17094,132 +17045,6 @@ Moisturizing soap bar with a rich lather, infused with natural oils and refreshi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Jacket – Blue]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/product/jacket-blue/</link>
-		<pubDate>Thu, 24 Oct 2024 09:52:28 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/news/?post_type=product&#038;p=463</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="flex max-w-full flex-col flex-grow">
-<div class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="4076ba08-2c0d-4dc4-9ae1-e4f19f742fdf" data-message-model-slug="gpt-4o">
-<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
-<div class="markdown prose w-full break-words dark:prose-invert light">
-
-Classic blue jacket with a tailored fit, front zip closure, and lightweight insulation. Features two side pockets and a stand-up collar for added style and warmth. Perfect for layering in cooler weather.
-
-</div>
-</div>
-</div>
-</div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[<div class="flex max-w-full flex-col flex-grow">
-<div class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="4076ba08-2c0d-4dc4-9ae1-e4f19f742fdf" data-message-model-slug="gpt-4o">
-<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
-<div class="markdown prose w-full break-words dark:prose-invert light">
-
-Classic blue jacket with a tailored fit, front zip closure, and lightweight insulation. Features two side pockets and a stand-up collar for added style and warmth. Perfect for layering in cooler weather.
-
-</div>
-</div>
-</div>
-</div>]]></excerpt:encoded>
-		<wp:post_id>463</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-24 09:52:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-24 09:52:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-10-24 09:52:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-10-24 09:52:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[jacket-blue]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
-		<wp:meta_value><![CDATA[visible]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[189]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[180]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9.3.3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[180]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[inter;normal;400;100%;U+0-10FFFF]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/internormal400100u0-10ffff/</link>
 		<pubDate>Thu, 23 Jan 2025 09:39:19 +0000</pubDate>
@@ -17676,29 +17501,131 @@ Classic blue jacket with a tailored fit, front zip closure, and lightweight insu
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[montserrat;italic;700;100%;U+0-10FFFF]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/montserratitalic700100u0-10ffff/</link>
-		<pubDate>Thu, 23 Jan 2025 09:39:22 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/creative/index.php/2025/01/23/montserratitalic700100u0-10ffff/</guid>
+		<title><![CDATA[Jacket – Blue]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/product/jacket-blue/</link>
+		<pubDate>Thu, 24 Oct 2024 09:52:28 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/news/?post_type=product&#038;p=463</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Montserrat","fontStyle":"italic","fontWeight":"700","src":"https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/fonts/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aXp-p7K5ILg.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/montserrat/montserrat-700-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>47</wp:post_id>
-		<wp:post_date><![CDATA[2025-01-23 09:39:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-01-23 09:39:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-01-23 09:39:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-01-23 09:39:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<content:encoded><![CDATA[<div class="flex max-w-full flex-col flex-grow">
+<div class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="4076ba08-2c0d-4dc4-9ae1-e4f19f742fdf" data-message-model-slug="gpt-4o">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+
+Classic blue jacket with a tailored fit, front zip closure, and lightweight insulation. Features two side pockets and a stand-up collar for added style and warmth. Perfect for layering in cooler weather.
+
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[<div class="flex max-w-full flex-col flex-grow">
+<div class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="4076ba08-2c0d-4dc4-9ae1-e4f19f742fdf" data-message-model-slug="gpt-4o">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+
+Classic blue jacket with a tailored fit, front zip closure, and lightweight insulation. Features two side pockets and a stand-up collar for added style and warmth. Perfect for layering in cooler weather.
+
+</div>
+</div>
+</div>
+</div>]]></excerpt:encoded>
+		<wp:post_id>463</wp:post_id>
+		<wp:post_date><![CDATA[2024-10-24 09:52:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-24 09:52:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-24 09:52:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-24 09:52:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[montserratitalic700100u0-10ffff]]></wp:post_name>
+		<wp:post_name><![CDATA[jacket-blue]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>21</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
+		<wp:meta_value><![CDATA[visible]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[189]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[180]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9.3.3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[180]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Inter]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/inter/</link>
@@ -17772,26 +17699,26 @@ Classic blue jacket with a tailored fit, front zip closure, and lightweight insu
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Albert Sans]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/albert-sans/</link>
-		<pubDate>Thu, 23 Jan 2025 09:39:19 +0000</pubDate>
+		<title><![CDATA[montserrat;italic;700;100%;U+0-10FFFF]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/montserratitalic700100u0-10ffff/</link>
+		<pubDate>Thu, 23 Jan 2025 09:39:22 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/creative/index.php/2025/01/23/albert-sans/</guid>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/creative/index.php/2025/01/23/montserratitalic700100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"\"Albert Sans\", sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/albert-sans/albert-sans.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"fontFamily":"Montserrat","fontStyle":"italic","fontWeight":"700","src":"https://frenify.com/work/envato/frenify/wp/mow/creative/wp-content/uploads/fonts/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aXp-p7K5ILg.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/montserrat/montserrat-700-italic.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date><![CDATA[2025-01-23 09:39:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-01-23 09:39:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-01-23 09:39:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-01-23 09:39:19]]></wp:post_modified_gmt>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date><![CDATA[2025-01-23 09:39:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-01-23 09:39:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-01-23 09:39:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-01-23 09:39:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[albert-sans]]></wp:post_name>
+		<wp:post_name><![CDATA[montserratitalic700100u0-10ffff]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>21</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
@@ -18176,6 +18103,30 @@ Classic blue jacket with a tailored fit, front zip closure, and lightweight insu
 		<wp:post_parent>27</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Albert Sans]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/creative/albert-sans/</link>
+		<pubDate>Thu, 23 Jan 2025 09:39:19 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/creative/index.php/2025/01/23/albert-sans/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"\"Albert Sans\", sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/albert-sans/albert-sans.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date><![CDATA[2025-01-23 09:39:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-01-23 09:39:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-01-23 09:39:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-01-23 09:39:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[albert-sans]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>

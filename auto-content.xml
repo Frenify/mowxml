@@ -15,9 +15,8 @@
 <!--    existing user on the site or to create a new user. -->
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
-<!--    frenify xml -->
 
-	<!-- generator="WordPress/6.7.1" created="2025-01-03 11:43" -->
+	<!-- generator="WordPress/6.7.2" created="2025-02-18 08:42" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -30,7 +29,7 @@
 	<title>Mow</title>
 	<link>https://frenify.com/work/envato/frenify/wp/mow/auto</link>
 	<description>Blog &#38; Magazine WordPress Theme</description>
-	<pubDate>Fri, 03 Jan 2025 11:43:33 +0000</pubDate>
+	<pubDate>Tue, 18 Feb 2025 08:42:52 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://frenify.com/work/envato/frenify/wp/mow/auto</wp:base_site_url>
@@ -302,6 +301,13 @@
 		<wp:term_name><![CDATA[outofstock]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>58</wp:term_id>
+		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[page]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[page]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rated-1]]></wp:term_slug>
@@ -372,7 +378,7 @@
 	<wp:term><wp:term_id>53</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[offcanvas-menu]]></wp:term_slug><wp:term_name><![CDATA[Offcanvas Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 		<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
@@ -2394,67 +2400,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/home-2/</link>
-		<pubDate>Sat, 09 Nov 2024 08:30:00 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/auto/2024/11/09/home-2/</guid>
-		<description></description>
-		<content:encoded><![CDATA[                            ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>328</wp:post_id>
-		<wp:post_date><![CDATA[2024-11-09 08:30:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-11-09 08:30:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-11-09 08:30:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-11-09 08:30:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_mow_fn_megamenu]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[vintage-car-852239_1280]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/leaving-san-francisco/vintage-car-852239_1280/</link>
 		<pubDate>Mon, 11 Nov 2024 07:13:57 +0000</pubDate>
@@ -2687,6 +2632,125 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[27f19feb657179fadc9330c5875d1480bcc58840]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home Auto]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/?elementor_library=home-auto</link>
+		<pubDate>Mon, 27 Jan 2025 17:45:54 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/auto/?elementor_library=home-auto</guid>
+		<description></description>
+		<content:encoded><![CDATA[<a href="https://frenify.com/work/envato/frenify/wp/mow/auto/what-marriage-means-to-me/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/ai-generated-8061608_1280.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/sports/">Sports</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/what-marriage-means-to-me/">Top Luxury SUVs That Combine Power and Comfort for 2024</a></h3>				
+					<a href="https://frenify.com/work/envato/frenify/wp/mow/auto/a-love-letter-to-los-angeles/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/wheel-4640912_1280.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/sports/concepts/">Concepts</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/a-love-letter-to-los-angeles/">The Best Affordable Electric Cars for Eco-Friendly Drivers</a></h3>				
+					<svg viewBox="0 0 30 30"><circle r="13" cx="15" cy="15"></circle></svg><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/its-not-just-the-passing-of-a-queen/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/vintage-car-852239_1280.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/sports/trucks/">Trucks</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/its-not-just-the-passing-of-a-queen/">Understanding the Benefits of Hybrid vs Fully Electric Cars</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/do-you-need-to-change-yourself/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/motorcycle-6288958_1280.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/sports/">Sports</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/do-you-need-to-change-yourself/">How Self-Driving Technology Is Transforming Daily Commutes</a></h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/the-absolutely-ridiculous-history/">11<img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/speedometer-1249610_1280.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/sports/">Sports</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/the-absolutely-ridiculous-history/">Comparing the Latest Features in Compact and Midsize SUVs</a></h3>				
+					<a href="https://frenify.com/work/envato/frenify/wp/mow/auto/every-day-is-a-trip/"></a><button>Play / Pause</button><button>Mute / Unmute</button><a href="https://www.youtube.com/watch?v=tUjIwYeVlQc&amp;pp=ygUIY2FyIHJlZWw%3D" target="_blank">Watch Full Video on YouTube</a><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/car-6833909_1280.jpg" alt="Fallback Image"><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/electric/">Electric</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/every-day-is-a-trip/">Exploring the Best Off-Road Vehicles Built for Adventure</a></h3>				
+					<a href="https://frenify.com/work/envato/frenify/wp/mow/auto/a-search-tool-for-serendipity/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/racing-4779187_1280.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/compact/">Compact</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/a-search-tool-for-serendipity/">Reviewing the Top Fuel-Efficient Cars for City Driving</a></h3>				
+					<h3>Advertisement</h3><a href="https://frenify.com/" rel="nofollow" target="_blank"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/news/wp-content/uploads/2024/10/ad23.jpg" alt=""></a>				
+					<h2>Trending News</h2>				
+					<ul><li><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/leaving-san-francisco/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/auto-2614687_1280-1024x684.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/sports/">Sports</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/leaving-san-francisco/">Exploring the Latest Advancements in Electric Car Batteries</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/what-marriage-means-to-me/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/ai-generated-8061608_1280-1024x682.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/compact/">Compact</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/what-marriage-means-to-me/">Top Luxury SUVs That Combine Power and Comfort for 2024</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/a-love-letter-to-los-angeles/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/wheel-4640912_1280-1024x682.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/sports/concepts/">Concepts</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/a-love-letter-to-los-angeles/">The Best Affordable Electric Cars for Eco-Friendly Drivers</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/its-not-just-the-passing-of-a-queen/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/vintage-car-852239_1280-1024x682.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/compact/">Compact</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/its-not-just-the-passing-of-a-queen/">Understanding the Benefits of Hybrid vs Fully Electric Cars</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/do-you-need-to-change-yourself/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/motorcycle-6288958_1280-1024x682.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/sports/">Sports</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/do-you-need-to-change-yourself/">How Self-Driving Technology Is Transforming Daily Commutes</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/the-absolutely-ridiculous-history/">11<img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/speedometer-1249610_1280-1024x681.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/sports/">Sports</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/the-absolutely-ridiculous-history/">Comparing the Latest Features in Compact and Midsize SUVs</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/famous-works-of-literature/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/rally-8722369_1280-1024x574.png" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/sports/">Sports</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/famous-works-of-literature/">Evaluating the Most Reliable Cars for Long-Distance Travel</a></h3></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/a-search-tool-for-serendipity/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/racing-4779187_1280-1024x682.jpg" alt=""></a><p><a href=" https://frenify.com/work/envato/frenify/wp/mow/auto/category/sports/reviews/">Reviews</a>3 months ago</p><h3><a href="https://frenify.com/work/envato/frenify/wp/mow/auto/a-search-tool-for-serendipity/">Reviewing the Top Fuel-Efficient Cars for City Driving</a></h3></li></ul>				
+					<h2>Today’s Video</h2>				
+		https://www.youtube.com/watch?v=ekgUjyWe1Yc&#038;pp=ygUIY2FyIHJlZWw%3D		
+					<h3>Advertisement</h3><a href="https://frenify.com/" rel="nofollow" target="_blank"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/11/300ads-300.jpg" alt=""></a>				
+					<h3>Stay Informed With the Latest & Most Important News</h3><!-- Mailchimp for WordPress v4.9.20 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" method="post" data-id="314" data-name="Newspaper" ><input type="email" name="EMAIL" placeholder="Your email address" required /><input type="submit" value="Subscribe" />
+<p>I consent to receive newsletter via email. For further information, 
+  please review our <a href="#">Privacy Policy</a></p><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1737999954" /><input type="hidden" name="_mc4wp_form_id" value="314" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></form><!-- / Mailchimp for WordPress Plugin -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>927</wp:post_id>
+		<wp:post_date><![CDATA[2025-01-27 17:45:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-01-27 17:45:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-01-27 17:45:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-01-27 17:45:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-auto]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="elementor_library_type" nicename="page"><![CDATA[page]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.26.3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"37cb0cdf","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0"},"content_width":"full","boxed_width":{"unit":"px","size":1740,"sizes":[]},"margin":{"unit":"px","top":"60","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container","flex_direction_tablet":"column"},"elements":[{"id":"44a345a2","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"25"},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"15","bottom":"15","left":"0","isLinked":false},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"580ba728","elType":"widget","settings":{"content_width":"full","layout":"epsilon","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":1,"sizes":[]},"bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"blog_post_offset":1,"delta_img_ratio":{"unit":"px","size":1.5,"sizes":[]}},"elements":[],"widgetType":"frel-posts"},{"id":"4d8bc308","elType":"widget","settings":{"content_width":"full","layout":"epsilon","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":1,"sizes":[]},"bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"blog_post_offset":2,"delta_img_ratio":{"unit":"px","size":1.5,"sizes":[]},"video_autoplay":"enable"},"elements":[],"widgetType":"frel-posts"}],"isInner":true},{"id":"2290da04","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"50"},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"15","bottom":"15","left":"15","isLinked":false},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"c46cd2","elType":"widget","settings":{"content_width":"full","layout":"epsilon","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"blog_post_offset":3,"epsilon_img_ratio":{"unit":"px","size":0.957,"sizes":[]},"epsilon_title_size":"l","blog_post_number":{"unit":"px","size":3,"sizes":[]}},"elements":[],"widgetType":"frel-posts"},{"id":"3b6526e4","elType":"widget","settings":{"_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"content_width":"full"},"elements":[],"widgetType":"frel-divider"}],"isInner":true},{"id":"3c4d5173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":"25"},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"15","left":"15","isLinked":false},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7ee44f3a","elType":"widget","settings":{"content_width":"full","layout":"epsilon","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":1,"sizes":[]},"bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"blog_post_offset":20},"elements":[],"widgetType":"frel-posts"},{"id":"24ce5d02","elType":"widget","settings":{"content_width":"full","layout":"epsilon","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":1,"sizes":[]},"bpod_list":[],"hlight_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"blog_post_offset":7,"video_autoplay":"disable","epsilon_img_ratio":{"unit":"px","size":1.01,"sizes":[]}},"elements":[],"widgetType":"frel-posts"}],"isInner":true}],"isInner":false},{"id":"bb2a9c4","elType":"container","settings":{"content_width":"full","margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"3434edca","elType":"widget","settings":{"content_width":"full","show_container":"yes","show_title":"yes","title":"Advertisement","type_image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/news\/wp-content\/uploads\/2024\/10\/ad23.jpg","id":339,"size":"","alt":"","source":"library"},"type_image_url":"https:\/\/frenify.com\/"},"elements":[],"widgetType":"frel-ad"}],"isInner":false},{"id":"7a274f61","elType":"container","settings":{"flex_direction":"column","content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container"},"elements":[{"id":"19955bb5","elType":"widget","settings":{"tag":"h2","title":"Trending News","marquee_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"21","left":"0","isLinked":false}},"elements":[],"widgetType":"frel-title"},{"id":"1d32a796","elType":"widget","settings":{"layout":"delta","delta_layout":"column","read_more_text":"Read More","posts_filter_left_text":"Popular","posts_filter_right_text":"Recent","blog_post_number":{"unit":"px","size":8,"sizes":[]},"bpod_list":[],"hlight_list":[],"delta_img_ratio":{"unit":"px","size":1.4,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"frel-posts"},{"id":"2bf11419","elType":"widget","settings":{"_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"frel-divider"},{"id":"4214a028","elType":"widget","settings":{"tag":"h2","title":"Today\u2019s Video","marquee_list":[],"_margin":{"unit":"px","top":"0","right":"0","bottom":"21","left":"0","isLinked":false}},"elements":[],"widgetType":"frel-title"}],"isInner":false},{"id":"2ae04431","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":false},"content_width":"full","flex_direction_tablet":"column","margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container"},"elements":[{"id":"2d9a7c76","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":75},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7e695d2e","elType":"widget","settings":{"youtube_url":"https:\/\/www.youtube.com\/watch?v=ekgUjyWe1Yc&pp=ygUIY2FyIHJlZWw%3D","vimeo_url":"https:\/\/vimeo.com\/235215203","dailymotion_url":"https:\/\/www.dailymotion.com\/video\/x6tqhqb","videopress_url":"https:\/\/videopress.com\/v\/ZCAOzTNk"},"elements":[],"widgetType":"video"}],"isInner":true},{"id":"7ee75e5","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"55a76a92","elType":"widget","settings":{"show_title":"yes","title":"Advertisement","type_image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/auto\/wp-content\/uploads\/2024\/11\/300ads-300.jpg","id":884,"size":"","source":"library","alt":""},"type_image_url":"https:\/\/frenify.com\/"},"elements":[],"widgetType":"frel-ad"}],"isInner":true}],"isInner":false},{"id":"454a71d9","elType":"container","settings":{"content_width":"full","margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false},"background_background":"classic","background_color":"#008B8B"},"elements":[{"id":"70544e37","elType":"widget","settings":{"content_width":"full","title":"Stay Informed With the Latest & Most Important News","shortcode":"[mc4wp_form id=314]"},"elements":[],"widgetType":"frel-subscribe"}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/home-2/</link>
+		<pubDate>Sat, 09 Nov 2024 08:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/auto/2024/11/09/home-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[                            ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>328</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-09 08:30:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-09 08:30:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-11-09 08:30:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-11-09 08:30:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[328]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_mow_fn_megamenu]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6649,75 +6713,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/780/</link>
-		<pubDate>Sat, 09 Nov 2024 08:47:54 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/auto/?p=780</guid>
-		<description></description>
-		<content:encoded><![CDATA[                            ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>780</wp:post_id>
-		<wp:post_date><![CDATA[2024-12-03 11:21:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-11-09 08:47:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-03 11:21:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-03 11:21:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[780]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>47</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_mow_fn_megamenu]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-11-09]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-11-11]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Shop]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/shop/</link>
 		<pubDate>Sat, 09 Nov 2024 08:16:11 +0000</pubDate>
@@ -7215,7 +7210,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[96]]></wp:meta_value>
+		<wp:meta_value><![CDATA[165]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -7223,7 +7218,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -7243,7 +7238,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
@@ -7288,6 +7283,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7487,7 +7490,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[100]]></wp:meta_value>
+		<wp:meta_value><![CDATA[196]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -7766,7 +7769,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[52]]></wp:meta_value>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -7778,11 +7781,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
@@ -7790,15 +7793,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_sad]]></wp:meta_key>
@@ -7839,6 +7842,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8031,7 +8042,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		<wp:meta_value><![CDATA[92]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8301,7 +8312,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		<wp:meta_value><![CDATA[91]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8309,7 +8320,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -8317,7 +8328,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
@@ -8379,275 +8390,13 @@
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[898]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Latest Advancements in Autonomous Emergency Braking Systems]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/men-women-are-bilogical-opposites/</link>
-		<pubDate>Sat, 05 Oct 2024 09:22:35 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.net/envato/frenify/wp/xoxo/1/?p=76</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p id="8862">As electric vehicles (EVs) continue to surge in popularity, battery technology advancements are pivotal in shaping the industry's future. Here, we’ll explore the cutting-edge developments in EV battery technology that enhance efficiency, reduce costs, and pave the way for a more sustainable automotive landscape.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p id="5031">Lithium-ion (Li-ion) batteries have been the standard for electric vehicles and are known for their reliability and energy density. However, despite their efficiency, challenges such as heat management and longevity continue to push researchers to look for alternative solutions and improvements.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Solid-State Batteries: A Promising Alternative</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Solid-state batteries are emerging as one of the most promising alternatives to lithium-ion technology. By <a href="#">replacing the liquid electrolyte</a> with a solid material, they offer improved safety, longer lifespan, and faster charging times. Companies like Toyota and BMW are investing heavily in solid-state battery development, with hopes of bringing them to market in the next few years.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Advances in materials science are opening new doors for extending battery life and range. Innovations like silicon anodes and lithium-sulfur configurations are proving capable of holding a larger charge, which could lead to significantly increased driving ranges for EVs.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Traditional lithium-ion batteries rely heavily on cobalt, a rare and costly material. Cobalt-free batteries are an emerging focus, as they offer a sustainable and cost-effective solution. Companies like Tesla are experimenting with cobalt-free lithium iron phosphate (LFP) batteries, which are more affordable and environmentally friendly.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Faster Charging Times with New Technologies</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>One of the biggest hurdles for electric car adoption has been long charging times. Recent advancements in charging technology, such as ultra-fast chargers and high-capacity charging stations, are reducing EV charging times dramatically, bringing them closer to the convenience of refueling a traditional gasoline car.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>As more EVs hit the road, the need for sustainable battery disposal becomes urgent. Innovative recycling processes are being developed to reclaim valuable materials like lithium, cobalt, and nickel from used batteries, reducing waste and promoting a circular economy.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:image {"id":804,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/content_image.jpg" alt="" class="wp-image-804"/><figcaption class="wp-element-caption">Engaging Nonfiction Stories</figcaption></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">The Rise of Second-Life Batteries</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Second-life battery programs give EV batteries a new purpose after their capacity has decreased. These repurposed batteries are often used for energy storage applications, such as grid storage, reducing waste and extending battery life beyond automotive use.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Battery Management Systems (BMS) are crucial for monitoring and managing battery performance. New BMS technologies now offer advanced features, including real-time monitoring, AI-based predictive maintenance, and enhanced thermal management, improving battery safety and lifespan.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quantum computing is starting to play a role in optimizing battery chemistry and design. By simulating complex chemical reactions, researchers can identify ideal battery compositions and configurations faster, accelerating the development of new, high-performance battery technologies.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Graphene-based batteries are in experimental stages, but they promise significant improvements in charge speed, capacity, and lifespan. Graphene's incredible conductivity and flexibility make it a potential game-changer for EV batteries, although mass production remains a challenge.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Battery weight has a substantial impact on vehicle efficiency and handling. New lightweight materials and designs are helping reduce battery weight, which can improve the overall range and efficiency of electric vehicles.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Effective thermal management is essential to prevent overheating and improve battery lifespan. Innovations such as liquid cooling systems and phase-change materials are being integrated into battery packs, allowing EVs to maintain optimal performance in various climates.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>With advancements in battery technology, manufacturers are now offering longer warranties on EV batteries, reflecting increased confidence in their durability. Extended warranties are appealing to consumers and signify that batteries are becoming more robust and reliable.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Wireless charging is another exciting development in the EV market. By embedding charging infrastructure in parking spaces or roads, EVs could one day charge wirelessly, making the process more convenient and accessible.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:quote {"fontSize":"medium"} -->
-<blockquote class="wp-block-quote has-medium-font-size"><!-- wp:paragraph -->
-<p><strong>People ignore design that ignores people. Good design is all about making other designers feel like idiots because that idea wasn’t theirs. Design is the conscious effort to impose a meaningful order.</strong></p>
-<!-- /wp:paragraph --><cite>Andrew Bennett</cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p id="0746">For EVs to become more accessible, batteries need to be produced economically on a large scale. Recent advancements in battery production techniques are helping manufacturers lower costs and increase output, making EVs more affordable for consumers.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p id="0746">High-energy-density batteries allow for more compact battery packs without compromising range, ideal for small EVs and urban mobility solutions. These advancements are driving the development of compact, efficient, and affordable urban EVs.<br><br>Many automakers are partnering with battery manufacturers to accelerate innovation. Collaborations between companies like General Motors and LG Chem are resulting in faster advancements and more seamless integration of new battery technologies.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"2px"} -->
-<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Future-Proofing with Modular Battery Systems</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p id="632e">Modular battery systems, which allow for easier upgrades and replacements, are gaining attention. They offer flexibility in adapting to future battery advancements without requiring a full vehicle replacement, making EVs more sustainable long-term.<br><br>The advancements in EV battery technology are revolutionizing the automotive industry. As these technologies continue to mature, we can expect electric vehicles to become increasingly efficient, sustainable, and accessible. From solid-state batteries to wireless charging, the future of electric vehicles is being powered by innovation.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Autonomous emergency braking is a game-changer for safety. Discover how this technology works and which cars are equipped with the latest systems.]]></excerpt:encoded>
-		<wp:post_id>76</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-05 09:22:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-05 09:22:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-11-11 08:45:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-11-11 08:45:26]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[men-women-are-bilogical-opposites]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
-		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
-		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
-		<category domain="category" nicename="luxury"><![CDATA[Luxury]]></category>
-		<category domain="category" nicename="safety"><![CDATA[Safety]]></category>
-		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[823]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[xoxo_fn_page_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_not_sure]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_omg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_angry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_sad]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_lol]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_xoxo_fn_reaction_cry]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[47]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_sad]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_lol]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_silly]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mow_fn_reaction_crazy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-01-05]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_post_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_post_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wsl]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8770,6 +8519,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[[{"id":"bff0e67","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"flex_direction_tablet":"column"},"elements":[{"id":"8befd41","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":60},"padding":{"unit":"px","top":"0","right":"25","bottom":"0","left":"0","isLinked":false},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"8d2f997","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"145\" title=\"Contact form 1\"]","_margin":{"unit":"px","top":"0","right":"0","bottom":"45","left":"0","isLinked":false}},"elements":[],"widgetType":"shortcode"},{"id":"ba9c397","elType":"widget","settings":{"editor":"<p>In case you prefer to contact us through other means, you can also find our phone number and mailing address listed below. We strive to provide exceptional customer service and ensure that your experience with us is seamless.<\/p>\n<p>\u00a0<\/p>\n<p>Thank you for choosing us as your trusted resource. We look forward to hearing from you!<\/p>\n<p>\u00a0<\/p>\n<p><strong>Phone: <\/strong><\/p>\n<p>General Inquiries: (555) 123-4567<\/p>\n<p>Project Management Office: (555) 987-6543<\/p>\n<p>Customer Support: (555) 234-5678<\/p>\n<p>Emergency Line: (555) 876-5432<\/p>\n<p>Services Hotline: (555) 345-6789<\/p>\n<p>\u00a0<\/p>\n<p><strong>Email: <\/strong><\/p>\n<p>General Inquiries: info@examplemosh.com<\/p>\n<p>Estimates: projects@samplemosh.com<\/p>\n<p>Careers: support@moshexperts.net<\/p>\n<p>\u00a0<\/p>\n<p>Please note that our office hours are [Insert Office Hours]. While we endeavor to respond to all inquiries promptly, there may be slight delays during weekends and holidays.<\/p>","text_color":"#000000","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"ddf405d","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"25","isLinked":false},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"f9dbcd3","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":348,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":1,"blur":3,"spread":0,"color":"rgba(0, 0, 0, 0.15)"}},"elements":[],"widgetType":"google_maps"},{"id":"842e2f4","elType":"widget","settings":{"image":{"id":916,"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/auto\/wp-content\/uploads\/2024\/12\/health.jpg"},"image_size":"full","image_border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_box_shadow_box_shadow_type":"yes","image_box_shadow_box_shadow":{"horizontal":0,"vertical":1,"blur":3,"spread":0,"color":"rgba(0, 0, 0, 0.15)"},"_margin":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:6:"styles";a:3:{i:0;s:18:"widget-text-editor";i:1;s:18:"widget-google_maps";i:2;s:12:"widget-image";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"timeout":1739894187,"value":{"content":"<div class=\"elementor-element elementor-element-bff0e67 e-con-full e-flex e-con e-parent\" data-id=\"bff0e67\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-8befd41 e-con-full e-flex e-con e-child\" data-id=\"8befd41\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjhkMmY5OTciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG9ydGNvZGUiOiJbY29udGFjdC1mb3JtLTcgaWQ9XCIxNDVcIiB0aXRsZT1cIkNvbnRhY3QgZm9ybSAxXCJdIiwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiNDUiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJzaG9ydGNvZGUifQ==\"][elementor-element data=\"eyJpZCI6ImJhOWMzOTciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJlZGl0b3IiOiI8cD5JbiBjYXNlIHlvdSBwcmVmZXIgdG8gY29udGFjdCB1cyB0aHJvdWdoIG90aGVyIG1lYW5zLCB5b3UgY2FuIGFsc28gZmluZCBvdXIgcGhvbmUgbnVtYmVyIGFuZCBtYWlsaW5nIGFkZHJlc3MgbGlzdGVkIGJlbG93LiBXZSBzdHJpdmUgdG8gcHJvdmlkZSBleGNlcHRpb25hbCBjdXN0b21lciBzZXJ2aWNlIGFuZCBlbnN1cmUgdGhhdCB5b3VyIGV4cGVyaWVuY2Ugd2l0aCB1cyBpcyBzZWFtbGVzcy48XC9wPlxuPHA+XHUwMGEwPFwvcD5cbjxwPlRoYW5rIHlvdSBmb3IgY2hvb3NpbmcgdXMgYXMgeW91ciB0cnVzdGVkIHJlc291cmNlLiBXZSBsb29rIGZvcndhcmQgdG8gaGVhcmluZyBmcm9tIHlvdSE8XC9wPlxuPHA+XHUwMGEwPFwvcD5cbjxwPjxzdHJvbmc+UGhvbmU6IDxcL3N0cm9uZz48XC9wPlxuPHA+R2VuZXJhbCBJbnF1aXJpZXM6ICg1NTUpIDEyMy00NTY3PFwvcD5cbjxwPlByb2plY3QgTWFuYWdlbWVudCBPZmZpY2U6ICg1NTUpIDk4Ny02NTQzPFwvcD5cbjxwPkN1c3RvbWVyIFN1cHBvcnQ6ICg1NTUpIDIzNC01Njc4PFwvcD5cbjxwPkVtZXJnZW5jeSBMaW5lOiAoNTU1KSA4NzYtNTQzMjxcL3A+XG48cD5TZXJ2aWNlcyBIb3RsaW5lOiAoNTU1KSAzNDUtNjc4OTxcL3A+XG48cD5cdTAwYTA8XC9wPlxuPHA+PHN0cm9uZz5FbWFpbDogPFwvc3Ryb25nPjxcL3A+XG48cD5HZW5lcmFsIElucXVpcmllczogaW5mb0BleGFtcGxlbW9zaC5jb208XC9wPlxuPHA+RXN0aW1hdGVzOiBwcm9qZWN0c0BzYW1wbGVtb3NoLmNvbTxcL3A+XG48cD5DYXJlZXJzOiBzdXBwb3J0QG1vc2hleHBlcnRzLm5ldDxcL3A+XG48cD5cdTAwYTA8XC9wPlxuPHA+UGxlYXNlIG5vdGUgdGhhdCBvdXIgb2ZmaWNlIGhvdXJzIGFyZSBbSW5zZXJ0IE9mZmljZSBIb3Vyc10uIFdoaWxlIHdlIGVuZGVhdm9yIHRvIHJlc3BvbmQgdG8gYWxsIGlucXVpcmllcyBwcm9tcHRseSwgdGhlcmUgbWF5IGJlIHNsaWdodCBkZWxheXMgZHVyaW5nIHdlZWtlbmRzIGFuZCBob2xpZGF5cy48XC9wPiIsInRleHRfY29sb3IiOiIjMDAwMDAwIiwidHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidHlwb2dyYXBoeV9mb250X2ZhbWlseSI6IldvcmsgU2FucyIsInR5cG9ncmFwaHlfZm9udF9zaXplIjp7InVuaXQiOiJweCIsInNpemUiOjE4LCJzaXplcyI6W119LCJ0eXBvZ3JhcGh5X2ZvbnRfd2VpZ2h0IjoiNDAwIiwidHlwb2dyYXBoeV9saW5lX2hlaWdodCI6eyJ1bml0IjoicHgiLCJzaXplIjoyNCwic2l6ZXMiOltdfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6InRleHQtZWRpdG9yIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-ddf405d e-con-full e-flex e-con e-child\" data-id=\"ddf405d\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-f9dbcd3 elementor-widget elementor-widget-google_maps\" data-id=\"f9dbcd3\" data-element_type=\"widget\" data-widget_type=\"google_maps.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-custom-embed\">\n\t\t\t<iframe loading=\"lazy\"\n\t\t\t\t\tsrc=\"https:\/\/maps.google.com\/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&#038;t=m&#038;z=10&#038;output=embed&#038;iwloc=near\"\n\t\t\t\t\ttitle=\"London Eye, London, United Kingdom\"\n\t\t\t\t\taria-label=\"London Eye, London, United Kingdom\"\n\t\t\t><\/iframe>\n\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-842e2f4 elementor-widget elementor-widget-image\" data-id=\"842e2f4\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"1280\" height=\"853\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/auto\/wp-content\/uploads\/2024\/12\/health.jpg\" class=\"attachment-full size-full wp-image-916\" alt=\"\" srcset=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/auto\/wp-content\/uploads\/2024\/12\/health.jpg 1280w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/auto\/wp-content\/uploads\/2024\/12\/health-300x200.jpg 300w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/auto\/wp-content\/uploads\/2024\/12\/health-1024x682.jpg 1024w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/auto\/wp-content\/uploads\/2024\/12\/health-768x512.jpg 768w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/auto\/wp-content\/uploads\/2024\/12\/health-600x400.jpg 600w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8938,7 +8695,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"timeout":1735989770,"value":{"content":"<div class=\"elementor-element elementor-element-b3225d6 e-con-full container e-flex e-con e-parent\" data-id=\"b3225d6\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-511d086 e-con-full e-flex e-con e-child\" data-id=\"511d086\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImFkZmVhNDciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJibG9nX3Bvc3RfbnVtYmVyIjp7InVuaXQiOiJweCIsInNpemUiOjEsInNpemVzIjpbXX0sImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMzAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImJsb2dfcG9zdF9vZmZzZXQiOjEsImRlbHRhX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjoxLjUsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"][elementor-element data=\"eyJpZCI6IjFjYzBhNTMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJibG9nX3Bvc3RfbnVtYmVyIjp7InVuaXQiOiJweCIsInNpemUiOjEsInNpemVzIjpbXX0sImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiYmxvZ19wb3N0X29mZnNldCI6MiwiZGVsdGFfaW1nX3JhdGlvIjp7InVuaXQiOiJweCIsInNpemUiOjEuNSwic2l6ZXMiOltdfSwidmlkZW9fYXV0b3BsYXkiOiJlbmFibGUifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-8d92a2d e-con-full e-flex e-con e-child\" data-id=\"8d92a2d\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImRjOTJiMzIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImJsb2dfcG9zdF9vZmZzZXQiOjMsImVwc2lsb25faW1nX3JhdGlvIjp7InVuaXQiOiJweCIsInNpemUiOjAuOTU3LCJzaXplcyI6W119LCJlcHNpbG9uX3RpdGxlX3NpemUiOiJsIiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjozLCJzaXplcyI6W119fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"][elementor-element data=\"eyJpZCI6IjliNjEyYWQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIzMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiY29udGVudF93aWR0aCI6ImZ1bGwifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1kaXZpZGVyIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c88cb42 e-con-full e-flex e-con e-child\" data-id=\"c88cb42\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjJjZDZhOTUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJibG9nX3Bvc3RfbnVtYmVyIjp7InVuaXQiOiJweCIsInNpemUiOjEsInNpemVzIjpbXX0sImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMzAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImJsb2dfcG9zdF9vZmZzZXQiOjIwfSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"][elementor-element data=\"eyJpZCI6IjZjMTIzYmEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJibG9nX3Bvc3RfbnVtYmVyIjp7InVuaXQiOiJweCIsInNpemUiOjEsInNpemVzIjpbXX0sImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiYmxvZ19wb3N0X29mZnNldCI6NywidmlkZW9fYXV0b3BsYXkiOiJkaXNhYmxlIiwiZXBzaWxvbl9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4wMSwic2l6ZXMiOltdfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-3166e14 e-con-full e-flex e-con e-parent\" data-id=\"3166e14\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjlkYjQ2MGMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNob3dfY29udGFpbmVyIjoieWVzIiwic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL25ld3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzEwXC9hZDIzLmpwZyIsImlkIjozMzksInNpemUiOiIiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5In0sInR5cGVfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC8ifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1hZCJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-ad2713b e-con-full container e-flex e-con e-parent\" data-id=\"ad2713b\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImQ5MjZiNzEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0YWciOiJoMiIsInRpdGxlIjoiVHJlbmRpbmcgTmV3cyIsIm1hcnF1ZWVfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjIxIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"][elementor-element data=\"eyJpZCI6IjYzMWMxNmEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsImRlbHRhX2xheW91dCI6ImNvbHVtbiIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6OCwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS40LCJzaXplcyI6W119LCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiI1MCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"][elementor-element data=\"eyJpZCI6IjUwMGRmNGIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiI1MCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtZGl2aWRlciJ9\"][elementor-element data=\"eyJpZCI6IjFmMzM0NTEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0YWciOiJoMiIsInRpdGxlIjoiVG9kYXlcdTIwMTlzIFZpZGVvIiwibWFycXVlZV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMjEiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-f104257 e-con-full container e-flex e-con e-parent\" data-id=\"f104257\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-49782dd e-con-full e-flex e-con e-child\" data-id=\"49782dd\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c7adc85 elementor-widget elementor-widget-video\" data-id=\"c7adc85\" data-element_type=\"widget\" data-settings=\"{&quot;youtube_url&quot;:&quot;https:\\\/\\\/www.youtube.com\\\/watch?v=ekgUjyWe1Yc&amp;pp=ygUIY2FyIHJlZWw%3D&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}\" data-widget_type=\"video.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-wrapper elementor-open-inline\">\n\t\t\t<div class=\"elementor-video\"><\/div>\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c341eef e-con-full e-flex e-con e-child\" data-id=\"c341eef\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjQ4OTM0NjQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG93X3RpdGxlIjoieWVzIiwidGl0bGUiOiJBZHZlcnRpc2VtZW50IiwidHlwZV9pbWFnZSI6eyJ1cmwiOiJodHRwczpcL1wvZnJlbmlmeS5jb21cL3dvcmtcL2VudmF0b1wvZnJlbmlmeVwvd3BcL21vd1wvYXV0b1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMTFcLzMwMGFkcy0zMDAuanBnIiwiaWQiOjg4NCwic2l6ZSI6IiIsInNvdXJjZSI6ImxpYnJhcnkiLCJhbHQiOiIifSwidHlwZV9pbWFnZV91cmwiOiJodHRwczpcL1wvZnJlbmlmeS5jb21cLyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWFkIn0=\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-37d3f6b e-con-full e-flex e-con e-parent\" data-id=\"37d3f6b\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t[elementor-element data=\"eyJpZCI6ImMyMWYzMjUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInRpdGxlIjoiU3RheSBJbmZvcm1lZCBXaXRoIHRoZSBMYXRlc3QgJiBNb3N0IEltcG9ydGFudCBOZXdzIiwic2hvcnRjb2RlIjoiW21jNHdwX2Zvcm0gaWQ9MzE0XSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXN1YnNjcmliZSJ9\"]\t\t<\/div>\n\t\t","scripts":[],"styles":["widget-video"]}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[{"timeout":1739942756,"value":{"content":"<div class=\"elementor-element elementor-element-b3225d6 e-con-full container e-flex e-con e-parent\" data-id=\"b3225d6\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-511d086 e-con-full e-flex e-con e-child\" data-id=\"511d086\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImFkZmVhNDciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJibG9nX3Bvc3RfbnVtYmVyIjp7InVuaXQiOiJweCIsInNpemUiOjEsInNpemVzIjpbXX0sImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMzAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImJsb2dfcG9zdF9vZmZzZXQiOjEsImRlbHRhX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjoxLjUsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"][elementor-element data=\"eyJpZCI6IjFjYzBhNTMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJibG9nX3Bvc3RfbnVtYmVyIjp7InVuaXQiOiJweCIsInNpemUiOjEsInNpemVzIjpbXX0sImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiYmxvZ19wb3N0X29mZnNldCI6MiwiZGVsdGFfaW1nX3JhdGlvIjp7InVuaXQiOiJweCIsInNpemUiOjEuNSwic2l6ZXMiOltdfSwidmlkZW9fYXV0b3BsYXkiOiJlbmFibGUifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-8d92a2d e-con-full e-flex e-con e-child\" data-id=\"8d92a2d\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImRjOTJiMzIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImJsb2dfcG9zdF9vZmZzZXQiOjMsImVwc2lsb25faW1nX3JhdGlvIjp7InVuaXQiOiJweCIsInNpemUiOjAuOTU3LCJzaXplcyI6W119LCJlcHNpbG9uX3RpdGxlX3NpemUiOiJsIiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjozLCJzaXplcyI6W119fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"][elementor-element data=\"eyJpZCI6IjliNjEyYWQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIzMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiY29udGVudF93aWR0aCI6ImZ1bGwifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1kaXZpZGVyIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c88cb42 e-con-full e-flex e-con e-child\" data-id=\"c88cb42\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjJjZDZhOTUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJibG9nX3Bvc3RfbnVtYmVyIjp7InVuaXQiOiJweCIsInNpemUiOjEsInNpemVzIjpbXX0sImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMzAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sImJsb2dfcG9zdF9vZmZzZXQiOjIwfSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"][elementor-element data=\"eyJpZCI6IjZjMTIzYmEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJibG9nX3Bvc3RfbnVtYmVyIjp7InVuaXQiOiJweCIsInNpemUiOjEsInNpemVzIjpbXX0sImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfSwiYmxvZ19wb3N0X29mZnNldCI6NywidmlkZW9fYXV0b3BsYXkiOiJkaXNhYmxlIiwiZXBzaWxvbl9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4wMSwic2l6ZXMiOltdfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-3166e14 e-con-full e-flex e-con e-parent\" data-id=\"3166e14\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjlkYjQ2MGMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNob3dfY29udGFpbmVyIjoieWVzIiwic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL25ld3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzEwXC9hZDIzLmpwZyIsImlkIjozMzksInNpemUiOiIiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5In0sInR5cGVfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC8ifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1hZCJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-ad2713b e-con-full container e-flex e-con e-parent\" data-id=\"ad2713b\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImQ5MjZiNzEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0YWciOiJoMiIsInRpdGxlIjoiVHJlbmRpbmcgTmV3cyIsIm1hcnF1ZWVfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjIxIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"][elementor-element data=\"eyJpZCI6IjYzMWMxNmEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsImRlbHRhX2xheW91dCI6ImNvbHVtbiIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6OCwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS40LCJzaXplcyI6W119LCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiI1MCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"][elementor-element data=\"eyJpZCI6IjUwMGRmNGIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiI1MCIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtZGl2aWRlciJ9\"][elementor-element data=\"eyJpZCI6IjFmMzM0NTEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0YWciOiJoMiIsInRpdGxlIjoiVG9kYXlcdTIwMTlzIFZpZGVvIiwibWFycXVlZV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMjEiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-f104257 e-con-full container e-flex e-con e-parent\" data-id=\"f104257\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-49782dd e-con-full e-flex e-con e-child\" data-id=\"49782dd\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c7adc85 elementor-widget elementor-widget-video\" data-id=\"c7adc85\" data-element_type=\"widget\" data-settings=\"{&quot;youtube_url&quot;:&quot;https:\\\/\\\/www.youtube.com\\\/watch?v=ekgUjyWe1Yc&amp;pp=ygUIY2FyIHJlZWw%3D&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}\" data-widget_type=\"video.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-wrapper elementor-open-inline\">\n\t\t\t<div class=\"elementor-video\"><\/div>\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c341eef e-con-full e-flex e-con e-child\" data-id=\"c341eef\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjQ4OTM0NjQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG93X3RpdGxlIjoieWVzIiwidGl0bGUiOiJBZHZlcnRpc2VtZW50IiwidHlwZV9pbWFnZSI6eyJ1cmwiOiJodHRwczpcL1wvZnJlbmlmeS5jb21cL3dvcmtcL2VudmF0b1wvZnJlbmlmeVwvd3BcL21vd1wvYXV0b1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMTFcLzMwMGFkcy0zMDAuanBnIiwiaWQiOjg4NCwic2l6ZSI6IiIsInNvdXJjZSI6ImxpYnJhcnkiLCJhbHQiOiIifSwidHlwZV9pbWFnZV91cmwiOiJodHRwczpcL1wvZnJlbmlmeS5jb21cLyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWFkIn0=\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-37d3f6b e-con-full e-flex e-con e-parent\" data-id=\"37d3f6b\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t[elementor-element data=\"eyJpZCI6ImMyMWYzMjUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInRpdGxlIjoiU3RheSBJbmZvcm1lZCBXaXRoIHRoZSBMYXRlc3QgJiBNb3N0IEltcG9ydGFudCBOZXdzIiwic2hvcnRjb2RlIjoiW21jNHdwX2Zvcm0gaWQ9MzE0XSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXN1YnNjcmliZSJ9\"]\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9003,6 +8760,75 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_coming_desc]]></wp:meta_key>
 		<wp:meta_value><![CDATA[We are crafting a new vision that blends innovation, quality, and design. Stay tuned for the big reveal. Your dream space is about to become a reality. Countdown with us!]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/780/</link>
+		<pubDate>Sat, 09 Nov 2024 08:47:54 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/auto/?p=780</guid>
+		<description></description>
+		<content:encoded><![CDATA[                            ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>780</wp:post_id>
+		<wp:post_date><![CDATA[2024-12-03 11:21:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-09 08:47:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-12-03 11:21:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-03 11:21:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[780]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>47</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_mow_fn_megamenu]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-11-09]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-11-11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9343,6 +9169,276 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Latest Advancements in Autonomous Emergency Braking Systems]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/men-women-are-bilogical-opposites/</link>
+		<pubDate>Sat, 05 Oct 2024 09:22:35 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.net/envato/frenify/wp/xoxo/1/?p=76</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p id="8862">As electric vehicles (EVs) continue to surge in popularity, battery technology advancements are pivotal in shaping the industry's future. Here, we’ll explore the cutting-edge developments in EV battery technology that enhance efficiency, reduce costs, and pave the way for a more sustainable automotive landscape.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p id="5031">Lithium-ion (Li-ion) batteries have been the standard for electric vehicles and are known for their reliability and energy density. However, despite their efficiency, challenges such as heat management and longevity continue to push researchers to look for alternative solutions and improvements.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Solid-State Batteries: A Promising Alternative</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Solid-state batteries are emerging as one of the most promising alternatives to lithium-ion technology. By <a href="#">replacing the liquid electrolyte</a> with a solid material, they offer improved safety, longer lifespan, and faster charging times. Companies like Toyota and BMW are investing heavily in solid-state battery development, with hopes of bringing them to market in the next few years.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Advances in materials science are opening new doors for extending battery life and range. Innovations like silicon anodes and lithium-sulfur configurations are proving capable of holding a larger charge, which could lead to significantly increased driving ranges for EVs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Traditional lithium-ion batteries rely heavily on cobalt, a rare and costly material. Cobalt-free batteries are an emerging focus, as they offer a sustainable and cost-effective solution. Companies like Tesla are experimenting with cobalt-free lithium iron phosphate (LFP) batteries, which are more affordable and environmentally friendly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Faster Charging Times with New Technologies</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One of the biggest hurdles for electric car adoption has been long charging times. Recent advancements in charging technology, such as ultra-fast chargers and high-capacity charging stations, are reducing EV charging times dramatically, bringing them closer to the convenience of refueling a traditional gasoline car.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As more EVs hit the road, the need for sustainable battery disposal becomes urgent. Innovative recycling processes are being developed to reclaim valuable materials like lithium, cobalt, and nickel from used batteries, reducing waste and promoting a circular economy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"id":804,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://frenify.com/work/envato/frenify/wp/mow/auto/wp-content/uploads/2024/10/content_image.jpg" alt="" class="wp-image-804"/><figcaption class="wp-element-caption">Engaging Nonfiction Stories</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The Rise of Second-Life Batteries</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Second-life battery programs give EV batteries a new purpose after their capacity has decreased. These repurposed batteries are often used for energy storage applications, such as grid storage, reducing waste and extending battery life beyond automotive use.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Battery Management Systems (BMS) are crucial for monitoring and managing battery performance. New BMS technologies now offer advanced features, including real-time monitoring, AI-based predictive maintenance, and enhanced thermal management, improving battery safety and lifespan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quantum computing is starting to play a role in optimizing battery chemistry and design. By simulating complex chemical reactions, researchers can identify ideal battery compositions and configurations faster, accelerating the development of new, high-performance battery technologies.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Graphene-based batteries are in experimental stages, but they promise significant improvements in charge speed, capacity, and lifespan. Graphene's incredible conductivity and flexibility make it a potential game-changer for EV batteries, although mass production remains a challenge.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Battery weight has a substantial impact on vehicle efficiency and handling. New lightweight materials and designs are helping reduce battery weight, which can improve the overall range and efficiency of electric vehicles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Effective thermal management is essential to prevent overheating and improve battery lifespan. Innovations such as liquid cooling systems and phase-change materials are being integrated into battery packs, allowing EVs to maintain optimal performance in various climates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With advancements in battery technology, manufacturers are now offering longer warranties on EV batteries, reflecting increased confidence in their durability. Extended warranties are appealing to consumers and signify that batteries are becoming more robust and reliable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wireless charging is another exciting development in the EV market. By embedding charging infrastructure in parking spaces or roads, EVs could one day charge wirelessly, making the process more convenient and accessible.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:quote {"fontSize":"medium"} -->
+<blockquote class="wp-block-quote has-medium-font-size"><!-- wp:paragraph -->
+<p><strong>People ignore design that ignores people. Good design is all about making other designers feel like idiots because that idea wasn’t theirs. Design is the conscious effort to impose a meaningful order.</strong></p>
+<!-- /wp:paragraph --><cite>Andrew Bennett</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p id="0746">For EVs to become more accessible, batteries need to be produced economically on a large scale. Recent advancements in battery production techniques are helping manufacturers lower costs and increase output, making EVs more affordable for consumers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p id="0746">High-energy-density batteries allow for more compact battery packs without compromising range, ideal for small EVs and urban mobility solutions. These advancements are driving the development of compact, efficient, and affordable urban EVs.<br><br>Many automakers are partnering with battery manufacturers to accelerate innovation. Collaborations between companies like General Motors and LG Chem are resulting in faster advancements and more seamless integration of new battery technologies.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Future-Proofing with Modular Battery Systems</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p id="632e">Modular battery systems, which allow for easier upgrades and replacements, are gaining attention. They offer flexibility in adapting to future battery advancements without requiring a full vehicle replacement, making EVs more sustainable long-term.<br><br>The advancements in EV battery technology are revolutionizing the automotive industry. As these technologies continue to mature, we can expect electric vehicles to become increasingly efficient, sustainable, and accessible. From solid-state batteries to wireless charging, the future of electric vehicles is being powered by innovation.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Autonomous emergency braking is a game-changer for safety. Discover how this technology works and which cars are equipped with the latest systems.]]></excerpt:encoded>
+		<wp:post_id>76</wp:post_id>
+		<wp:post_date><![CDATA[2024-10-05 09:22:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-10-05 09:22:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-11-11 08:45:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-11-11 08:45:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[men-women-are-bilogical-opposites]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
+		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
+		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
+		<category domain="category" nicename="luxury"><![CDATA[Luxury]]></category>
+		<category domain="category" nicename="safety"><![CDATA[Safety]]></category>
+		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[823]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[xoxo_fn_page_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_in_love]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_happy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_not_sure]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_omg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_angry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_sad]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_lol]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_xoxo_fn_reaction_cry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[124]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_sad]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_lol]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_silly]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_reaction_crazy]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-01-05]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_post_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_post_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wsl]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Reviewing the Most Popular Car Models for Teen Drivers]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/how-i-kept-my-sense-of-humor/</link>
 		<pubDate>Sat, 05 Oct 2024 09:24:09 +0000</pubDate>
@@ -9542,7 +9638,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		<wp:meta_value><![CDATA[92]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -9842,7 +9938,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[59]]></wp:meta_value>
+		<wp:meta_value><![CDATA[107]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -10121,7 +10217,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[84]]></wp:meta_value>
+		<wp:meta_value><![CDATA[133]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -10392,7 +10488,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -10404,7 +10500,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -10412,43 +10508,43 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_sad]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_lol]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_silly]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_crazy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -10465,6 +10561,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10664,7 +10768,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[49]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -10934,7 +11038,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		<wp:meta_value><![CDATA[87]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -11204,7 +11308,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		<wp:meta_value><![CDATA[82]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -11220,7 +11324,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
@@ -11277,6 +11381,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11475,7 +11587,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[79]]></wp:meta_value>
+		<wp:meta_value><![CDATA[136]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -11539,7 +11651,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_silly]]></wp:meta_key>
@@ -11770,7 +11882,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		<wp:meta_value><![CDATA[96]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -12043,7 +12155,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[75]]></wp:meta_value>
+		<wp:meta_value><![CDATA[130]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -12051,7 +12163,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -12095,7 +12207,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_crazy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -12124,6 +12236,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_2221d96593986753c0d3c1eebe216c64]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1732609404]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12329,15 +12449,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[136]]></wp:meta_value>
+		<wp:meta_value><![CDATA[246]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
@@ -12345,7 +12465,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
@@ -12442,6 +12562,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_fn_postgallery]]></wp:meta_key>
 		<wp:meta_value><![CDATA[817]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12640,7 +12768,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[72]]></wp:meta_value>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -12656,11 +12784,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
@@ -12713,6 +12841,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -12921,7 +13057,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[102]]></wp:meta_value>
+		<wp:meta_value><![CDATA[196]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -12949,7 +13085,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
@@ -12994,6 +13130,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13192,7 +13336,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[122]]></wp:meta_value>
+		<wp:meta_value><![CDATA[234]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -13200,7 +13344,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -13212,7 +13356,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
@@ -13220,11 +13364,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_sad]]></wp:meta_key>
@@ -13232,7 +13376,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_lol]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
@@ -13244,7 +13388,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_crazy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -13277,6 +13421,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13473,7 +13625,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[179]]></wp:meta_value>
+		<wp:meta_value><![CDATA[374]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -13481,19 +13633,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
@@ -13550,6 +13702,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[806]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13746,7 +13906,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[150]]></wp:meta_value>
+		<wp:meta_value><![CDATA[236]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -13754,7 +13914,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -13766,7 +13926,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
@@ -13774,7 +13934,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
@@ -13819,6 +13979,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[mow_fn_post_sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14192,6 +14360,30 @@ Nylon jacket with a pouch pocket, hood, zip fastening down to the chest, and con
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/navigation/</link>
+		<pubDate>Sat, 09 Nov 2024 08:16:08 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/auto/2024/11/09/navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-09 08:16:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-09 08:16:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-11-09 08:16:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-11-09 08:16:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[Soap]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/product/soap/</link>
 		<pubDate>Thu, 24 Oct 2024 09:49:33 +0000</pubDate>
@@ -14311,30 +14503,6 @@ Moisturizing soap bar with a rich lather, infused with natural oils and refreshi
 		<wp:meta_value><![CDATA[70]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Navigation]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/navigation/</link>
-		<pubDate>Sat, 09 Nov 2024 08:16:08 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/auto/2024/11/09/navigation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2024-11-09 08:16:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-11-09 08:16:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-11-09 08:16:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-11-09 08:16:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title><![CDATA[Shoes]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/auto/product/shoes/</link>

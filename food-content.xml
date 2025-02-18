@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.1" created="2025-01-03 10:45" -->
+	<!-- generator="WordPress/6.7.2" created="2025-02-18 08:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Mow</title>
 	<link>https://frenify.com/work/envato/frenify/wp/mow/food</link>
 	<description>Blog &#38; Magazine WordPress Theme</description>
-	<pubDate>Fri, 03 Jan 2025 10:45:39 +0000</pubDate>
+	<pubDate>Tue, 18 Feb 2025 08:43:20 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://frenify.com/work/envato/frenify/wp/mow/food</wp:base_site_url>
@@ -377,7 +377,7 @@
 	<wp:term><wp:term_id>53</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[offcanvas-menu]]></wp:term_slug><wp:term_name><![CDATA[Offcanvas Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 		<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
@@ -5756,12 +5756,8 @@
 		<wp:meta_value><![CDATA[[{"id":"35cdecc","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"flex_direction_tablet":"column"},"elements":[{"id":"5e1e05f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":60},"padding":{"unit":"px","top":"0","right":"25","bottom":"0","left":"0","isLinked":false},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2f329a8","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"145\" title=\"Contact form 1\"]","_margin":{"unit":"px","top":"0","right":"0","bottom":"45","left":"0","isLinked":false}},"elements":[],"widgetType":"shortcode"},{"id":"4668ae6","elType":"widget","settings":{"editor":"<p>In case you prefer to contact us through other means, you can also find our phone number and mailing address listed below. We strive to provide exceptional customer service and ensure that your experience with us is seamless.<\/p>\n<p>\u00a0<\/p>\n<p>Thank you for choosing us as your trusted resource. We look forward to hearing from you!<\/p>\n<p>\u00a0<\/p>\n<p><strong>Phone: <\/strong><\/p>\n<p>General Inquiries: (555) 123-4567<\/p>\n<p>Project Management Office: (555) 987-6543<\/p>\n<p>Customer Support: (555) 234-5678<\/p>\n<p>Emergency Line: (555) 876-5432<\/p>\n<p>Services Hotline: (555) 345-6789<\/p>\n<p>\u00a0<\/p>\n<p><strong>Email: <\/strong><\/p>\n<p>General Inquiries: info@examplemosh.com<\/p>\n<p>Estimates: projects@samplemosh.com<\/p>\n<p>Careers: support@moshexperts.net<\/p>\n<p>\u00a0<\/p>\n<p>Please note that our office hours are [Insert Office Hours]. While we endeavor to respond to all inquiries promptly, there may be slight delays during weekends and holidays.<\/p>","text_color":"#000000","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"3b8fcca","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"25","isLinked":false},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"dc112d4","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":348,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":1,"blur":3,"spread":0,"color":"rgba(0, 0, 0, 0.15)"}},"elements":[],"widgetType":"google_maps"},{"id":"381e4db","elType":"widget","settings":{"image":{"id":921,"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/food\/wp-content\/uploads\/2024\/12\/health.jpg"},"image_size":"full","image_border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_box_shadow_box_shadow_type":"yes","image_box_shadow_box_shadow":{"horizontal":0,"vertical":1,"blur":3,"spread":0,"color":"rgba(0, 0, 0, 0.15)"},"_margin":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:6:"styles";a:3:{i:0;s:18:"widget-text-editor";i:1;s:18:"widget-google_maps";i:2;s:12:"widget-image";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"timeout":1735987483,"value":{"content":"<div class=\"elementor-element elementor-element-35cdecc e-con-full e-flex e-con e-parent\" data-id=\"35cdecc\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-5e1e05f e-con-full e-flex e-con e-child\" data-id=\"5e1e05f\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjJmMzI5YTgiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG9ydGNvZGUiOiJbY29udGFjdC1mb3JtLTcgaWQ9XCIxNDVcIiB0aXRsZT1cIkNvbnRhY3QgZm9ybSAxXCJdIiwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiNDUiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJzaG9ydGNvZGUifQ==\"]\t\t<div class=\"elementor-element elementor-element-4668ae6 elementor-widget elementor-widget-text-editor\" data-id=\"4668ae6\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>In case you prefer to contact us through other means, you can also find our phone number and mailing address listed below. We strive to provide exceptional customer service and ensure that your experience with us is seamless.<\/p>\n<p>\u00a0<\/p>\n<p>Thank you for choosing us as your trusted resource. We look forward to hearing from you!<\/p>\n<p>\u00a0<\/p>\n<p><strong>Phone: <\/strong><\/p>\n<p>General Inquiries: (555) 123-4567<\/p>\n<p>Project Management Office: (555) 987-6543<\/p>\n<p>Customer Support: (555) 234-5678<\/p>\n<p>Emergency Line: (555) 876-5432<\/p>\n<p>Services Hotline: (555) 345-6789<\/p>\n<p>\u00a0<\/p>\n<p><strong>Email: <\/strong><\/p>\n<p>General Inquiries: info@examplemosh.com<\/p>\n<p>Estimates: projects@samplemosh.com<\/p>\n<p>Careers: support@moshexperts.net<\/p>\n<p>\u00a0<\/p>\n<p>Please note that our office hours are [Insert Office Hours]. While we endeavor to respond to all inquiries promptly, there may be slight delays during weekends and holidays.<\/p>\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-3b8fcca e-con-full e-flex e-con e-child\" data-id=\"3b8fcca\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-dc112d4 elementor-widget elementor-widget-google_maps\" data-id=\"dc112d4\" data-element_type=\"widget\" data-widget_type=\"google_maps.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-custom-embed\">\n\t\t\t<iframe loading=\"lazy\"\n\t\t\t\t\tsrc=\"https:\/\/maps.google.com\/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&#038;t=m&#038;z=10&#038;output=embed&#038;iwloc=near\"\n\t\t\t\t\ttitle=\"London Eye, London, United Kingdom\"\n\t\t\t\t\taria-label=\"London Eye, London, United Kingdom\"\n\t\t\t><\/iframe>\n\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-381e4db elementor-widget elementor-widget-image\" data-id=\"381e4db\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"1280\" height=\"853\" src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/food\/wp-content\/uploads\/2024\/12\/health.jpg\" class=\"attachment-full size-full wp-image-921\" alt=\"\" srcset=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/food\/wp-content\/uploads\/2024\/12\/health.jpg 1280w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/food\/wp-content\/uploads\/2024\/12\/health-300x200.jpg 300w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/food\/wp-content\/uploads\/2024\/12\/health-1024x682.jpg 1024w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/food\/wp-content\/uploads\/2024\/12\/health-768x512.jpg 768w, https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/food\/wp-content\/uploads\/2024\/12\/health-600x400.jpg 600w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":["widget-text-editor","widget-google_maps","widget-image"]}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;s:22:"typography_line_height";i:1;}}}}s:9:"container";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:24:"section_layout_container";a:4:{s:14:"flex_direction";i:3;s:13:"content_width";i:3;s:5:"width";i:2;s:8:"flex_gap";i:3;}}s:8:"advanced";a:1:{s:14:"section_layout";a:1:{s:7:"padding";i:3;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:11:"section_map";a:1:{s:6:"height";i:1;}}s:8:"advanced";a:2:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}s:15:"_section_border";a:3:{s:14:"_border_radius";i:1;s:27:"_box_shadow_box_shadow_type";i:1;s:22:"_box_shadow_box_shadow";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:3:{s:19:"image_border_radius";i:1;s:32:"image_box_shadow_box_shadow_type";i:1;s:27:"image_box_shadow_box_shadow";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7452,7 +7448,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[81]]></wp:meta_value>
+		<wp:meta_value><![CDATA[153]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -7723,7 +7719,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[64]]></wp:meta_value>
+		<wp:meta_value><![CDATA[115]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -7739,7 +7735,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
@@ -7800,6 +7796,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[888]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7998,7 +8002,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[55]]></wp:meta_value>
+		<wp:meta_value><![CDATA[126]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8267,7 +8271,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57]]></wp:meta_value>
+		<wp:meta_value><![CDATA[123]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8495,8 +8499,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="food"><![CDATA[Food]]></category>
-		<category domain="category" nicename="health"><![CDATA[Health]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
+		<category domain="category" nicename="health"><![CDATA[Health]]></category>
 		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
 		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
 						<wp:postmeta>
@@ -8537,7 +8541,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		<wp:meta_value><![CDATA[109]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8764,8 +8768,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
-		<category domain="category" nicename="health"><![CDATA[Health]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
+		<category domain="category" nicename="health"><![CDATA[Health]]></category>
 		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
 		<category domain="category" nicename="seasonal"><![CDATA[Seasonal]]></category>
 		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
@@ -8807,7 +8811,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[65]]></wp:meta_value>
+		<wp:meta_value><![CDATA[149]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -9035,8 +9039,8 @@
 		<wp:is_sticky>1</wp:is_sticky>
 										<category domain="post_tag" nicename="ai"><![CDATA[AI]]></category>
 		<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
-		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
 		<category domain="category" nicename="health"><![CDATA[Health]]></category>
+		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
 		<category domain="post_tag" nicename="humor"><![CDATA[Humor]]></category>
 		<category domain="post_tag" nicename="image"><![CDATA[Image]]></category>
 		<category domain="post_tag" nicename="innovations"><![CDATA[Innovations]]></category>
@@ -9082,7 +9086,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[75]]></wp:meta_value>
+		<wp:meta_value><![CDATA[143]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -9090,7 +9094,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -9098,7 +9102,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
@@ -9114,7 +9118,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_angry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_sad]]></wp:meta_key>
@@ -9122,7 +9126,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_lol]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
@@ -9159,6 +9163,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[880]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
@@ -9382,7 +9394,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[68]]></wp:meta_value>
+		<wp:meta_value><![CDATA[140]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -9398,7 +9410,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
@@ -9459,6 +9471,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[879]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9661,7 +9681,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[111]]></wp:meta_value>
+		<wp:meta_value><![CDATA[213]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -9932,7 +9952,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		<wp:meta_value><![CDATA[188]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -9944,11 +9964,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
@@ -9956,7 +9976,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
@@ -10009,6 +10029,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[875]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10204,7 +10232,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[66]]></wp:meta_value>
+		<wp:meta_value><![CDATA[138]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -10224,7 +10252,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
@@ -10474,7 +10502,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		<wp:meta_value><![CDATA[83]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -10748,7 +10776,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		<wp:meta_value><![CDATA[76]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -10975,12 +11003,16 @@
 		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:10:"frel-posts";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:3:{s:8:"section1";a:1:{s:6:"layout";i:1;}s:13:"section_query";a:2:{s:16:"blog_post_offset";i:1;s:16:"blog_post_number";i:1;}s:16:"features_section";a:4:{s:17:"epsilon_img_ratio";i:1;s:18:"epsilon_title_size";i:1;s:12:"delta_layout";i:1;s:15:"delta_img_ratio";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:15:"frel-categories";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:8:"section1";a:1:{s:3:"ids";i:1;}}}}s:9:"container";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:24:"section_layout_container";a:3:{s:14:"flex_direction";i:1;s:13:"content_width";i:3;s:8:"flex_gap";i:2;}}s:8:"advanced";a:1:{s:14:"section_layout";a:3:{s:6:"margin";i:3;s:7:"padding";i:3;s:11:"css_classes";i:1;}}}}s:14:"frel-subscribe";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:8:"section1";a:2:{s:5:"title";i:1;s:9:"shortcode";i:1;}}}}s:11:"frel-search";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:7:"content";a:1:{s:8:"section1";a:4:{s:11:"custom_list";i:1;s:12:"custom_color";i:1;s:8:"bg_color";i:1;s:10:"text_color";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"timeout":1735987330,"value":{"content":"<div class=\"elementor-element elementor-element-79e947a e-con-full container e-flex e-con e-parent\" data-id=\"79e947a\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImZiNTU5NjciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImdjYXJvdXNlbCIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMTAwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxMSwiZXBzaWxvbl9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MC45NTcsInNpemVzIjpbXX0sImVwc2lsb25fdGl0bGVfc2l6ZSI6ImwiLCJibG9nX3Bvc3RfbnVtYmVyIjp7InVuaXQiOiJweCIsInNpemUiOjQsInNpemVzIjpbXX0sImRlbHRhX2xheW91dCI6ImNvbHVtbiIsImRlbHRhX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjowLjcsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"][elementor-element data=\"eyJpZCI6IjBkMzVhOGEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJpZHMiOiIxNiwxNywxOCwxOSwyMCwyMSIsImN1c3RvbV9saXN0IjpbXX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtY2F0ZWdvcmllcyJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-decca9c e-con-full e-flex e-con e-parent\" data-id=\"decca9c\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjRhNGIxOTQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInRpdGxlIjoiU3RheSBJbmZvcm1lZCBXaXRoIHRoZSBMYXRlc3QgJiBNb3N0IEltcG9ydGFudCBOZXdzIiwic2hvcnRjb2RlIjoiW21jNHdwX2Zvcm0gaWQ9MzE0XSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXN1YnNjcmliZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-ddd9bf7 e-con-full e-flex e-con e-parent\" data-id=\"ddd9bf7\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjQzY2ZkNGUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjdXN0b21fbGlzdCI6W3siX2lkIjoiMDIwYmI1MyIsImxpc3RfdGl0bGUiOiJXaGF0IGRvIHlvdSB3YW50IHRvIG1ha2UgdG9kYXk\/In0seyJfaWQiOiIwZDI5YmE5IiwibGlzdF90aXRsZSI6IlJlYWR5IHRvIGJyaW5nIHlvdXIgaWRlYXMgdG8gbGlmZT8ifSx7Il9pZCI6ImMyYjlkOTkiLCJsaXN0X3RpdGxlIjoiSG93IGNhbiB3ZSBpbnNwaXJlIHlvdXIgbmV4dCBjcmVhdGlvbj8ifSx7Il9pZCI6IjYxOTVlYjUiLCJsaXN0X3RpdGxlIjoiV2hhdCBtYXN0ZXJwaWVjZSB3aWxsIHlvdSB3b3JrIG9uIHRvZGF5PyJ9XSwic2VhcmNoX3BsYWNlaG9sZGVyIjoiU2VhcmNoIEhlcmUuLi4iLCJzZWFyY2hfc3VibWl0IjoiU2VhcmNoIiwicmVjb21tZW5kZWRfbGFiZWwiOiJQb3B1bGFyIFNlYXJjaGVzOiIsImN1c3RvbV9jb2xvciI6ImVuYWJsZWQiLCJiZ19jb2xvciI6IiMzOTk1MkYiLCJ0ZXh0X2NvbG9yIjoiI0ZGRkZGRiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXNlYXJjaCJ9\"]\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[{"timeout":1739944814,"value":{"content":"<div class=\"elementor-element elementor-element-79e947a e-con-full container e-flex e-con e-parent\" data-id=\"79e947a\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImZiNTU5NjciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImdjYXJvdXNlbCIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMTAwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxMSwiZXBzaWxvbl9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MC45NTcsInNpemVzIjpbXX0sImVwc2lsb25fdGl0bGVfc2l6ZSI6ImwiLCJibG9nX3Bvc3RfbnVtYmVyIjp7InVuaXQiOiJweCIsInNpemUiOjQsInNpemVzIjpbXX0sImRlbHRhX2xheW91dCI6ImNvbHVtbiIsImRlbHRhX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjowLjcsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"][elementor-element data=\"eyJpZCI6IjBkMzVhOGEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJpZHMiOiIxNiwxNywxOCwxOSwyMCwyMSIsImN1c3RvbV9saXN0IjpbXX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtY2F0ZWdvcmllcyJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-decca9c e-con-full e-flex e-con e-parent\" data-id=\"decca9c\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjRhNGIxOTQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInRpdGxlIjoiU3RheSBJbmZvcm1lZCBXaXRoIHRoZSBMYXRlc3QgJiBNb3N0IEltcG9ydGFudCBOZXdzIiwic2hvcnRjb2RlIjoiW21jNHdwX2Zvcm0gaWQ9MzE0XSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXN1YnNjcmliZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-ddd9bf7 e-con-full e-flex e-con e-parent\" data-id=\"ddd9bf7\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjQzY2ZkNGUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjdXN0b21fbGlzdCI6W3siX2lkIjoiMDIwYmI1MyIsImxpc3RfdGl0bGUiOiJXaGF0IGRvIHlvdSB3YW50IHRvIG1ha2UgdG9kYXk\/In0seyJfaWQiOiIwZDI5YmE5IiwibGlzdF90aXRsZSI6IlJlYWR5IHRvIGJyaW5nIHlvdXIgaWRlYXMgdG8gbGlmZT8ifSx7Il9pZCI6ImMyYjlkOTkiLCJsaXN0X3RpdGxlIjoiSG93IGNhbiB3ZSBpbnNwaXJlIHlvdXIgbmV4dCBjcmVhdGlvbj8ifSx7Il9pZCI6IjYxOTVlYjUiLCJsaXN0X3RpdGxlIjoiV2hhdCBtYXN0ZXJwaWVjZSB3aWxsIHlvdSB3b3JrIG9uIHRvZGF5PyJ9XSwic2VhcmNoX3BsYWNlaG9sZGVyIjoiU2VhcmNoIEhlcmUuLi4iLCJzZWFyY2hfc3VibWl0IjoiU2VhcmNoIiwicmVjb21tZW5kZWRfbGFiZWwiOiJQb3B1bGFyIFNlYXJjaGVzOiIsImN1c3RvbV9jb2xvciI6ImVuYWJsZWQiLCJiZ19jb2xvciI6IiMzOTk1MkYiLCJ0ZXh0X2NvbG9yIjoiI0ZGRkZGRiJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXNlYXJjaCJ9\"]\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -11262,7 +11294,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57]]></wp:meta_value>
+		<wp:meta_value><![CDATA[105]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -11553,7 +11585,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[58]]></wp:meta_value>
+		<wp:meta_value><![CDATA[123]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -11635,7 +11667,26 @@
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[869]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>38</wp:comment_id>
+			<wp:comment_author><![CDATA[Danieljep]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wow16feb@hotmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[185.101.20.174]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2025-02-17 22:58:57]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2025-02-17 22:58:57]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[На этом сайте представлена важная информация о лечении депрессии, в том числе у пожилых людей. 
+Здесь можно найти способы диагностики и советы по улучшению состояния. 
+http://arsigal.com/__media__/js/netsoltrademark.php?d=empathycenter.ru%2Farticles%2Fmeksidol-dlya-chego-naznachayut%2F 
+Отдельный раздел уделяется возрастным изменениям и их связи с эмоциональным состоянием. 
+Также рассматриваются эффективные медикаментозные и немедикаментозные методы поддержки. 
+Материалы помогут разобраться, как правильно подходить к угнетенным состоянием в пожилом возрасте.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title><![CDATA[Learning How to Create Perfectly Balanced Smoothie Bowls]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/food/famous-works-of-literature/</link>
@@ -11826,7 +11877,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
+		<wp:meta_value><![CDATA[118]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -11904,7 +11955,24 @@
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[868]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>37</wp:comment_id>
+			<wp:comment_author><![CDATA[RobertSmilk]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wow12feb@hotmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[85.239.39.218]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2025-02-17 21:04:57]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2025-02-17 21:04:57]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[На этом сайте вы можете приобрести виртуальные телефонные номера различных операторов. Они подходят для регистрации аккаунтов в различных сервисах и приложениях. 
+В каталоге доступны как постоянные, так и одноразовые номера, которые можно использовать для получения SMS. Это удобное решение для тех, кто не желает указывать основной номер в интернете. 
+https://www.06277.com.ua/list/448401 
+Процесс покупки очень простой: выбираете подходящий номер, оплачиваете, и он сразу будет готов к использованию. Оцените сервис уже сегодня!]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title><![CDATA[How Fermented Foods Are Shaping the Future of Gut Health]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/food/the-absolutely-ridiculous-history/</link>
@@ -12104,7 +12172,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[102]]></wp:meta_value>
+		<wp:meta_value><![CDATA[169]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -12148,7 +12216,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_silly]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_crazy]]></wp:meta_key>
@@ -12407,7 +12475,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[55]]></wp:meta_value>
+		<wp:meta_value><![CDATA[111]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -12687,7 +12755,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[68]]></wp:meta_value>
+		<wp:meta_value><![CDATA[121]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -12959,7 +13027,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[94]]></wp:meta_value>
+		<wp:meta_value><![CDATA[166]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -13003,7 +13071,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_silly]]></wp:meta_key>
@@ -13244,7 +13312,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[136]]></wp:meta_value>
+		<wp:meta_value><![CDATA[238]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -13256,15 +13324,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
@@ -13321,6 +13389,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[841]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13513,7 +13589,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[125]]></wp:meta_value>
+		<wp:meta_value><![CDATA[206]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -13521,7 +13597,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -13529,11 +13605,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_happy]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
@@ -13553,7 +13629,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_lol]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_cry]]></wp:meta_key>
@@ -13590,6 +13666,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[813]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

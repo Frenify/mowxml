@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.1" created="2025-01-03 12:06" -->
+	<!-- generator="WordPress/6.7.2" created="2025-02-18 08:44" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Mow</title>
 	<link>https://frenify.com/work/envato/frenify/wp/mow/health</link>
 	<description></description>
-	<pubDate>Fri, 03 Jan 2025 12:06:48 +0000</pubDate>
+	<pubDate>Tue, 18 Feb 2025 08:44:43 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://frenify.com/work/envato/frenify/wp/mow/health</wp:base_site_url>
@@ -371,7 +371,7 @@
 	<wp:term><wp:term_id>53</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[offcanvas-menu]]></wp:term_slug><wp:term_name><![CDATA[Offcanvas Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 		<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
@@ -8938,7 +8938,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -9209,7 +9209,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[52]]></wp:meta_value>
+		<wp:meta_value><![CDATA[103]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -9413,6 +9413,14 @@
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[[{"id":"3c33bd8","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"flex_direction_tablet":"column"},"elements":[{"id":"3b920c1","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":60},"padding":{"unit":"px","top":"0","right":"25","bottom":"0","left":"0","isLinked":false},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"20f4f04","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"145\" title=\"Contact form 1\"]","_margin":{"unit":"px","top":"0","right":"0","bottom":"45","left":"0","isLinked":false}},"elements":[],"widgetType":"shortcode"},{"id":"9dd0f10","elType":"widget","settings":{"editor":"<p>In case you prefer to contact us through other means, you can also find our phone number and mailing address listed below. We strive to provide exceptional customer service and ensure that your experience with us is seamless.<\/p>\n<p>\u00a0<\/p>\n<p>Thank you for choosing us as your trusted resource. We look forward to hearing from you!<\/p>\n<p>\u00a0<\/p>\n<p><strong>Phone: <\/strong><\/p>\n<p>General Inquiries: (555) 123-4567<\/p>\n<p>Project Management Office: (555) 987-6543<\/p>\n<p>Customer Support: (555) 234-5678<\/p>\n<p>Emergency Line: (555) 876-5432<\/p>\n<p>Services Hotline: (555) 345-6789<\/p>\n<p>\u00a0<\/p>\n<p><strong>Email: <\/strong><\/p>\n<p>General Inquiries: info@examplemosh.com<\/p>\n<p>Estimates: projects@samplemosh.com<\/p>\n<p>Careers: support@moshexperts.net<\/p>\n<p>\u00a0<\/p>\n<p>Please note that our office hours are [Insert Office Hours]. While we endeavor to respond to all inquiries promptly, there may be slight delays during weekends and holidays.<\/p>","text_color":"#000000","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"f6e93e9","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"25","isLinked":false},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2941328","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":348,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":1,"blur":3,"spread":0,"color":"rgba(0, 0, 0, 0.15)"}},"elements":[],"widgetType":"google_maps"},{"id":"5f1edf0","elType":"widget","settings":{"image":{"id":820,"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/news\/wp-content\/uploads\/2024\/12\/health.jpg"},"image_size":"full","image_border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"image_box_shadow_box_shadow_type":"yes","image_box_shadow_box_shadow":{"horizontal":0,"vertical":1,"blur":3,"spread":0,"color":"rgba(0, 0, 0, 0.15)"},"_margin":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:6:"styles";a:3:{i:0;s:18:"widget-text-editor";i:1;s:18:"widget-google_maps";i:2;s:12:"widget-image";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"timeout":1739882482,"value":{"content":"<div class=\"elementor-element elementor-element-3c33bd8 e-con-full e-flex e-con e-parent\" data-id=\"3c33bd8\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-3b920c1 e-con-full e-flex e-con e-child\" data-id=\"3b920c1\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjIwZjRmMDQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG9ydGNvZGUiOiJbY29udGFjdC1mb3JtLTcgaWQ9XCIxNDVcIiB0aXRsZT1cIkNvbnRhY3QgZm9ybSAxXCJdIiwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiNDUiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJzaG9ydGNvZGUifQ==\"][elementor-element data=\"eyJpZCI6IjlkZDBmMTAiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJlZGl0b3IiOiI8cD5JbiBjYXNlIHlvdSBwcmVmZXIgdG8gY29udGFjdCB1cyB0aHJvdWdoIG90aGVyIG1lYW5zLCB5b3UgY2FuIGFsc28gZmluZCBvdXIgcGhvbmUgbnVtYmVyIGFuZCBtYWlsaW5nIGFkZHJlc3MgbGlzdGVkIGJlbG93LiBXZSBzdHJpdmUgdG8gcHJvdmlkZSBleGNlcHRpb25hbCBjdXN0b21lciBzZXJ2aWNlIGFuZCBlbnN1cmUgdGhhdCB5b3VyIGV4cGVyaWVuY2Ugd2l0aCB1cyBpcyBzZWFtbGVzcy48XC9wPlxuPHA+XHUwMGEwPFwvcD5cbjxwPlRoYW5rIHlvdSBmb3IgY2hvb3NpbmcgdXMgYXMgeW91ciB0cnVzdGVkIHJlc291cmNlLiBXZSBsb29rIGZvcndhcmQgdG8gaGVhcmluZyBmcm9tIHlvdSE8XC9wPlxuPHA+XHUwMGEwPFwvcD5cbjxwPjxzdHJvbmc+UGhvbmU6IDxcL3N0cm9uZz48XC9wPlxuPHA+R2VuZXJhbCBJbnF1aXJpZXM6ICg1NTUpIDEyMy00NTY3PFwvcD5cbjxwPlByb2plY3QgTWFuYWdlbWVudCBPZmZpY2U6ICg1NTUpIDk4Ny02NTQzPFwvcD5cbjxwPkN1c3RvbWVyIFN1cHBvcnQ6ICg1NTUpIDIzNC01Njc4PFwvcD5cbjxwPkVtZXJnZW5jeSBMaW5lOiAoNTU1KSA4NzYtNTQzMjxcL3A+XG48cD5TZXJ2aWNlcyBIb3RsaW5lOiAoNTU1KSAzNDUtNjc4OTxcL3A+XG48cD5cdTAwYTA8XC9wPlxuPHA+PHN0cm9uZz5FbWFpbDogPFwvc3Ryb25nPjxcL3A+XG48cD5HZW5lcmFsIElucXVpcmllczogaW5mb0BleGFtcGxlbW9zaC5jb208XC9wPlxuPHA+RXN0aW1hdGVzOiBwcm9qZWN0c0BzYW1wbGVtb3NoLmNvbTxcL3A+XG48cD5DYXJlZXJzOiBzdXBwb3J0QG1vc2hleHBlcnRzLm5ldDxcL3A+XG48cD5cdTAwYTA8XC9wPlxuPHA+UGxlYXNlIG5vdGUgdGhhdCBvdXIgb2ZmaWNlIGhvdXJzIGFyZSBbSW5zZXJ0IE9mZmljZSBIb3Vyc10uIFdoaWxlIHdlIGVuZGVhdm9yIHRvIHJlc3BvbmQgdG8gYWxsIGlucXVpcmllcyBwcm9tcHRseSwgdGhlcmUgbWF5IGJlIHNsaWdodCBkZWxheXMgZHVyaW5nIHdlZWtlbmRzIGFuZCBob2xpZGF5cy48XC9wPiIsInRleHRfY29sb3IiOiIjMDAwMDAwIiwidHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidHlwb2dyYXBoeV9mb250X2ZhbWlseSI6IldvcmsgU2FucyIsInR5cG9ncmFwaHlfZm9udF9zaXplIjp7InVuaXQiOiJweCIsInNpemUiOjE4LCJzaXplcyI6W119LCJ0eXBvZ3JhcGh5X2ZvbnRfd2VpZ2h0IjoiNDAwIiwidHlwb2dyYXBoeV9saW5lX2hlaWdodCI6eyJ1bml0IjoicHgiLCJzaXplIjoyNCwic2l6ZXMiOltdfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6InRleHQtZWRpdG9yIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-f6e93e9 e-con-full e-flex e-con e-child\" data-id=\"f6e93e9\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-2941328 elementor-widget elementor-widget-google_maps\" data-id=\"2941328\" data-element_type=\"widget\" data-widget_type=\"google_maps.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-custom-embed\">\n\t\t\t<iframe loading=\"lazy\"\n\t\t\t\t\tsrc=\"https:\/\/maps.google.com\/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&#038;t=m&#038;z=10&#038;output=embed&#038;iwloc=near\"\n\t\t\t\t\ttitle=\"London Eye, London, United Kingdom\"\n\t\t\t\t\taria-label=\"London Eye, London, United Kingdom\"\n\t\t\t><\/iframe>\n\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-5f1edf0 elementor-widget elementor-widget-image\" data-id=\"5f1edf0\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/news\/wp-content\/uploads\/2024\/12\/health.jpg\" title=\"\" alt=\"\" loading=\"lazy\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Hot Posts]]></title>
@@ -9586,7 +9594,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"timeout":1735973290,"value":{"content":"<div class=\"elementor-element elementor-element-b3225d6 e-con-full container e-flex e-con e-parent\" data-id=\"b3225d6\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-511d086 e-con-full e-flex e-con e-child\" data-id=\"511d086\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImFkZmVhNDciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6NCwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjozLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS41LCJzaXplcyI6W119LCJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwiYWxwaGFfYm9yZGVyIjoiZW5hYmxlZCIsImFscGhhX2ltZ19wb3MiOiJyaWdodCJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-8d92a2d e-con-full e-flex e-con e-child\" data-id=\"8d92a2d\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImRjOTJiMzIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjMwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJlcHNpbG9uX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjoxLjMzLCJzaXplcyI6W119LCJlcHNpbG9uX3RpdGxlX3NpemUiOiJsIiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjozLCJzaXplcyI6W119LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxfSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]<div class=\"elementor-element elementor-element-06ba471 e-con-full e-flex e-con e-child\" data-id=\"06ba471\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-e38030b e-con-full e-flex e-con e-child\" data-id=\"e38030b\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjNlZTYyNDQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjoxLCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sImJsb2dfcG9zdF9vZmZzZXQiOjd9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-ab47ba9 e-con-full e-flex e-con e-child\" data-id=\"ab47ba9\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjgxOTViYzIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjoxLCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sImJsb2dfcG9zdF9vZmZzZXQiOjh9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c88cb42 e-con-full e-flex e-con e-child\" data-id=\"c88cb42\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImIzMjNlYWEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6NCwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0Ijo5LCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS41LCJzaXplcyI6W119LCJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwiYWxwaGFfYm9yZGVyIjoiZW5hYmxlZCIsImFscGhhX3RleHRfcG9zIjoicmlnaHQifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-45f1913 e-con-full e-flex e-con e-parent\" data-id=\"45f1913\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImI2MDI5YjgiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJzX21hcnF1ZWUiLCJtYXJxdWVlX2xpc3QiOlt7Il9pZCI6ImEyZWE3YWEiLCJtYXJxdWVlX3RpdGxlIjoiSG90IFRvcGljcyJ9LHsibWFycXVlZV90aXRsZSI6IkhvdCBUb3BpY3MiLCJfaWQiOiJiZWI3MzAyIn0seyJtYXJxdWVlX3RpdGxlIjoiSG90IFRvcGljcyIsIl9pZCI6IjUyYzZjYzEifSx7Im1hcnF1ZWVfdGl0bGUiOiJIb3QgVG9waWNzIiwiX2lkIjoiZjgwOWYwNCJ9LHsibWFycXVlZV90aXRsZSI6IkhvdCBUb3BpY3MiLCJfaWQiOiJhMjc1NzRkIn0seyJtYXJxdWVlX3RpdGxlIjoiSG90IFRvcGljcyIsIl9pZCI6IjdjNmM4NTIifSx7Im1hcnF1ZWVfdGl0bGUiOiJIb3QgVG9waWNzIiwiX2lkIjoiYjE2Zjg2ZCJ9LHsibWFycXVlZV90aXRsZSI6IkhvdCBUb3BpY3MiLCJfaWQiOiI1ZmRhOTJmIn0seyJtYXJxdWVlX3RpdGxlIjoiSG90IFRvcGljcyIsIl9pZCI6IjgzYTRjNTIifV0sImN1c3RvbV9jb2xvciI6InllcyIsIm1hcnF1ZWVfY29sb3IiOiIjRjY0MDZCIiwibWFycXVlZV9pY29uX2NvbG9yIjoiI0Y2NDA2QiIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sIl9jc3NfY2xhc3NlcyI6Im1vdy1ib3JkZXItMS1ib3R0b20gbW93LWJvcmRlci0xLXRvcCBtb3ctYm9yZGVyLXRvcC1ib3JkZXItY29sb3IgbW93LWJvcmRlci1ib3R0b20tYm9yZGVyLWNvbG9yIiwiX2JvcmRlcl93aWR0aCI6eyJ1bml0IjoicHgiLCJ0b3AiOiIxIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMSIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtdGl0bGUifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-b2b50f5 e-con-full container e-flex e-con e-parent\" data-id=\"b2b50f5\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjJlMWZlZWMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJncmlkX2JveCIsImlkcyI6IjE2LDE3LDE4LDE5LDIwLDIxLDIyLDIzLDI0LDI1IiwiY3VzdG9tX2xpc3QiOltdLCJsaXN0XzJfb3JfdGV4dCI6Ik9yLi4uIiwibGlzdF8yX2xpbmtfdGV4dCI6IlNlZSB0aGVtIEFsbCIsImxpc3RfMl9saW5rX3VybCI6IiMiLCJncmlkX2JveF9zaG93X2xpbmsiOiJ5ZXMiLCJncmlkX2JveF9vcl90ZXh0IjoiT3IiLCJncmlkX2JveF9saW5rX3RleHQiOiJTZWUgdGhlbSBBbGwiLCJncmlkX2JveF9saW5rX3VybCI6IiMifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1jYXRlZ29yaWVzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-3166e14 e-con-full e-flex e-con e-parent\" data-id=\"3166e14\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImE3MmQ4ODciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJzaW1wbGUiLCJ0aXRsZSI6IkVkaXRvcidzIFBpY2siLCJtYXJxdWVlX2xpc3QiOltdLCJjdXN0b21fY29sb3IiOiJ5ZXMiLCJzaW1wbGVfY29sb3IiOiIjMDBCOEE5IiwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiLTI5IiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJfbWFyZ2luX3RhYmxldCI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiLTEwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJfY3NzX2NsYXNzZXMiOiJjb250YWluZXIifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"][elementor-element data=\"eyJpZCI6ImJlODA5MGEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJpbnRlcmFjdGl2ZSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiYmxvZ19wb3N0X29mZnNldCI6MTN9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-a9c5207 e-con-full e-flex e-con e-parent\" data-id=\"a9c5207\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjNjOWMwOWMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNob3dfY29udGFpbmVyIjoieWVzIiwic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL25ld3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzEwXC9hZDIzLmpwZyIsImlkIjozMzksInNpemUiOiIiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5In0sInR5cGVfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC8ifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1hZCJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-4a3abec e-con-full container e-flex e-con e-parent\" data-id=\"4a3abec\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-d748457 e-con-full e-flex e-con e-child\" data-id=\"d748457\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjUxOGRlMDMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkhlYWx0aCIsIm1hcnF1ZWVfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjIxIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"][elementor-element data=\"eyJpZCI6IjdmYjVmYjgiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6Miwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4yLCJzaXplcyI6W119LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxNn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-fe9462c e-con-full e-flex e-con e-child\" data-id=\"fe9462c\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjQ0NzRkMWUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjo0LCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sImFscGhhX2JvcmRlciI6ImVuYWJsZWQiLCJibG9nX3Bvc3Rfb2Zmc2V0Ijo2fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c9dd9fc e-con-full e-flex e-con e-child\" data-id=\"c9dd9fc\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImJmMTE0OTEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IldlbGxuZXNzIiwibWFycXVlZV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMjEiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"][elementor-element data=\"eyJpZCI6ImRlODViMTUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6Miwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4yLCJzaXplcyI6W119LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxOH0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-f49041e e-con-full e-flex e-con e-child\" data-id=\"f49041e\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjhiOTQxYmIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjo0LCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sImFscGhhX2JvcmRlciI6ImVuYWJsZWQiLCJibG9nX3Bvc3Rfb2Zmc2V0IjoxMH0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-a126de9 e-con-full e-flex e-con e-parent\" data-id=\"a126de9\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImUyNzExOGUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInRpdGxlIjoiU3RheSBJbmZvcm1lZCBXaXRoIHRoZSBMYXRlc3QgJiBNb3N0IEltcG9ydGFudCBOZXdzIiwic2hvcnRjb2RlIjoiW21jNHdwX2Zvcm0gaWQ9MzE0XSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXN1YnNjcmliZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-0378412 e-con-full container e-flex e-con e-parent\" data-id=\"0378412\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-c6b4936 e-con-full e-flex e-con e-child\" data-id=\"c6b4936\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjI1YTg0N2MiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkhlYWx0aCIsIm1hcnF1ZWVfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjIxIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"][elementor-element data=\"eyJpZCI6ImIxMTEzYWEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6Miwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4yLCJzaXplcyI6W119LCJibG9nX3Bvc3Rfb2Zmc2V0IjoyMH0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-5a3d7d9 e-con-full e-flex e-con e-child\" data-id=\"5a3d7d9\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImRiNGQyNjYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjo0LCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sImFscGhhX2JvcmRlciI6ImVuYWJsZWQiLCJibG9nX3Bvc3Rfb2Zmc2V0IjoyfSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-145ebd2 e-con-full e-flex e-con e-child\" data-id=\"145ebd2\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImYwNWYyODciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IldlbGxuZXNzIiwibWFycXVlZV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMjEiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"][elementor-element data=\"eyJpZCI6ImEzMzg2YTgiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6Miwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4yLCJzaXplcyI6W119LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxMH0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-9335258 e-con-full e-flex e-con e-child\" data-id=\"9335258\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImVlYzdiYmIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjo0LCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sImFscGhhX2JvcmRlciI6ImVuYWJsZWQiLCJibG9nX3Bvc3Rfb2Zmc2V0IjoxNn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-64c2a05 e-con-full e-flex e-con e-parent\" data-id=\"64c2a05\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjIyOWM2MjkiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNob3dfY29udGFpbmVyIjoieWVzIiwic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL25ld3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzEwXC9hZDIzLmpwZyIsImlkIjozMzksInNpemUiOiIiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5In0sInR5cGVfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC8ifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1hZCJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-e797385 e-con-full e-flex e-con e-parent\" data-id=\"e797385\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjgxODY2ZGUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkxhdGVzdCBOZXdzIiwibWFycXVlZV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMjMiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sIl9jc3NfY2xhc3NlcyI6ImNvbnRhaW5lciJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"][elementor-element data=\"eyJpZCI6ImIyN2U2YWQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV9zd2l0Y2hlciI6InllcyIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiZGVsdGFfbGF5b3V0IjoiaW5saW5lIiwiZGVsdGFfaW5saW5lX2NvbF9jb3VudCI6ImNvbF8yIiwiZGVsdGFfaW5saW5lX2JvcmRlciI6ImVuYWJsZWQiLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS41LCJzaXplcyI6W119LCJkZWx0YV9pbWdfcmF0aW9fdGFibGV0Ijp7InVuaXQiOiJweCIsInNpemUiOjEsInNpemVzIjpbXX0sImRlbHRhX3BhZ2luYXRpb25fZmlsdGVyIjoieWVzIiwicmVhZF9tb3JlX2N1c3RvbV9jb2xvciI6Im1haW5fY29sb3IiLCJfY3NzX2NsYXNzZXMiOiJjb250YWluZXIifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[{"timeout":1739949945,"value":{"content":"<div class=\"elementor-element elementor-element-b3225d6 e-con-full container e-flex e-con e-parent\" data-id=\"b3225d6\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-511d086 e-con-full e-flex e-con e-child\" data-id=\"511d086\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImFkZmVhNDciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6NCwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0IjozLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS41LCJzaXplcyI6W119LCJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwiYWxwaGFfYm9yZGVyIjoiZW5hYmxlZCIsImFscGhhX2ltZ19wb3MiOiJyaWdodCJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-8d92a2d e-con-full e-flex e-con e-child\" data-id=\"8d92a2d\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImRjOTJiMzIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJyZWFkX21vcmVfdGV4dCI6IlJlYWQgTW9yZSIsInBvc3RzX2ZpbHRlcl9sZWZ0X3RleHQiOiJQb3B1bGFyIiwicG9zdHNfZmlsdGVyX3JpZ2h0X3RleHQiOiJSZWNlbnQiLCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjMwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJlcHNpbG9uX2ltZ19yYXRpbyI6eyJ1bml0IjoicHgiLCJzaXplIjoxLjMzLCJzaXplcyI6W119LCJlcHNpbG9uX3RpdGxlX3NpemUiOiJsIiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjozLCJzaXplcyI6W119LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxfSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]<div class=\"elementor-element elementor-element-06ba471 e-con-full e-flex e-con e-child\" data-id=\"06ba471\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-e38030b e-con-full e-flex e-con e-child\" data-id=\"e38030b\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjNlZTYyNDQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjoxLCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sImJsb2dfcG9zdF9vZmZzZXQiOjd9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-ab47ba9 e-con-full e-flex e-con e-child\" data-id=\"ab47ba9\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjgxOTViYzIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImxheW91dCI6ImVwc2lsb24iLCJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjoxLCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sImJsb2dfcG9zdF9vZmZzZXQiOjh9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c88cb42 e-con-full e-flex e-con e-child\" data-id=\"c88cb42\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImIzMjNlYWEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6NCwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJfbWFyZ2luIjp7InVuaXQiOiJweCIsInRvcCI6IjAiLCJyaWdodCI6IjAiLCJib3R0b20iOiIwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJibG9nX3Bvc3Rfb2Zmc2V0Ijo5LCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS41LCJzaXplcyI6W119LCJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwiYWxwaGFfYm9yZGVyIjoiZW5hYmxlZCIsImFscGhhX3RleHRfcG9zIjoicmlnaHQifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-45f1913 e-con-full e-flex e-con e-parent\" data-id=\"45f1913\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImI2MDI5YjgiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJzX21hcnF1ZWUiLCJtYXJxdWVlX2xpc3QiOlt7Il9pZCI6ImEyZWE3YWEiLCJtYXJxdWVlX3RpdGxlIjoiSG90IFRvcGljcyJ9LHsibWFycXVlZV90aXRsZSI6IkhvdCBUb3BpY3MiLCJfaWQiOiJiZWI3MzAyIn0seyJtYXJxdWVlX3RpdGxlIjoiSG90IFRvcGljcyIsIl9pZCI6IjUyYzZjYzEifSx7Im1hcnF1ZWVfdGl0bGUiOiJIb3QgVG9waWNzIiwiX2lkIjoiZjgwOWYwNCJ9LHsibWFycXVlZV90aXRsZSI6IkhvdCBUb3BpY3MiLCJfaWQiOiJhMjc1NzRkIn0seyJtYXJxdWVlX3RpdGxlIjoiSG90IFRvcGljcyIsIl9pZCI6IjdjNmM4NTIifSx7Im1hcnF1ZWVfdGl0bGUiOiJIb3QgVG9waWNzIiwiX2lkIjoiYjE2Zjg2ZCJ9LHsibWFycXVlZV90aXRsZSI6IkhvdCBUb3BpY3MiLCJfaWQiOiI1ZmRhOTJmIn0seyJtYXJxdWVlX3RpdGxlIjoiSG90IFRvcGljcyIsIl9pZCI6IjgzYTRjNTIifV0sImN1c3RvbV9jb2xvciI6InllcyIsIm1hcnF1ZWVfY29sb3IiOiIjRjY0MDZCIiwibWFycXVlZV9pY29uX2NvbG9yIjoiI0Y2NDA2QiIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjAiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sIl9jc3NfY2xhc3NlcyI6Im1vdy1ib3JkZXItMS1ib3R0b20gbW93LWJvcmRlci0xLXRvcCBtb3ctYm9yZGVyLXRvcC1ib3JkZXItY29sb3IgbW93LWJvcmRlci1ib3R0b20tYm9yZGVyLWNvbG9yIiwiX2JvcmRlcl93aWR0aCI6eyJ1bml0IjoicHgiLCJ0b3AiOiIxIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMSIsImxlZnQiOiIwIiwiaXNMaW5rZWQiOmZhbHNlfX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtdGl0bGUifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-b2b50f5 e-con-full container e-flex e-con e-parent\" data-id=\"b2b50f5\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjJlMWZlZWMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJncmlkX2JveCIsImlkcyI6IjE2LDE3LDE4LDE5LDIwLDIxLDIyLDIzLDI0LDI1IiwiY3VzdG9tX2xpc3QiOltdLCJsaXN0XzJfb3JfdGV4dCI6Ik9yLi4uIiwibGlzdF8yX2xpbmtfdGV4dCI6IlNlZSB0aGVtIEFsbCIsImxpc3RfMl9saW5rX3VybCI6IiMiLCJncmlkX2JveF9zaG93X2xpbmsiOiJ5ZXMiLCJncmlkX2JveF9vcl90ZXh0IjoiT3IiLCJncmlkX2JveF9saW5rX3RleHQiOiJTZWUgdGhlbSBBbGwiLCJncmlkX2JveF9saW5rX3VybCI6IiMifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1jYXRlZ29yaWVzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-3166e14 e-con-full e-flex e-con e-parent\" data-id=\"3166e14\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImE3MmQ4ODciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJzaW1wbGUiLCJ0aXRsZSI6IkVkaXRvcidzIFBpY2siLCJtYXJxdWVlX2xpc3QiOltdLCJjdXN0b21fY29sb3IiOiJ5ZXMiLCJzaW1wbGVfY29sb3IiOiIjMDBCOEE5IiwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiLTI5IiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJfbWFyZ2luX3RhYmxldCI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiLTEwIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9LCJfY3NzX2NsYXNzZXMiOiJjb250YWluZXIifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"][elementor-element data=\"eyJpZCI6ImJlODA5MGEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJpbnRlcmFjdGl2ZSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiYmxvZ19wb3N0X29mZnNldCI6MTN9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXBvc3RzIn0=\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-a9c5207 e-con-full e-flex e-con e-parent\" data-id=\"a9c5207\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjNjOWMwOWMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNob3dfY29udGFpbmVyIjoieWVzIiwic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL25ld3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzEwXC9hZDIzLmpwZyIsImlkIjozMzksInNpemUiOiIiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5In0sInR5cGVfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC8ifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1hZCJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-4a3abec e-con-full container e-flex e-con e-parent\" data-id=\"4a3abec\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-d748457 e-con-full e-flex e-con e-child\" data-id=\"d748457\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjUxOGRlMDMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkhlYWx0aCIsIm1hcnF1ZWVfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjIxIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"][elementor-element data=\"eyJpZCI6IjdmYjVmYjgiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6Miwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4yLCJzaXplcyI6W119LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxNn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-fe9462c e-con-full e-flex e-con e-child\" data-id=\"fe9462c\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjQ0NzRkMWUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjo0LCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sImFscGhhX2JvcmRlciI6ImVuYWJsZWQiLCJibG9nX3Bvc3Rfb2Zmc2V0Ijo2fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c9dd9fc e-con-full e-flex e-con e-child\" data-id=\"c9dd9fc\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImJmMTE0OTEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IldlbGxuZXNzIiwibWFycXVlZV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMjEiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"][elementor-element data=\"eyJpZCI6ImRlODViMTUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6Miwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4yLCJzaXplcyI6W119LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxOH0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-f49041e e-con-full e-flex e-con e-child\" data-id=\"f49041e\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjhiOTQxYmIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjo0LCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sImFscGhhX2JvcmRlciI6ImVuYWJsZWQiLCJibG9nX3Bvc3Rfb2Zmc2V0IjoxMH0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-a126de9 e-con-full e-flex e-con e-parent\" data-id=\"a126de9\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImUyNzExOGUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInRpdGxlIjoiU3RheSBJbmZvcm1lZCBXaXRoIHRoZSBMYXRlc3QgJiBNb3N0IEltcG9ydGFudCBOZXdzIiwic2hvcnRjb2RlIjoiW21jNHdwX2Zvcm0gaWQ9MzE0XSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXN1YnNjcmliZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-0378412 e-con-full container e-flex e-con e-parent\" data-id=\"0378412\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-c6b4936 e-con-full e-flex e-con e-child\" data-id=\"c6b4936\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjI1YTg0N2MiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkhlYWx0aCIsIm1hcnF1ZWVfbGlzdCI6W10sIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiMCIsInJpZ2h0IjoiMCIsImJvdHRvbSI6IjIxIiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"][elementor-element data=\"eyJpZCI6ImIxMTEzYWEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6Miwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4yLCJzaXplcyI6W119LCJibG9nX3Bvc3Rfb2Zmc2V0IjoyMH0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-5a3d7d9 e-con-full e-flex e-con e-child\" data-id=\"5a3d7d9\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImRiNGQyNjYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjo0LCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sImFscGhhX2JvcmRlciI6ImVuYWJsZWQiLCJibG9nX3Bvc3Rfb2Zmc2V0IjoyfSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-145ebd2 e-con-full e-flex e-con e-child\" data-id=\"145ebd2\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImYwNWYyODciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IldlbGxuZXNzIiwibWFycXVlZV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMjEiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"][elementor-element data=\"eyJpZCI6ImEzMzg2YTgiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6Miwic2l6ZXMiOltdfSwiYnBvZF9saXN0IjpbXSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS4yLCJzaXplcyI6W119LCJibG9nX3Bvc3Rfb2Zmc2V0IjoxMH0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-9335258 e-con-full e-flex e-con e-child\" data-id=\"9335258\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6ImVlYzdiYmIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJleGNlcnB0X3N3aXRjaGVyIjoieWVzIiwicmVhZF9tb3JlX3RleHQiOiJSZWFkIE1vcmUiLCJwb3N0c19maWx0ZXJfbGVmdF90ZXh0IjoiUG9wdWxhciIsInBvc3RzX2ZpbHRlcl9yaWdodF90ZXh0IjoiUmVjZW50IiwiYmxvZ19wb3N0X251bWJlciI6eyJ1bml0IjoicHgiLCJzaXplIjo0LCJzaXplcyI6W119LCJicG9kX2xpc3QiOltdLCJobGlnaHRfbGlzdCI6W10sImFscGhhX2JvcmRlciI6ImVuYWJsZWQiLCJibG9nX3Bvc3Rfb2Zmc2V0IjoxNn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9zdHMifQ==\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-64c2a05 e-con-full e-flex e-con e-parent\" data-id=\"64c2a05\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjIyOWM2MjkiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNob3dfY29udGFpbmVyIjoieWVzIiwic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL25ld3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzEwXC9hZDIzLmpwZyIsImlkIjozMzksInNpemUiOiIiLCJhbHQiOiIiLCJzb3VyY2UiOiJsaWJyYXJ5In0sInR5cGVfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC8ifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1hZCJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-e797385 e-con-full e-flex e-con e-parent\" data-id=\"e797385\" data-element_type=\"container\">\n\t\t[elementor-element data=\"eyJpZCI6IjgxODY2ZGUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0aXRsZSI6IkxhdGVzdCBOZXdzIiwibWFycXVlZV9saXN0IjpbXSwiX21hcmdpbiI6eyJ1bml0IjoicHgiLCJ0b3AiOiIwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiMjMiLCJsZWZ0IjoiMCIsImlzTGlua2VkIjpmYWxzZX0sIl9jc3NfY2xhc3NlcyI6ImNvbnRhaW5lciJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXRpdGxlIn0=\"][elementor-element data=\"eyJpZCI6ImIyN2U2YWQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsInJlYWRfbW9yZV9zd2l0Y2hlciI6InllcyIsInJlYWRfbW9yZV90ZXh0IjoiUmVhZCBNb3JlIiwicG9zdHNfZmlsdGVyX2xlZnRfdGV4dCI6IlBvcHVsYXIiLCJwb3N0c19maWx0ZXJfcmlnaHRfdGV4dCI6IlJlY2VudCIsImJwb2RfbGlzdCI6W10sImhsaWdodF9saXN0IjpbXSwiZGVsdGFfbGF5b3V0IjoiaW5saW5lIiwiZGVsdGFfaW5saW5lX2NvbF9jb3VudCI6ImNvbF8yIiwiZGVsdGFfaW5saW5lX2JvcmRlciI6ImVuYWJsZWQiLCJkZWx0YV9pbWdfcmF0aW8iOnsidW5pdCI6InB4Iiwic2l6ZSI6MS41LCJzaXplcyI6W119LCJkZWx0YV9pbWdfcmF0aW9fdGFibGV0Ijp7InVuaXQiOiJweCIsInNpemUiOjEsInNpemVzIjpbXX0sImRlbHRhX3BhZ2luYXRpb25fZmlsdGVyIjoieWVzIiwicmVhZF9tb3JlX2N1c3RvbV9jb2xvciI6Im1haW5fY29sb3IiLCJfY3NzX2NsYXNzZXMiOiJjb250YWluZXIifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC1wb3N0cyJ9\"]\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10256,7 +10264,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[75]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -10525,11 +10533,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[41]]></wp:meta_value>
+		<wp:meta_value><![CDATA[77]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -10545,7 +10553,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_not_sure]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_omg]]></wp:meta_key>
@@ -10610,6 +10618,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_fers_prefix_post_options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:7:{s:16:"fers-score-shows";s:0:"";s:16:"fers-score-title";s:0:"";s:19:"fers-score-overview";s:0:"";s:21:"fers-editorial-rating";a:1:{i:0;a:2:{s:35:"fers-editorial-rating-category-name";s:11:"Option Name";s:35:"fers-editorial-rating-category-rate";s:3:"100";}}s:20:"fers-pros-cons-shows";s:1:"1";s:9:"fers-pros";a:1:{i:0;a:1:{s:14:"fers-pros-list";s:18:"Advantage Sample 1";}}s:9:"fers-cons";a:1:{i:0;a:1:{s:14:"fers-cons-list";s:21:"Disadvantage Sample 1";}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10795,7 +10811,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[68]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -11065,7 +11081,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[68]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -11340,7 +11356,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[67]]></wp:meta_value>
+		<wp:meta_value><![CDATA[112]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -11648,7 +11664,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		<wp:meta_value><![CDATA[77]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -11887,8 +11903,8 @@
 		<category domain="post_tag" nicename="interior"><![CDATA[Interior]]></category>
 		<category domain="category" nicename="nutrition"><![CDATA[Nutrition]]></category>
 		<category domain="category" nicename="prevention"><![CDATA[Prevention]]></category>
-		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 		<category domain="post_tag" nicename="video"><![CDATA[Video]]></category>
+		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[xoxo_fn_page_style]]></wp:meta_key>
@@ -11932,7 +11948,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[66]]></wp:meta_value>
+		<wp:meta_value><![CDATA[105]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -12199,7 +12215,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[16]]></wp:meta_value>
+		<wp:meta_value><![CDATA[46]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -12471,7 +12487,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[23]]></wp:meta_value>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -12740,7 +12756,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		<wp:meta_value><![CDATA[65]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -13010,7 +13026,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[99]]></wp:meta_value>
+		<wp:meta_value><![CDATA[132]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -13281,7 +13297,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[67]]></wp:meta_value>
+		<wp:meta_value><![CDATA[111]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[xoxo_fn_postgallery]]></wp:meta_key>
@@ -13576,7 +13592,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[75]]></wp:meta_value>
+		<wp:meta_value><![CDATA[116]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -13849,7 +13865,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[116]]></wp:meta_value>
+		<wp:meta_value><![CDATA[172]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -14123,7 +14139,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[199]]></wp:meta_value>
+		<wp:meta_value><![CDATA[251]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -14422,7 +14438,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[110]]></wp:meta_value>
+		<wp:meta_value><![CDATA[152]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -14652,8 +14668,8 @@
 		<category domain="category" nicename="diseases"><![CDATA[Diseases]]></category>
 		<category domain="post_tag" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="category" nicename="mental"><![CDATA[Mental]]></category>
-		<category domain="post_format" nicename="post-format-quote"><![CDATA[Quote]]></category>
 		<category domain="post_tag" nicename="quote"><![CDATA[Quote]]></category>
+		<category domain="post_format" nicename="post-format-quote"><![CDATA[Quote]]></category>
 		<category domain="category" nicename="research"><![CDATA[Research]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="writing"><![CDATA[Writing]]></category>
@@ -14703,15 +14719,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[134]]></wp:meta_value>
+		<wp:meta_value><![CDATA[195]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_reaction_in_love]]></wp:meta_key>
@@ -14788,6 +14804,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_fers_prefix_post_options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:7:{s:16:"fers-score-shows";s:0:"";s:16:"fers-score-title";s:0:"";s:19:"fers-score-overview";s:0:"";s:21:"fers-editorial-rating";a:1:{i:0;a:2:{s:35:"fers-editorial-rating-category-name";s:11:"Option Name";s:35:"fers-editorial-rating-category-rate";s:3:"100";}}s:20:"fers-pros-cons-shows";s:1:"1";s:9:"fers-pros";a:1:{i:0;a:1:{s:14:"fers-pros-list";s:18:"Advantage Sample 1";}}s:9:"fers-cons";a:1:{i:0;a:1:{s:14:"fers-cons-list";s:21:"Disadvantage Sample 1";}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14975,7 +14999,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[202]]></wp:meta_value>
+		<wp:meta_value><![CDATA[266]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -15260,11 +15284,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[289]]></wp:meta_value>
+		<wp:meta_value><![CDATA[351]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_down]]></wp:meta_key>
@@ -15345,6 +15369,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_fers_prefix_post_options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:7:{s:16:"fers-score-shows";s:0:"";s:16:"fers-score-title";s:0:"";s:19:"fers-score-overview";s:0:"";s:21:"fers-editorial-rating";a:1:{i:0;a:2:{s:35:"fers-editorial-rating-category-name";s:11:"Option Name";s:35:"fers-editorial-rating-category-rate";s:3:"100";}}s:20:"fers-pros-cons-shows";s:1:"1";s:9:"fers-pros";a:1:{i:0;a:1:{s:14:"fers-pros-list";s:18:"Advantage Sample 1";}}s:9:"fers-cons";a:1:{i:0;a:1:{s:14:"fers-cons-list";s:21:"Disadvantage Sample 1";}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_diff]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mow_fn_vote_total]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15529,7 +15561,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[129]]></wp:meta_value>
+		<wp:meta_value><![CDATA[174]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -15617,65 +15649,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/health/?p=1</link>
-		<pubDate>Sun, 29 Dec 2024 04:08:43 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/health/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2024-12-29 04:08:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-12-29 04:08:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-31 09:58:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-31 09:58:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1735639110]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2024-12-29 04:08:43]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2024-12-29 04:08:43]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/health/navigation/</link>
 		<pubDate>Sun, 29 Dec 2024 04:08:44 +0000</pubDate>
@@ -15699,133 +15672,6 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
-					<item>
-		<title><![CDATA[Contact form 1]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/health/?post_type=wpcf7_contact_form&#038;p=9</link>
-		<pubDate>Sun, 29 Dec 2024 04:11:36 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/health/?post_type=wpcf7_contact_form&#038;p=9</guid>
-		<description></description>
-		<content:encoded><![CDATA[<label> Your name
-    [text* your-name autocomplete:name] </label>
-
-<label> Your email
-    [email* your-email autocomplete:email] </label>
-
-<label> Subject
-    [text* your-subject] </label>
-
-<label> Your message (optional)
-    [textarea your-message] </label>
-
-[submit "Submit"]
-[_site_title] "[your-subject]"
-[_site_title] <wordpress@frenify.com>
-From: [your-name] [your-email]
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
-[_site_admin_email]
-Reply-To: [your-email]
-
-0
-0
-
-[_site_title] "[your-subject]"
-[_site_title] <wordpress@frenify.com>
-Message Body:
-[your-message]
-
--- 
-This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
-[your-email]
-Reply-To: [_site_admin_email]
-
-0
-0
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-Please fill out this field.
-This field has a too long input.
-This field has a too short input.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The uploaded file is too large.
-There was an error uploading the file.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2024-12-29 04:11:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-12-29 04:11:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-29 04:11:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-29 04:11:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<label> Your name
-    [text* your-name autocomplete:name] </label>
-
-<label> Your email
-    [email* your-email autocomplete:email] </label>
-
-<label> Subject
-    [text* your-subject] </label>
-
-<label> Your message (optional)
-    [textarea your-message] </label>
-
-[submit "Submit"]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:37:"[_site_title] <wordpress@frenify.com>";s:4:"body";s:191:"From: [your-name] [your-email]
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:37:"[_site_title] <wordpress@frenify.com>";s:4:"body";s:220:"Message Body:
-[your-message]
-
--- 
-This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15859f695cab1e93a765e8a99be093c1ac464a36]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[Travel Bag]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/health/product/travel-bag/</link>
