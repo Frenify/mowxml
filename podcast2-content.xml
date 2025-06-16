@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.1" created="2025-06-13 07:00" -->
+	<!-- generator="WordPress/6.8.1" created="2025-06-16 04:20" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Mow</title>
 	<link>https://frenify.com/work/envato/frenify/wp/mow/podcast2</link>
 	<description></description>
-	<pubDate>Fri, 13 Jun 2025 07:00:52 +0000</pubDate>
+	<pubDate>Mon, 16 Jun 2025 04:20:52 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://frenify.com/work/envato/frenify/wp/mow/podcast2</wp:base_site_url>
@@ -13119,7 +13119,7 @@ Pernais: Yes. Always.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"timeout":1749883352,"value":{"content":"<div class=\"elementor-element elementor-element-7e3eefe e-con-full e-flex e-con e-parent\" data-id=\"7e3eefe\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6IjNiNGVlY2EiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJtYXJxdWVlIiwibWFycXVlZV9saXN0IjpbeyJfaWQiOiI0NjExZTZkIiwibWFycXVlZV90aXRsZSI6IkZlYXR1cmVkIn0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiJlNmQ4MmE4In0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiI2OGVlNmY5In0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiJjYWQxZWJlIn0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiI2ODUyM2U2In0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiJiZTgzNzEyIn0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiI4MjA3ZDYyIn0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiJhZjU2NDU1In0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiIzYTY5MGEyIn1dLCJtYXJxdWVlX2NvbG9yIjoiI0ZDNzg0RiIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiLTEwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiLTE5IiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-17491ef e-con-full container e-flex e-con e-parent\" data-id=\"17491ef\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6IjdiNDcwYWYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6Mywic2l6ZXMiOltdfSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9ib3JkZXIiOiJlbmFibGVkIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9kY2FzdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-37d3f6b e-con-full e-flex e-con e-parent\" data-id=\"37d3f6b\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6ImMyMWYzMjUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInRpdGxlIjoiU3RheSBJbmZvcm1lZCBXaXRoIHRoZSBMYXRlc3QgJiBNb3N0IEltcG9ydGFudCBOZXdzIiwic2hvcnRjb2RlIjoiW21jNHdwX2Zvcm0gaWQ9MzE0XSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXN1YnNjcmliZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-4506ebb e-con-full e-flex e-con e-parent\" data-id=\"4506ebb\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6IjZiMjI3ODciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJtYXJxdWVlIiwibWFycXVlZV9saXN0IjpbeyJfaWQiOiI0NjExZTZkIiwibWFycXVlZV90aXRsZSI6IkxhdGVzdCBFcGlzb2RlcyJ9LHsibWFycXVlZV90aXRsZSI6IkxhdGVzdCBFcGlzb2RlcyIsIl9pZCI6IjIyMDYzYmMifSx7Im1hcnF1ZWVfdGl0bGUiOiJMYXRlc3QgRXBpc29kZXMiLCJfaWQiOiI4MzIyZTk0In0seyJtYXJxdWVlX3RpdGxlIjoiTGF0ZXN0IEVwaXNvZGVzIiwiX2lkIjoiNDQ0YzY5MiJ9LHsibWFycXVlZV90aXRsZSI6IkxhdGVzdCBFcGlzb2RlcyIsIl9pZCI6IjY1MGViNTQifSx7Im1hcnF1ZWVfdGl0bGUiOiJMYXRlc3QgRXBpc29kZXMiLCJfaWQiOiJiMmFhYWEwIn0seyJtYXJxdWVlX3RpdGxlIjoiTGF0ZXN0IEVwaXNvZGVzIiwiX2lkIjoiNzc5YTdkMSJ9LHsibWFycXVlZV90aXRsZSI6IkxhdGVzdCBFcGlzb2RlcyIsIl9pZCI6ImM0ODBhNzcifSx7Im1hcnF1ZWVfdGl0bGUiOiJMYXRlc3QgRXBpc29kZXMiLCJfaWQiOiIzZmVlYjAyIn1dLCJjdXN0b21fY29sb3IiOiJ5ZXMiLCJtYXJxdWVlX2NvbG9yIjoiI0ZDNzg0RiIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiLTEwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiLTE5IiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-16b4f0b e-con-full container e-flex e-con e-parent\" data-id=\"16b4f0b\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6IjI2NjMyNWQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJiZXRhIiwicGFnaW5hdGlvbl9maWx0ZXIiOiJ5ZXMiLCJwYWdpbmF0aW9uX3BwIjp7InVuaXQiOiJweCIsInNpemUiOjEyLCJzaXplcyI6W119LCJsb2FkX21vcmVfdGV4dCI6IkxvYWQgTW9yZSIsImxvYWRfbW9yZV9jdXN0b21fY29sb3IiOiJ5ZXMiLCJsb2FkX21vcmVfYmdjb2xvciI6IiMwODA4MDgiLCJsb2FkX21vcmVfdGV4dGNvbG9yIjoiI0ZGRkZGRiIsImhsaWdodF9saXN0IjpbXX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtZXBpc29kZXMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-710ed2c e-con-full e-flex e-con e-parent\" data-id=\"710ed2c\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6ImRmZGQ4MDciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNob3dfY29udGFpbmVyIjoieWVzIiwic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL25ld3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzAyXC85NzBhZHMtMjUwLndlYnAiLCJpZCI6MTAzOSwic2l6ZSI6IiIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkifSwidHlwZV9pbWFnZV91cmwiOiJodHRwczpcL1wvZnJlbmlmeS5jb21cLyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWFkIn0=\"]\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[{"timeout":1750073930,"value":{"content":"<div class=\"elementor-element elementor-element-7e3eefe e-con-full e-flex e-con e-parent\" data-id=\"7e3eefe\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6IjNiNGVlY2EiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJtYXJxdWVlIiwibWFycXVlZV9saXN0IjpbeyJfaWQiOiI0NjExZTZkIiwibWFycXVlZV90aXRsZSI6IkZlYXR1cmVkIn0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiJlNmQ4MmE4In0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiI2OGVlNmY5In0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiJjYWQxZWJlIn0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiI2ODUyM2U2In0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiJiZTgzNzEyIn0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiI4MjA3ZDYyIn0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiJhZjU2NDU1In0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiIzYTY5MGEyIn1dLCJtYXJxdWVlX2NvbG9yIjoiI0ZDNzg0RiIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiLTEwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiLTE5IiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-17491ef e-con-full container e-flex e-con e-parent\" data-id=\"17491ef\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6IjdiNDcwYWYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6Mywic2l6ZXMiOltdfSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9ib3JkZXIiOiJlbmFibGVkIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9kY2FzdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-37d3f6b e-con-full e-flex e-con e-parent\" data-id=\"37d3f6b\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6ImMyMWYzMjUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInRpdGxlIjoiU3RheSBJbmZvcm1lZCBXaXRoIHRoZSBMYXRlc3QgJiBNb3N0IEltcG9ydGFudCBOZXdzIiwic2hvcnRjb2RlIjoiW21jNHdwX2Zvcm0gaWQ9MzE0XSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXN1YnNjcmliZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-4506ebb e-con-full e-flex e-con e-parent\" data-id=\"4506ebb\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6IjZiMjI3ODciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJtYXJxdWVlIiwibWFycXVlZV9saXN0IjpbeyJfaWQiOiI0NjExZTZkIiwibWFycXVlZV90aXRsZSI6IkxhdGVzdCBFcGlzb2RlcyJ9LHsibWFycXVlZV90aXRsZSI6IkxhdGVzdCBFcGlzb2RlcyIsIl9pZCI6IjIyMDYzYmMifSx7Im1hcnF1ZWVfdGl0bGUiOiJMYXRlc3QgRXBpc29kZXMiLCJfaWQiOiI4MzIyZTk0In0seyJtYXJxdWVlX3RpdGxlIjoiTGF0ZXN0IEVwaXNvZGVzIiwiX2lkIjoiNDQ0YzY5MiJ9LHsibWFycXVlZV90aXRsZSI6IkxhdGVzdCBFcGlzb2RlcyIsIl9pZCI6IjY1MGViNTQifSx7Im1hcnF1ZWVfdGl0bGUiOiJMYXRlc3QgRXBpc29kZXMiLCJfaWQiOiJiMmFhYWEwIn0seyJtYXJxdWVlX3RpdGxlIjoiTGF0ZXN0IEVwaXNvZGVzIiwiX2lkIjoiNzc5YTdkMSJ9LHsibWFycXVlZV90aXRsZSI6IkxhdGVzdCBFcGlzb2RlcyIsIl9pZCI6ImM0ODBhNzcifSx7Im1hcnF1ZWVfdGl0bGUiOiJMYXRlc3QgRXBpc29kZXMiLCJfaWQiOiIzZmVlYjAyIn1dLCJjdXN0b21fY29sb3IiOiJ5ZXMiLCJtYXJxdWVlX2NvbG9yIjoiI0ZDNzg0RiIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiLTEwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiLTE5IiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-16b4f0b e-con-full container e-flex e-con e-parent\" data-id=\"16b4f0b\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6IjI2NjMyNWQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJiZXRhIiwicGFnaW5hdGlvbl9maWx0ZXIiOiJ5ZXMiLCJwYWdpbmF0aW9uX3BwIjp7InVuaXQiOiJweCIsInNpemUiOjEyLCJzaXplcyI6W119LCJsb2FkX21vcmVfdGV4dCI6IkxvYWQgTW9yZSIsImxvYWRfbW9yZV9jdXN0b21fY29sb3IiOiJ5ZXMiLCJsb2FkX21vcmVfYmdjb2xvciI6IiMwODA4MDgiLCJsb2FkX21vcmVfdGV4dGNvbG9yIjoiI0ZGRkZGRiIsImhsaWdodF9saXN0IjpbXX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtZXBpc29kZXMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-710ed2c e-con-full e-flex e-con e-parent\" data-id=\"710ed2c\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6ImRmZGQ4MDciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNob3dfY29udGFpbmVyIjoieWVzIiwic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL25ld3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzAyXC85NzBhZHMtMjUwLndlYnAiLCJpZCI6MTAzOSwic2l6ZSI6IiIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkifSwidHlwZV9pbWFnZV91cmwiOiJodHRwczpcL1wvZnJlbmlmeS5jb21cLyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWFkIn0=\"]\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -15925,7 +15925,7 @@ Pernais: Yes. Always.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1568]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1569]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
@@ -18558,6 +18558,362 @@ Pernais: Yes. Always.]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Podcasts]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcasts/</link>
+		<pubDate>Tue, 03 Jun 2025 10:16:42 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/podcast2/?page_id=1180</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Discover engaging conversations, expert interviews, and trending stories across a wide range of topics—all in one place.]]></excerpt:encoded>
+		<wp:post_id>1180</wp:post_id>
+		<wp:post_date><![CDATA[2025-06-03 10:16:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-06-03 10:16:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-03 10:16:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-03 10:16:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[podcasts]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-podcast.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_page_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[contained]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_page_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_blogpage_main_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_blogpage_secondary_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[disable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_blogpage_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_coming_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Building Tomorrow, Today]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_coming_desc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[We are crafting a new vision that blends innovation, quality, and design. Stay tuned for the big reveal. Your dream space is about to become a reality. Countdown with us!]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Episodes]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/podcast2/episodes/</link>
+		<pubDate>Tue, 03 Jun 2025 10:17:24 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/podcast2/?page_id=1182</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Browse the latest episodes featuring fresh insights, compelling stories, and meaningful conversations across topics.]]></excerpt:encoded>
+		<wp:post_id>1182</wp:post_id>
+		<wp:post_date><![CDATA[2025-06-03 10:17:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-06-03 10:17:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-03 10:17:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-03 10:17:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[episodes]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-episode.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_page_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[contained]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_page_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_blogpage_main_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_blogpage_secondary_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[disable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_blogpage_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_coming_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Building Tomorrow, Today]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_coming_desc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[We are crafting a new vision that blends innovation, quality, and design. Stay tuned for the big reveal. Your dream space is about to become a reality. Countdown with us!]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home RTL]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/podcast2/home-rtl/</link>
+		<pubDate>Mon, 16 Jun 2025 04:00:55 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/podcast2/?page_id=1267</guid>
+		<description></description>
+		<content:encoded><![CDATA[FeaturedFeaturedFeaturedFeaturedFeaturedFeaturedFeaturedFeaturedFeatured				
+					<ul><li><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/tech-tomorrow/"><img width="1280" height="853" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280.webp" alt="" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280.webp 1280w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-300x200.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-1024x682.webp 1024w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-768x512.webp 768w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-600x400.webp 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>4 Episodes<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/tech-tomorrow/">Tech Tomorrow</a></h3><p>Stay ahead of the curve with insights into the latest breakthroughs in technology, innovation, and the digital world</p>
+									<img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/4434234236-150x150.webp" alt="" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/4434234236-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/4434234236-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/4434234236-100x100.webp 100w" sizes="(max-width: 150px) 100vw, 150px" />04<button data-mp3="https://frenify.com/work/envato/frenify/wp/mow/videos/podcast/ai.mp3"></button>
+										<p>5 days ago</p>
+										<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/how-blockchain-is-changing-more-than-finance/">How Blockchain Is Changing More Than Finance</a></h3>
+									<img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/2345353436343-150x150.webp" alt="" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/2345353436343-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/2345353436343-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/2345353436343-100x100.webp 100w" sizes="(max-width: 150px) 100vw, 150px" />03<button data-mp3="https://frenify.com/work/envato/frenify/wp/mow/videos/podcast/book.mp3"></button>
+										<p>5 days ago</p>
+										<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/smart-cities-hype-or-reality/">Smart Cities: Hype or Reality?</a></h3>
+									<img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/547457567567-150x150.webp" alt="" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/547457567567-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/547457567567-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/547457567567-100x100.webp 100w" sizes="(max-width: 150px) 100vw, 150px" />02<button data-mp3="https://frenify.com/work/envato/frenify/wp/mow/videos/podcast/car.mp3"></button>
+										<p>5 days ago</p>
+										<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/quantum-computing-explained/">Quantum Computing Explained</a></h3>
+							<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/tech-tomorrow/" aria-label="Read more about Tech Tomorrow">View All</a></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/mindful-minutes/"><img width="1920" height="600" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565.jpg" alt="A photographer capturing a scenic mountain view with a camera." decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565.jpg 1920w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-300x94.jpg 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-1024x320.jpg 1024w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-768x240.jpg 768w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-1536x480.jpg 1536w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-600x188.jpg 600w" sizes="(max-width: 1920px) 100vw, 1920px" /></a>4 Episodes<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/mindful-minutes/">Mindful Minutes</a></h3><p>Take a moment to breathe, reflect, and reset with short, calming episodes designed to help you navigate modern life.</p>
+									<img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/content-image-150x150.webp" alt="" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/content-image-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/content-image-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/content-image-100x100.webp 100w" sizes="(max-width: 150px) 100vw, 150px" />04<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3"></button>
+										<p>5 days ago</p>
+										<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/the-art-of-saying-no/">The Art of Saying No</a></h3>
+									<img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/544575-150x150.webp" alt="" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/544575-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/544575-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/544575-100x100.webp 100w" sizes="(max-width: 150px) 100vw, 150px" />03<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3"></button>
+										<p>5 days ago</p>
+										<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/journaling-as-therapy/">Journaling as Therapy</a></h3>
+									<img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/pexels-quang-nguyen-vinh-222549-2163950-150x150.webp" alt="" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/pexels-quang-nguyen-vinh-222549-2163950-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/pexels-quang-nguyen-vinh-222549-2163950-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/pexels-quang-nguyen-vinh-222549-2163950-100x100.webp 100w" sizes="(max-width: 150px) 100vw, 150px" />02<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3"></button>
+										<p>5 days ago</p>
+										<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/digital-detox-for-the-soul/">Digital Detox for the Soul</a></h3>
+							<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/mindful-minutes/" aria-label="Read more about Mindful Minutes">View All</a></li><li><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/bookbite-weekly/"><img width="1280" height="853" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health.webp" alt="" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health.webp 1280w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-300x200.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-1024x682.webp 1024w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-768x512.webp 768w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-600x400.webp 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>4 Episodes<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/bookbite-weekly/">BookBite Weekly</a></h3><p>Bite-sized book summaries and discussions to fuel your curiosity, growth, and love for reading</p>
+									<img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/56344365764-150x150.webp" alt="" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/56344365764-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/56344365764-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/56344365764-100x100.webp 100w" sizes="(max-width: 150px) 100vw, 150px" />04<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3"></button>
+										<p>5 days ago</p>
+										<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/think-fast-think-deep/">Think Fast, Think Deep</a></h3>
+									<img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/678675432678-150x150.webp" alt="" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/678675432678-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/678675432678-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/678675432678-100x100.webp 100w" sizes="(max-width: 150px) 100vw, 150px" />03<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3"></button>
+										<p>5 days ago</p>
+										<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/why-we-sleep-key-takeaways/">Why We Sleep – Key Takeaways</a></h3>
+									<img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/ai-generated-8520972_1280-150x150.webp" alt="" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/ai-generated-8520972_1280-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/ai-generated-8520972_1280-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/ai-generated-8520972_1280-1024x1024.webp 1024w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/ai-generated-8520972_1280-768x768.webp 768w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/ai-generated-8520972_1280-600x600.webp 600w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/ai-generated-8520972_1280-100x100.webp 100w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/ai-generated-8520972_1280.webp 1280w" sizes="(max-width: 150px) 100vw, 150px" />02<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3"></button>
+										<p>5 days ago</p>
+										<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/the-psychology-behind-the-alchemist/">The Psychology Behind “The Alchemist”</a></h3>
+							<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/bookbite-weekly/" aria-label="Read more about BookBite Weekly">View All</a></li></ul>				
+					<h3>Stay Informed With the Latest & Most Important News</h3><!-- Mailchimp for WordPress v4.10.4 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" method="post" data-id="314" data-name="Newspaper" ><input type="email" name="EMAIL" placeholder="Your email address" required /><input type="submit" value="Subscribe" />
+<p>I consent to receive newsletter via email. For further information, 
+  please review our <a href="#">Privacy Policy</a></p><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1749014489" /><input type="hidden" name="_mc4wp_form_id" value="314" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></form><!-- / Mailchimp for WordPress Plugin -->				
+					Latest EpisodesLatest EpisodesLatest EpisodesLatest EpisodesLatest EpisodesLatest EpisodesLatest EpisodesLatest EpisodesLatest Episodes				
+					<ul><li>
+					<button data-mp3="https://frenify.com/work/envato/frenify/wp/mow/videos/podcast/ai.mp3">04</button>
+						<p>5 days ago</p>
+						<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/how-blockchain-is-changing-more-than-finance/">How Blockchain Is Changing More Than Finance</a></h3>
+				<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/tech-tomorrow/"><img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-150x150.webp" alt="" loading="lazy" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-100x100.webp 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />Tech Tomorrow</a></li><li>
+					<button data-mp3="https://frenify.com/work/envato/frenify/wp/mow/videos/podcast/book.mp3">03</button>
+						<p>5 days ago</p>
+						<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/smart-cities-hype-or-reality/">Smart Cities: Hype or Reality?</a></h3>
+				<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/tech-tomorrow/"><img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-150x150.webp" alt="" loading="lazy" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-100x100.webp 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />Tech Tomorrow</a></li><li>
+					<button data-mp3="https://frenify.com/work/envato/frenify/wp/mow/videos/podcast/car.mp3">02</button>
+						<p>5 days ago</p>
+						<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/quantum-computing-explained/">Quantum Computing Explained</a></h3>
+				<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/tech-tomorrow/"><img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-150x150.webp" alt="" loading="lazy" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-100x100.webp 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />Tech Tomorrow</a></li><li>
+					<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3">01</button>
+						<p>5 days ago</p>
+						<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/the-rise-of-ai-in-everyday-life/">The Rise of AI in Everyday Life</a></h3>
+				<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/tech-tomorrow/"><img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-150x150.webp" alt="" loading="lazy" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/asian-woman-5450041_1280-100x100.webp 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />Tech Tomorrow</a></li><li>
+					<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3">04</button>
+						<p>5 days ago</p>
+						<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/the-art-of-saying-no/">The Art of Saying No</a></h3>
+				<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/mindful-minutes/"><img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-150x150.jpg" alt="A photographer capturing a scenic mountain view with a camera." loading="lazy" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-150x150.jpg 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-300x300.jpg 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-100x100.jpg 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />Mindful Minutes</a></li><li>
+					<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3">03</button>
+						<p>5 days ago</p>
+						<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/journaling-as-therapy/">Journaling as Therapy</a></h3>
+				<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/mindful-minutes/"><img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-150x150.jpg" alt="A photographer capturing a scenic mountain view with a camera." loading="lazy" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-150x150.jpg 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-300x300.jpg 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-100x100.jpg 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />Mindful Minutes</a></li><li>
+					<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3">02</button>
+						<p>5 days ago</p>
+						<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/digital-detox-for-the-soul/">Digital Detox for the Soul</a></h3>
+				<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/mindful-minutes/"><img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-150x150.jpg" alt="A photographer capturing a scenic mountain view with a camera." loading="lazy" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-150x150.jpg 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-300x300.jpg 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-100x100.jpg 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />Mindful Minutes</a></li><li>
+					<button data-mp3="https://frenify.com/work/envato/frenify/wp/mow/videos/podcast/car.mp3">01</button>
+						<p>5 days ago</p>
+						<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/breathing-through-anxiety/">Breathing Through Anxiety</a></h3>
+				<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/mindful-minutes/"><img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-150x150.jpg" alt="A photographer capturing a scenic mountain view with a camera." loading="lazy" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-150x150.jpg 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-300x300.jpg 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2024/10/5675634565-100x100.jpg 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />Mindful Minutes</a></li><li>
+					<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3">04</button>
+						<p>5 days ago</p>
+						<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/think-fast-think-deep/">Think Fast, Think Deep</a></h3>
+				<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/bookbite-weekly/"><img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-150x150.webp" alt="" loading="lazy" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-100x100.webp 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />BookBite Weekly</a></li><li>
+					<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3">03</button>
+						<p>5 days ago</p>
+						<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/why-we-sleep-key-takeaways/">Why We Sleep – Key Takeaways</a></h3>
+				<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/bookbite-weekly/"><img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-150x150.webp" alt="" loading="lazy" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-100x100.webp 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />BookBite Weekly</a></li><li>
+					<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3">02</button>
+						<p>5 days ago</p>
+						<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/the-psychology-behind-the-alchemist/">The Psychology Behind “The Alchemist”</a></h3>
+				<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/bookbite-weekly/"><img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-150x150.webp" alt="" loading="lazy" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-100x100.webp 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />BookBite Weekly</a></li><li>
+					<button data-mp3="https://frenify.com/work/envato/frenify/wp/popito/1/wp-content/uploads/2024/03/Out-of-Country.mp3">01</button>
+						<p>5 days ago</p>
+						<h3><a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/episode/atomic-habits-in-10-minutes/">Atomic Habits in 10 Minutes</a></h3>
+				<a href="https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcast/bookbite-weekly/"><img width="150" height="150" src="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-150x150.webp" alt="" loading="lazy" decoding="async" srcset="https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-150x150.webp 150w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-300x300.webp 300w, https://frenify.com/work/envato/frenify/wp/mow/podcast2/wp-content/uploads/2025/02/health-100x100.webp 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />BookBite Weekly</a></li></ul>
+							<input type="hidden" value="2">
+							<a href="#">
+								Load More
+							</a>
+					<h3>Advertisement</h3><a href="https://frenify.com/" rel="nofollow" target="_blank" aria-label="/"><img loading="lazy" src="https://frenify.com/work/envato/frenify/wp/mow/news/wp-content/uploads/2025/02/970ads-250.webp" width="auto" height="auto" alt=""></a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Welcome to our website! Explore a world of engaging content, exciting updates, and inspiring stories. Whether you're here for the latest trends, expert advice, or in-depth articles, we have something for everyone. Stay tuned as we bring you fresh, insightful content designed to keep you informed and entertained.]]></excerpt:encoded>
+		<wp:post_id>1267</wp:post_id>
+		<wp:post_date><![CDATA[2025-06-16 04:00:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-06-16 04:00:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-16 04:00:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-16 04:00:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-rtl]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-noblog.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_page_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_page_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[disable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_blogpage_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ws]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_blogpage_secondary_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wsl]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_blogpage_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_coming_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Building Tomorrow, Today]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_coming_desc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[We are crafting a new vision that blends innovation, quality, and design. Stay tuned for the big reveal. Your dream space is about to become a reality. Countdown with us!]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.29.1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"7e3eefe","elType":"container","settings":{"content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[{"id":"3b4eeca","elType":"widget","settings":{"layout":"marquee","marquee_list":[{"_id":"4611e6d","marquee_title":"Featured"},{"marquee_title":"Featured","_id":"e6d82a8"},{"marquee_title":"Featured","_id":"68ee6f9"},{"marquee_title":"Featured","_id":"cad1ebe"},{"marquee_title":"Featured","_id":"68523e6"},{"marquee_title":"Featured","_id":"be83712"},{"marquee_title":"Featured","_id":"8207d62"},{"marquee_title":"Featured","_id":"af56455"},{"marquee_title":"Featured","_id":"3a690a2"}],"marquee_color":"#FC784F","_margin":{"unit":"px","top":"-10","right":"0","bottom":"-19","left":"0","isLinked":false}},"elements":[],"widgetType":"frel-title"}],"isInner":false},{"id":"17491ef","elType":"container","settings":{"content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container"},"elements":[{"id":"7b470af","elType":"widget","settings":{"layout":"delta","blog_post_number":{"unit":"px","size":3,"sizes":[]},"hlight_list":[],"delta_border":"enabled"},"elements":[],"widgetType":"frel-podcasts"}],"isInner":false},{"id":"37d3f6b","elType":"container","settings":{"content_width":"full","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"background_background":"classic","background_color":"#FC784F"},"elements":[{"id":"c21f325","elType":"widget","settings":{"content_width":"full","title":"Stay Informed With the Latest & Most Important News","shortcode":"[mc4wp_form id=314]"},"elements":[],"widgetType":"frel-subscribe"}],"isInner":false},{"id":"4506ebb","elType":"container","settings":{"content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6b22787","elType":"widget","settings":{"layout":"marquee","marquee_list":[{"_id":"4611e6d","marquee_title":"Latest Episodes"},{"marquee_title":"Latest Episodes","_id":"22063bc"},{"marquee_title":"Latest Episodes","_id":"8322e94"},{"marquee_title":"Latest Episodes","_id":"444c692"},{"marquee_title":"Latest Episodes","_id":"650eb54"},{"marquee_title":"Latest Episodes","_id":"b2aaaa0"},{"marquee_title":"Latest Episodes","_id":"779a7d1"},{"marquee_title":"Latest Episodes","_id":"c480a77"},{"marquee_title":"Latest Episodes","_id":"3feeb02"}],"custom_color":"yes","marquee_color":"#FC784F","_margin":{"unit":"px","top":"-10","right":"0","bottom":"-19","left":"0","isLinked":false}},"elements":[],"widgetType":"frel-title"}],"isInner":false},{"id":"16b4f0b","elType":"container","settings":{"content_width":"full","flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0},"margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"css_classes":"container"},"elements":[{"id":"266325d","elType":"widget","settings":{"layout":"beta","pagination_filter":"yes","pagination_pp":{"unit":"px","size":12,"sizes":[]},"load_more_text":"Load More","load_more_custom_color":"yes","load_more_bgcolor":"#080808","load_more_textcolor":"#FFFFFF","hlight_list":[]},"elements":[],"widgetType":"frel-episodes"}],"isInner":false},{"id":"710ed2c","elType":"container","settings":{"content_width":"full","margin":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"flex_gap":{"column":"0","row":"0","isLinked":false,"unit":"px","size":0}},"elements":[{"id":"dfdd807","elType":"widget","settings":{"content_width":"full","show_container":"yes","show_title":"yes","title":"Advertisement","type_image":{"url":"https:\/\/frenify.com\/work\/envato\/frenify\/wp\/mow\/news\/wp-content\/uploads\/2025\/02\/970ads-250.webp","id":1039,"size":"","alt":"","source":"library"},"type_image_url":"https:\/\/frenify.com\/"},"elements":[],"widgetType":"frel-ad"}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mow_fn_blogpage_main_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:7:"scripts";a:1:{i:0;s:18:"elementor-frontend";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"timeout":1750073930,"value":{"content":"<div class=\"elementor-element elementor-element-7e3eefe e-con-full e-flex e-con e-parent\" data-id=\"7e3eefe\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6IjNiNGVlY2EiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJtYXJxdWVlIiwibWFycXVlZV9saXN0IjpbeyJfaWQiOiI0NjExZTZkIiwibWFycXVlZV90aXRsZSI6IkZlYXR1cmVkIn0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiJlNmQ4MmE4In0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiI2OGVlNmY5In0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiJjYWQxZWJlIn0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiI2ODUyM2U2In0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiJiZTgzNzEyIn0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiI4MjA3ZDYyIn0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiJhZjU2NDU1In0seyJtYXJxdWVlX3RpdGxlIjoiRmVhdHVyZWQiLCJfaWQiOiIzYTY5MGEyIn1dLCJtYXJxdWVlX2NvbG9yIjoiI0ZDNzg0RiIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiLTEwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiLTE5IiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-17491ef e-con-full container e-flex e-con e-parent\" data-id=\"17491ef\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6IjdiNDcwYWYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJkZWx0YSIsImJsb2dfcG9zdF9udW1iZXIiOnsidW5pdCI6InB4Iiwic2l6ZSI6Mywic2l6ZXMiOltdfSwiaGxpZ2h0X2xpc3QiOltdLCJkZWx0YV9ib3JkZXIiOiJlbmFibGVkIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtcG9kY2FzdHMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-37d3f6b e-con-full e-flex e-con e-parent\" data-id=\"37d3f6b\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6ImMyMWYzMjUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInRpdGxlIjoiU3RheSBJbmZvcm1lZCBXaXRoIHRoZSBMYXRlc3QgJiBNb3N0IEltcG9ydGFudCBOZXdzIiwic2hvcnRjb2RlIjoiW21jNHdwX2Zvcm0gaWQ9MzE0XSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLXN1YnNjcmliZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-4506ebb e-con-full e-flex e-con e-parent\" data-id=\"4506ebb\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6IjZiMjI3ODciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJtYXJxdWVlIiwibWFycXVlZV9saXN0IjpbeyJfaWQiOiI0NjExZTZkIiwibWFycXVlZV90aXRsZSI6IkxhdGVzdCBFcGlzb2RlcyJ9LHsibWFycXVlZV90aXRsZSI6IkxhdGVzdCBFcGlzb2RlcyIsIl9pZCI6IjIyMDYzYmMifSx7Im1hcnF1ZWVfdGl0bGUiOiJMYXRlc3QgRXBpc29kZXMiLCJfaWQiOiI4MzIyZTk0In0seyJtYXJxdWVlX3RpdGxlIjoiTGF0ZXN0IEVwaXNvZGVzIiwiX2lkIjoiNDQ0YzY5MiJ9LHsibWFycXVlZV90aXRsZSI6IkxhdGVzdCBFcGlzb2RlcyIsIl9pZCI6IjY1MGViNTQifSx7Im1hcnF1ZWVfdGl0bGUiOiJMYXRlc3QgRXBpc29kZXMiLCJfaWQiOiJiMmFhYWEwIn0seyJtYXJxdWVlX3RpdGxlIjoiTGF0ZXN0IEVwaXNvZGVzIiwiX2lkIjoiNzc5YTdkMSJ9LHsibWFycXVlZV90aXRsZSI6IkxhdGVzdCBFcGlzb2RlcyIsIl9pZCI6ImM0ODBhNzcifSx7Im1hcnF1ZWVfdGl0bGUiOiJMYXRlc3QgRXBpc29kZXMiLCJfaWQiOiIzZmVlYjAyIn1dLCJjdXN0b21fY29sb3IiOiJ5ZXMiLCJtYXJxdWVlX2NvbG9yIjoiI0ZDNzg0RiIsIl9tYXJnaW4iOnsidW5pdCI6InB4IiwidG9wIjoiLTEwIiwicmlnaHQiOiIwIiwiYm90dG9tIjoiLTE5IiwibGVmdCI6IjAiLCJpc0xpbmtlZCI6ZmFsc2V9fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZnJlbC10aXRsZSJ9\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-16b4f0b e-con-full container e-flex e-con e-parent\" data-id=\"16b4f0b\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6IjI2NjMyNWQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJsYXlvdXQiOiJiZXRhIiwicGFnaW5hdGlvbl9maWx0ZXIiOiJ5ZXMiLCJwYWdpbmF0aW9uX3BwIjp7InVuaXQiOiJweCIsInNpemUiOjEyLCJzaXplcyI6W119LCJsb2FkX21vcmVfdGV4dCI6IkxvYWQgTW9yZSIsImxvYWRfbW9yZV9jdXN0b21fY29sb3IiOiJ5ZXMiLCJsb2FkX21vcmVfYmdjb2xvciI6IiMwODA4MDgiLCJsb2FkX21vcmVfdGV4dGNvbG9yIjoiI0ZGRkZGRiIsImhsaWdodF9saXN0IjpbXX0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImZyZWwtZXBpc29kZXMifQ==\"]\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-710ed2c e-con-full e-flex e-con e-parent\" data-id=\"710ed2c\" data-element_type=\"container\">\n\t\t[elementor-element k=\"c55365d65ff1175a028a7b3d9ac77358\" data=\"eyJpZCI6ImRmZGQ4MDciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNob3dfY29udGFpbmVyIjoieWVzIiwic2hvd190aXRsZSI6InllcyIsInRpdGxlIjoiQWR2ZXJ0aXNlbWVudCIsInR5cGVfaW1hZ2UiOnsidXJsIjoiaHR0cHM6XC9cL2ZyZW5pZnkuY29tXC93b3JrXC9lbnZhdG9cL2ZyZW5pZnlcL3dwXC9tb3dcL25ld3NcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjVcLzAyXC85NzBhZHMtMjUwLndlYnAiLCJpZCI6MTAzOSwic2l6ZSI6IiIsImFsdCI6IiIsInNvdXJjZSI6ImxpYnJhcnkifSwidHlwZV9pbWFnZV91cmwiOiJodHRwczpcL1wvZnJlbmlmeS5jb21cLyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJmcmVsLWFkIn0=\"]\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Hello world!]]></title>
+		<link>https://frenify.com/work/envato/frenify/wp/mow/podcast2/?p=1</link>
+		<pubDate>Tue, 03 Jun 2025 10:01:53 +0000</pubDate>
+		<dc:creator><![CDATA[frenify]]></dc:creator>
+		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/podcast2/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2025-06-03 10:01:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-06-03 10:01:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-11 11:41:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-11 11:41:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1749642100]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2025-06-03 10:01:53]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2025-06-03 10:01:53]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
 		<title><![CDATA[Foods Recommended by Doctors to Boost Your Immune System Naturally]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/podcast2/the-absolutely-ridiculous-history/</link>
 		<pubDate>Sat, 05 Oct 2024 09:49:57 +0000</pubDate>
@@ -18871,185 +19227,6 @@ Pernais: Yes. Always.]]></content:encoded>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Podcasts]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/podcast2/podcasts/</link>
-		<pubDate>Tue, 03 Jun 2025 10:16:42 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/podcast2/?page_id=1180</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Discover engaging conversations, expert interviews, and trending stories across a wide range of topics—all in one place.]]></excerpt:encoded>
-		<wp:post_id>1180</wp:post_id>
-		<wp:post_date><![CDATA[2025-06-03 10:16:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-06-03 10:16:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-06-03 10:16:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-06-03 10:16:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[podcasts]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-podcast.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_page_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[contained]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_page_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[enable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_blogpage_main_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_blogpage_secondary_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[disable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_blogpage_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_coming_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Building Tomorrow, Today]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_coming_desc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[We are crafting a new vision that blends innovation, quality, and design. Stay tuned for the big reveal. Your dream space is about to become a reality. Countdown with us!]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Episodes]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/podcast2/episodes/</link>
-		<pubDate>Tue, 03 Jun 2025 10:17:24 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/podcast2/?page_id=1182</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Browse the latest episodes featuring fresh insights, compelling stories, and meaningful conversations across topics.]]></excerpt:encoded>
-		<wp:post_id>1182</wp:post_id>
-		<wp:post_date><![CDATA[2025-06-03 10:17:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-06-03 10:17:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-06-03 10:17:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-06-03 10:17:26]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[episodes]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-episode.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_page_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[contained]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_page_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[enable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_blogpage_main_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wsr]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_blogpage_secondary_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[disable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_blogpage_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_coming_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Building Tomorrow, Today]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mow_fn_coming_desc]]></wp:meta_key>
-		<wp:meta_value><![CDATA[We are crafting a new vision that blends innovation, quality, and design. Stay tuned for the big reveal. Your dream space is about to become a reality. Countdown with us!]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://frenify.com/work/envato/frenify/wp/mow/podcast2/?p=1</link>
-		<pubDate>Tue, 03 Jun 2025 10:01:53 +0000</pubDate>
-		<dc:creator><![CDATA[frenify]]></dc:creator>
-		<guid isPermaLink="false">https://frenify.com/work/envato/frenify/wp/mow/podcast2/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2025-06-03 10:01:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-06-03 10:01:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-06-11 11:41:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-06-11 11:41:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1749642100]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2025-06-03 10:01:53]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2025-06-03 10:01:53]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
 					<item>
 		<title><![CDATA[Smartphone Hacks Everyone Needs to Know to Extend Battery Life]]></title>
 		<link>https://frenify.com/work/envato/frenify/wp/mow/podcast2/do-you-need-to-change-yourself/</link>
@@ -20088,7 +20265,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[frenify_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6950]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6951]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mow_fn_vote_up]]></wp:meta_key>
